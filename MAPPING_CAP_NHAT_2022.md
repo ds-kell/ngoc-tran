@@ -131,6 +131,8 @@ Nguồn mới: **PL3-2** (các dòng 1A1ai→1A4c, xem Bảng tổng hợp PL3-2
 
 #### (d) Bảng 4 — Chi tiết nguồn 2B (2020 → 2022)
 
+> ⚠️ Bảng 4 của file này tiêu đề ghi "Công nghiệp hóa chất (2B)" nhưng nội dung kiểm kê năng lượng; cần kiểm tra lại bản gốc. Nếu là nội dung IPPU thì dùng **PL3-2 dòng 2B1/2B2/2B5**.
+
 #### (e) Câu văn cần sửa
 
 | Dòng | 2020 (cũ) | **2022 (mới)** |
@@ -989,3 +991,233 @@ Cập nhật theo số liệu hoạt động 2022 (nếu có trong IPPU-22):
 4. **Cấu trúc lĩnh vực 2022 (BTR1)**: 5 lĩnh vực (Năng lượng, IPPU, Nông nghiệp, LULUCF, Chất thải) — khác 2020 (Năng lượng, IPPU, AFOLU, Chất thải). Khi cập nhật file AFOLU (CĐ3, CĐ8, CĐ17) cần tách thành Nông nghiệp + LULUCF.
 5. **Mã nguồn**: Chất thải 2022 đổi 4A/4B/4C/4D → 5A/5B/5C1/5C2/5D1/5D2; Nông nghiệp tách 3A1–3A4 (tiêu hóa), 3B1–3B5 (QLCT), 3C (lúa), 3D (đất), 3F (đốt phụ phẩm), 3G (vôi), 3H (urê); LULUCF dùng 4A–4F, 4(II), 4(IV).
 6. **Số nguồn chính**: 2020 = 39 nguồn (4 lĩnh vực); 2022 = **30 nguồn chính (không gồm LULUCF) / 36 nguồn chính (gồm LULUCF)** trong 132/166 nguồn được tính. Mọi câu văn "N nguồn → M nguồn chính" cần sửa tương ứng.
+
+---
+
+## 11. THAM CHI TIẾT TỪ 5 BÁO CÁO CHUYÊN ĐỀ 2022
+
+> **Mục đích**: Mỗi CĐ file cần được cập nhật bằng data thực tế từ 5 báo cáo chuyên đề 2022, không chỉ dựa vào BTR1. Bảng dưới đây ghi rõ: Bảng nào trong báo cáo nào → dùng cho CĐ nào → dòng nào trong file trích xuất (.txt).
+
+### 11.1. Bảng mã hóa báo cáo
+
+| Ký hiệu | File trích xuất (.txt) | File gốc (.docx) |
+|---------|----------------------|-------------------|
+| **NL-22** | `bcd/2025-4-29. IE. Bao cao KKQG KNK nam 2021, 2022_nang luong.txt` | `bao cao chuyen de/2025-4-29. IE. Bao cao KKQG KNK nam 2021, 2022_nang luong.docx` |
+| **CT-22** | `bcd/CHAT THAI- BAO CAO KET QUA KIEM KE 2021 2022 11.09.2025.txt` | `bao cao chuyen de/CHAT THAI- BAO CAO KET QUA KIEM KE 2021 2022 11.09.2025.docx` |
+| **NN-22** | `bcd/BAO CAO KET QUA KIEM KE Nông nghiệp 2021 2022 01.12.2025.txt` | `bao cao chuyen de/BAO CAO KET QUA KIEM KE Nông nghiệp 2021 2022 01.12.2025.docx` |
+| **LULUCF-22** | `bcd/Bao cao LULUCF 2021 2022 V1.txt` | `bao cao chuyen de/Bao cao LULUCF 2021 2022 V1.docx` |
+| **IPPU-22** | `bcd/Báo cáo KK KNK 2021-2022_IPPU_ver0811.txt` | `bao cao chuyen de/Báo cáo KK KNK 2021-2022_IPPU_ver0811.docx` |
+
+> Tất cả file trích xuất nằm trong `/var/folders/tk/rcpklbx95bsdk49r5dw7c1f80000gn/T/opencode/`
+
+---
+
+### 11.2. NL-22 (Năng lượng) — Bảng tham chiếu cho CĐ1, CĐ6, CĐ15
+
+| Bảng NL-22 | Dòng txt | Nội dung | Giá trị 2022 chính | Dùng cho CĐ |
+|------------|---------|----------|-------------------|-------------|
+| **Bảng 2** | 272–347 | Tổng phát thải NL theo nguồn IPCC 2022 | Tổng NL = **272,025.14** GgCO2e | CĐ1 (Bảng 1), CĐ6 (Bảng 1), CĐ15 (Bảng 1.2) |
+| **Bảng 4** | 417–469 | Tiêu thụ nhiên liệu CN năng lượng 2022 (KTOE) | Than 22,420 + 3,873; Khí 4,998 | CĐ15 (bảng tiêu thụ NL) |
+| **Bảng 5** | 472–518 | Hệ số phát thải nhiên liệu CN năng lượng (Kg/TJ) | CO2/CH4/N2O theo loại nhiên liệu | CĐ15 (hệ số PT) |
+| **Bảng 7** | 564–606 | Phát thải CN năng lượng 2022 | 1A1 = **124,704.01**; 1A1a = 120,279.19 | CĐ1 (Bảng 3), CĐ6 (chi tiết 1A1) |
+| **Bảng 9** | 716–813 | Tiêu thụ nhiên liệu CN sx+xây dựng 2022 (KTOE) | Khoáng phi kim: than 10,654 | CĐ15 |
+| **Bảng 10** | 816–853 | Hệ số phát thải CN sx+xây dựng | CO2/CH4/N2O theo loại NL | CĐ15 |
+| **Bảng 12** | 947–1037 | Phát thải CN sx+xây dựng 2022 | 1A2 = **81,805.89**; 1A2f = 46,190.95 | CĐ1 (Bảng 3), CĐ6 (chi tiết 1A2) |
+| **Bảng 14** | 1096–1130 | Tiêu thụ nhiên liệu GTVT 2022 (KTOE) | Xăng 7,147; Dầu 5,454; Dầu bay 1,130 | CĐ15 |
+| **Bảng 15** | 1133–1174 | Hệ số phát thải GTVT (Kg/TJ) | CH4/N2O phân biệt đường bộ/đường sắt | CĐ15 |
+| **Bảng 17** | 1219–1260 | Phát thải GTVT 2022 | 1A3 = **45,595.89**; 1A3b = 38,479.36 | CĐ1 (Bảng 3), CĐ6 (chi tiết 1A3) |
+| **Bảng 19** | 1299–1334 | Phát thải lĩnh vực khác 2022 | 1A4 = **15,229.81**; 1A4b = 6,375.62; 1A4c = 7,690.04 | CĐ1 (Bảng 3), CĐ6 (chi tiết 1A4) |
+| **Bảng 30** | 1605–1664 | Phát thải khai thác than + chuyển hóa NL 2022 | 1B1 = **1,702.74**; 1B1ai = 1,305.99 | CĐ1 (Bảng 3), CĐ6 (chi tiết 1B1) |
+| **Bảng 32** | 1682–1691 | Sản lượng than 2022 (Kt) | Hầm lò 29,913; Lộ thiên 19,942 | CĐ15 (số liệu hoạt động) |
+| **Bảng 34** | 1758–1787 | Phát thải hệ thống dầu-khí 2022 | 1B2 = **2,986.80**; 1B2a = 773.92; 1B2b = 2,212.89 | CĐ1 (Bảng 3), CĐ6 (chi tiết 1B2) |
+
+---
+
+### 11.3. CT-22 (Chất thải) — Bảng tham chiếu cho CĐ2, CĐ7, CĐ16
+
+| Bảng CT-22 | Dòng txt | Nội dung | Giá trị 2022 chính | Dùng cho CĐ |
+|------------|---------|----------|-------------------|-------------|
+| **Bảng 1.1** | 439–543 | **MASTER**: Tổng phát thải CT theo nguồn + loại khí 2021/2022 | Tổng CT = **37,417.89** GgCO2e | CĐ2 (Bảng 1), CĐ7 (Bảng 1), CĐ16 (Bảng 1.1) |
+| — | — | 4A Chôn lấp | **22,718.35** (CH4 811.37 Gg) | CĐ2, CĐ7, CĐ16 |
+| — | — | 4B Xử lý sinh học | **554.10** (CH4 12.62 + N2O 0.76) | CĐ2, CĐ7, CĐ16 |
+| — | — | 4C1 Thiêu đốt | **2,067.58** (CO2 2,036.72) | CĐ2, CĐ7, CĐ16 |
+| — | — | 4C2 Đốt lộ thiên | **1,478.12** (CO2 1,117.49 + CH4 11.32) | CĐ2, CĐ7, CĐ16 |
+| — | — | 4D1 Nước thải sinh hoạt | **5,726.90** (CH4 203.76) | CĐ2, CĐ7, CĐ16 |
+| — | — | 4D2 Nước thải CN | **4,872.84** (CH4 171.02) | CĐ2, CĐ7, CĐ16 |
+| **Bảng 1.5** | 1133–1163 | Thu gom + xử lý CT 2021/2022 | Thu gom 13,081,154 tấn; Đạt TCVN 81% | CĐ16 (số liệu hoạt động) |
+| **Bảng 1.7** | 1381–1523 | Tổng CT chôn lấp urban 1990–2022 | Chôn lấp = 8,372,249 tấn | CĐ16 (số liệu hoạt động) |
+| **Bảng 1.10** | 2177–2321 | Tổng CT chôn lấp urban + rural 2022 | **14,793,908 tấn** | CĐ16 |
+| **Bảng 1.14** | 2467–2569 | Thành phần CT 2014–2022 | Hữu cơ 57.7%, Plastic 32.4% | CĐ16 (thành phần CT) |
+| **Bảng 1.15** | 2621–2833 | Phân bố loại bãi chôn lấp + MCF 1990–2022 | MCF trung bình = 0.67 | CĐ16 (tham số MCF) |
+| **Bảng 1.19** | 3035–3074 | **Kết quả PT xử lý sinh học 2021/2022** | 4B = **554.10** GgCO2e | CĐ2, CĐ16 |
+| **Bảng 1.22** | 3403–3419 | Tổng CT đốt (urban MSW + BVYT) 2021/2022 | Đốt = 1,620,722 tấn | CĐ16 |
+| **Bảng 1.24** | 3457–3493 | Đốt lộ thiên 2016–2022 | Tổng = 1,741,769 tấn | CĐ16 |
+| **Bảng 1.28** | 3645–3681 | **Kết quả PT đốt có kiểm soát 2021/2022** | 4C1 = **2,067.58** GgCO2e | CĐ2, CĐ16 |
+| **Bảng 1.29** | 3686–3743 | **Kết quả PT đốt lộ thiên 2021/2022** | 4C2 = **1,478.12** GgCO2e | CĐ2, CĐ16 |
+| **Bảng 1.33** | 4617–4654 | **PT nước thải sinh hoạt 2021/2022** | 4D1: CH4 203.76 Gg; N2O 1.87 Gg | CĐ2, CĐ16 |
+| **Bảng 1.34** | 4657–4713 | **PT nước thải CN 2021/2022** | 4D2: CH4 171.02 Gg; N2O 0.32 Gg | CĐ2, CĐ16 |
+
+> ⚠️ **Lưu ý bất thường #5**: Bảng 1.33 ghi N2O = 1.87 Gg nhưng Bảng 1.1 ghi N2O = 0.08 Gg. Dùng **0.08 Gg** (khớp BTR1 Bảng 2.20).
+
+---
+
+### 11.4. NN-22 (Nông nghiệp) — Bảng tham chiếu cho CĐ3, CĐ8, CĐ17
+
+| Bảng NN-22 | Dòng txt | Nội dung | Giá trị 2022 chính | Dùng cho CĐ |
+|------------|---------|----------|-------------------|-------------|
+| **Bảng 3** | 674–860 | **MASTER**: Tổng phát thải NLTS theo nguồn IPCC 2022 | Tổng NN = **83,279.15** GgCO2e | CĐ3 (Bảng 1), CĐ8 (Bảng 1), CĐ17 (Bảng 2.1) |
+| **Bảng 4** | 861–1121 | Tổng phát thải NLTS 2022 theo loại khí (Gg) | CO2=1,981; CH4=2,353; N2O=58 | CĐ3, CĐ8 |
+| **Bảng 5** | 1143–1178 | Đàn gia súc 2021/2022 | Bò sữa 325,200; Bò thịt 6,027,900; Trâu 2,231,100 | CĐ17 (số liệu hoạt động) |
+| **Bảng 8** | 1247–1276 | **PT lên men削减 2022** | 3A1 = **15,697.86** GgCO2e (bò thịt 9,114; trâu 4,748) | CĐ3, CĐ8, CĐ17 |
+| **Bảng 19** | 1814–1895 | **PT QLCT CH4 2022** | 3A2 CH4 = **3,850.57** GgCO2e (lợn 2,841) | CĐ3, CĐ8, CĐ17 |
+| **Bảng 25** | 2163–2180 | **PT QLCT N2O trực tiếp 2022** | 3A2 N2O = **1,837.43** GgCO2e | CĐ3, CĐ17 |
+| **Bảng 31** | 2435–2449 | **PT Đốt sinh khối ngoài đồng 2022** | 3F = **2,190.35** GgCO2e | CĐ3, CĐ17 |
+| **Bảng 33** | 2519–2543 | Tiêu thụ N 2022 (hoạt động) | Tổng N = 1,444,167 tấn | CĐ17 (số liệu hoạt động) |
+| **Bảng 38** | 2737–2764 | **PT N2O trực tiếp của đất 2022** | 3D1 = **8,646.58** GgCO2e | CĐ3, CĐ17 |
+| **Bảng 42** | 2827–2841 | **PT N2O gián tiếp của đất 2022** | 3D2 = **4,159.07** GgCO2e | CĐ3, CĐ17 |
+| **Bảng 45** | 3046–3063 | **PT N2O gián tiếp QLCT 2022** | 3C6 = **263.80** GgCO2e | CĐ3, CĐ17 |
+| **Bảng 52** | 3499–3526 | **PT canh tác lúa CH4 2022** | 3C = **44,567.83** GgCO2e (tràn ngập 36,311) | CĐ3, CĐ8, CĐ17 |
+
+> **Lưu ý**: NN-22 dùng mã IPCC khác BTR1: 3A1=tiêu hóa, 3A2=QLCT CH4, 3A2 N2O=QLCT N2O, 3C1=đốt SB, 3C2=vôi, 3C3=urê, 3C4=N2O trực tiếp, 3C5=N2O gián tiếp, 3C6=N2O gián tiếp QLCT, 3C7=lúa. BTR1 dùng: 3A (tiêu hóa), 3B (QLCT), 3C (lúa), 3D (đất), 3F (đốt SB), 3G (vôi), 3H (urê).
+
+---
+
+### 11.5. LULUCF-22 (LULUCF) — Bảng tham chiếu cho CĐ3, CĐ8, CĐ17
+
+| Bảng LULUCF-22 | Dòng txt | Nội dung | Giá trị 2022 chính | Dùng cho CĐ |
+|----------------|---------|----------|-------------------|-------------|
+| **Bảng 2.4** | 976–1144 | Ma trận chuyển đổi đất 2012–2022 (ha) | Rừng 15,035,523; Lúa 3,928,382 | CĐ17 (số liệu hoạt động) |
+| **Bảng 2.8** | 1502–1537 | Diện tích rừng nguyên trạng 2022 | **13,364,050 ha** | CĐ17 |
+| **Bảng 2.10** | 1664–1692 | **Kết quả gain-loss rừng nguyên trạng (kt CO2)** | 2022: **-39,840.58** | CĐ17 (Bảng 2.1) |
+| **Bảng 2.11** | 1715–1736 | **PT rừng nguyên trạng (kt CO2eq)** | 2022: **-39,840.58** | CĐ3, CĐ17 |
+| **Bảng 2.12** | 1753–1970 | Diện tích chuyển thành rừng 2020–2022 | **1,671,473 ha** (CĐ→R 609,436; Cỏ→R 750,607) | CĐ17 |
+| **Bảng 2.15** | 2069–2137 | **PT đất chuyển thành rừng (kt CO2eq)** | 2022: **-8,257.04** (CĐ→R -1,895; Cỏ→R -4,223) | CĐ3, CĐ17 |
+| **Bảng 2.16** | 2139–2178 | **TỔNG PT Rừng (kt CO2eq)** | 2022: **-48,097.63** (Nguyên trạng -39,841; Chuyển -8,257) | CĐ3, CĐ17 |
+| **Bảng 2.26** | 2554–2575 | **TỔNG PT Đất trồng trọt (kt CO2eq)** | 2022: **-2,329.88** | CĐ3, CĐ17 |
+| **Bảng 2.33** | 2804–2829 | **TỔNG PT Đất cỏ (kt CO2eq)** | 2022: **125.96** | CĐ3, CĐ17 |
+| **Bảng 2.39** | 3084–3123 | **TỔNG PT Đất ngập nước (kt CO2eq)** | 2022: **240.46** | CĐ3, CĐ17 |
+| **Bảng 2.44** | 3308–3347 | **TỔNG PT Đất ở (kt CO2eq)** | 2022: **449.75** | CĐ3, CĐ17 |
+| **Bảng 2.49** | 3526–3565 | **TỔNG PT Đất khác (kt CO2eq)** | 2022: **1,546.59** | CĐ3, CĐ17 |
+| **Bảng 2.59** | 4026–4197 | **MASTER LULUCF 2021** | Tổng = -47,521.33 | CĐ17 (QA so sánh) |
+| **Bảng 2.60** | 4201–4372 | **MASTER LULUCF 2022** | Tổng = **-48,064.75** | CĐ3, CĐ8, CĐ17 |
+
+---
+
+### 11.6. IPCC-22 (IPPU) — Bảng tham chiếu cho CĐ4, CĐ9, CĐ18
+
+| Bảng IPCC-22 | Dòng txt | Nội dung | Giá trị 2022 chính | Dùng cho CĐ |
+|-------------|---------|----------|-------------------|-------------|
+| **Bảng 4.2** | 461–737 | **MASTER**: Tổng phát thải IPPU 2022 theo nguồn IPCC | Tổng IPPU = **81,456.33** GgCO2e | CĐ4 (Bảng 1), CĐ9 (Bảng 1), CĐ18 (Bảng 1.27) |
+| — | — | 2A1 Xi măng | **41,483.03** (CO2) | CĐ4, CĐ9, CĐ18 |
+| — | — | 2A2 Vôi | **1,769.55** (CO2) | CĐ4, CĐ9, CĐ18 |
+| — | — | 2A3 Thủy tinh | **592.14** (CO2) | CĐ4, CĐ9, CĐ18 |
+| — | — | 2A4 Cacbonat khác | **567.14** (CO2) | CĐ4, CĐ9, CĐ18 |
+| — | — | 2B1 Amoniac | **2,089.47** (CO2) | CĐ4, CĐ9, CĐ18 |
+| — | — | 2B2 Axit nitric | **31.80** (N2O) | CĐ4, CĐ9, CĐ18 |
+| — | — | 2B5 Silic cacbua | **176.69** (CO2 157.2 + CH4 19.49) | CĐ4, CĐ9, CĐ18 |
+| — | — | 2C1 Sắt thép | **23,962.42** (CO2) | CĐ4, CĐ9, CĐ18 |
+| — | — | 2D1 Bôi trơn | **56.00** (CO2) | CĐ4, CĐ9, CĐ18 |
+| — | — | 2F HFCs | **10,728.09** | CĐ4, CĐ9, CĐ18 |
+| **Bảng 4.3** | 758–766 | Sản lượng xi măng 2022 | **100,000** (nghìn tấn) | CĐ18 (số liệu hoạt động) |
+| **Bảng 4.4** | 769–777 | Sản lượng clinke 2022 | **79,015.30** (nghìn tấn) | CĐ18 |
+| **Bảng 4.6** | 815–823 | Sản lượng vôi 2022 | **2,350,000** (tấn) | CĐ18 |
+| **Bảng 4.7** | 846–852 | Sản lượng thủy tinh 2022 | **241** (triệu m2) | CĐ18 |
+| **Bảng 4.9** | 886–895 | Đất sét cho gạch ceramic 2022 | 4,869.38 (nghìn tấn) + carbonate 292.16 | CĐ18 |
+| **Bảng 4.12** | 949–955 | Sản lượng amoniac 2022 | **1,622,160** (tấn) | CĐ18 |
+| **Bảng 4.14** | 976–988 | NH3 theo nhiên liệu 2022 | Than 507,835; Khí 1,114,326 | CĐ18 |
+| **Bảng 4.18** | 1049–1089 | CO2 từ amoniac 2022 | Than 1,661.89; Khí 2,344.26 | CĐ18 |
+| **Bảng 4.20** | 1106–1129 | CO2 amoniac → khí quyển 2022 | Urea 2,613,650 tấn; CO2 phát thải = **2,089.47** | CĐ18 |
+| **Bảng 4.24** | 1250–1290 | PT Silic cacbua 2021/2022 | 60,000 tấn SiC; CO2 157.2; CH4 0.696 | CĐ18 |
+| **Bảng 4.25** | 1299–1308 | Thép thô theo công nghệ 2022 | BOF 9,524; EAF 7,317 | CĐ18 |
+| **Bảng 4.27** | 1334–1349 | **PT sắt thép 2022** | BOF 23,523; EAF 439; Tổng = **23,962.42** | CĐ18 |
+| **Bảng 4.29** | 1372–1378 | PT dầu bôi trơn 2022 | **56.00** GgCO2e | CĐ18 |
+| **Bảng 4.32** | 1430–1490 | Tiêu thụ HFC theo loại 2022 | Tổng = 5,604,662 tấn | CĐ18 |
+| **Bảng 4.34** | 1539–1599 | **PT HFC 2021/2022** | Tổng = **10,728.09** GgCO2e (HFC-134a 3,085; 410A 2,886; 404A 2,777) | CĐ4, CĐ18 |
+
+---
+
+### 11.7. Tóm tắt: CĐ nào cần báo cáo nào
+
+| CĐ file | Nhóm | Báo cáo dùng chính | Báo cáo phụ | Bảng cụ thể |
+|---------|------|-------------------|-------------|-------------|
+| **CĐ1** (4.1 NL) | 4.x | BTR1 Bảng 2.16, 2.9 | **NL-22** Bảng 2, 7, 12, 17, 19, 30, 34 | PL3-2 (độ KCC) |
+| **CĐ2** (4.2 CT) | 4.x | BTR1 Bảng 2.20, 2.9 | **CT-22** Bảng 1.1, 1.19, 1.28, 1.29, 1.33, 1.34 | PL3-2 (độ KCC) |
+| **CĐ3** (4.3 AFOLU) | 4.x | BTR1 Bảng 2.18, 2.19, 2.9 | **NN-22** Bảng 3, 8, 19, 25, 31, 38, 42, 45, 52 + **LULUCF-22** Bảng 2.59, 2.60 | PL3-1 (độ KCC) |
+| **CĐ4** (4.4 IPPU) | 4.x | BTR1 Bảng 2.17, 2.9 | **IPPU-22** Bảng 4.2, 4.34 | PL3-2 (độ KCC) |
+| **CĐ5** (4.5 QG) | 4.x | BTR1 Bảng 2.14, 2.9, 2.10 | NL-22 + CT-22 + NN-22 + LULUCF-22 + IPPU-22 (master) | PL3-1 + PL3-2 |
+| **CĐ6** (5.1 NL) | 5.x | **NL-22** Bảng 2, 7, 12, 17, 19, 30, 34 | BTR1 Bảng 2.5 (30 nguồn chính) | — |
+| **CĐ7** (5.2 CT) | 5.x | **CT-22** Bảng 1.1 | BTR1 Bảng 2.5 (30 nguồn chính) | — |
+| **CĐ8** (5.3 AFOLU) | 5.x | **NN-22** Bảng 3, 8, 19, 52 + **LULUCF-22** Bảng 2.60 | BTR1 Bảng 2.5 (30 nguồn chính) | — |
+| **CĐ9** (5.4 IPPU) | 5.x | **IPPU-22** Bảng 4.2 | BTR1 Bảng 2.5 (30 nguồn chính) | — |
+| **CĐ10** (5.5 QG) | 5.x | BTR1 Bảng 2.5, 2.6 | NL-22 + CT-22 + NN-22 + LULUCF-22 + IPPU-22 | — |
+| **CĐ15** (7.1 NL) | 7.x | **NL-22** Bảng 2, 4, 5, 7, 9, 10, 12, 14, 15, 17, 19, 30, 32, 34 | BTR1 Bảng 2.14 | — |
+| **CĐ16** (7.2 CT) | 7.x | **CT-22** Bảng 1.1, 1.5, 1.7, 1.10, 1.14, 1.15, 1.19, 1.22, 1.24, 1.28, 1.29, 1.33, 1.34 | BTR1 Bảng 2.20 | — |
+| **CĐ17** (7.3 AFOLU) | 7.x | **NN-22** Bảng 3, 5, 8, 19, 25, 31, 33, 38, 42, 45, 52 + **LULUCF-22** Bảng 2.4, 2.8, 2.10, 2.11, 2.12, 2.15, 2.16, 2.26, 2.33, 2.39, 2.44, 2.49, 2.60 | BTR1 Bảng 2.18, 2.19 | — |
+| **CĐ18** (7.4 IPPU) | 7.x | **IPPU-22** Bảng 4.2–4.34 (tất cả) | BTR1 Bảng 2.17 | — |
+
+---
+
+### 11.8. Số liệu hoạt động 2022 từ báo cáo chuyên đề (dùng cho CĐ15–CĐ18)
+
+> CĐ15–CĐ18 chứa cả số liệu hoạt động (sản lượng, tiêu thụ nhiên liệu, số gia súc, diện tích canh tác…). Dưới đây là danh sách số liệu hoạt động 2022 cần cập nhật từ 5 báo cáo chuyên đề.
+
+#### Năng lượng (CĐ15) — từ NL-22
+
+| Chỉ tiêu | 2022 | Nguồn NL-22 |
+|----------|------|------------|
+| Tiêu thụ than CN năng lượng (KTOE) | Anthracite 22,420; Sub-bitum 3,873 | Bảng 4 (dòng 417–469) |
+| Tiêu thụ khí tự nhiên CN năng lượng (KTOE) | 4,998 | Bảng 4 |
+| Tiêu thụ nhiên liệu GTVT (KTOE) | Xăng 7,147; Dầu 5,454; Dầu bay 1,130 | Bảng 14 (dòng 1096–1130) |
+| Sản lượng than (Kt) | Hầm lò 29,913; Lộ thiên 19,942 | Bảng 32 (dòng 1682–1691) |
+| Hệ số phát thải (Kg/TJ) | Theo loại NL | Bảng 5, 10, 15, 22, 25, 28 |
+
+#### Chất thải (CĐ16) — từ CT-22
+
+| Chỉ tiêu | 2022 | Nguồn CT-22 |
+|----------|------|------------|
+| Thu gom CT (tấn) | 13,081,154 | Bảng 1.5 (dòng 1133–1163) |
+| Đạt TCVN (%) | 81.0% | Bảng 1.5 |
+| CT chôn lấp urban (tấn) | 8,372,249 | Bảng 1.7 (dòng 1381–1523) |
+| CT chôn lấp total (tấn) | 14,793,908 | Bảng 1.10 (dòng 2177–2321) |
+| Thành phần CT | Hữu cơ 57.7%, Plastic 32.4% | Bảng 1.14 (dòng 2467–2569) |
+| MCF trung bình | 0.67 | Bảng 1.15 (dòng 2621–2833) |
+| Xử lý sinh học (tấn) | Urban 2,813,789; Rural 341,676 | Bảng 1.18 (dòng 2975–3020) |
+| Đốt có kiểm soát (tấn) | 1,620,722 | Bảng 1.22 (dòng 3403–3419) |
+| Đốt lộ thiên (tấn) | 1,741,769 | Bảng 1.24 (dòng 3457–3493) |
+
+#### Nông nghiệp (CĐ17) — từ NN-22
+
+| Chỉ tiêu | 2022 | Nguồn NN-22 |
+|----------|------|------------|
+| Đàn bò sữa (con) | 325,200 | Bảng 5 (dòng 1143–1178) |
+| Đàn bò thịt (con) | 6,027,900 | Bảng 5 |
+| Đàn trâu (con) | 2,231,100 | Bảng 5 |
+| Đàn lợn (con) | 24,745,400 | Bảng 5 |
+| EF tiêu hóa (kg/con/năm) | Sữa 78; Thịt 54; Trâu 76; Lợn 1 | Bảng 6 (dòng 1183–1212) |
+| Tiêu thụ N (tấn) | 1,444,167 | Bảng 33 (dòng 2519–2543) |
+| Diện tích lúa (ha) | 7,108,900 | Bảng 47 (dòng 3200–3316) |
+
+#### LULUCF (CĐ17) — từ LULUCF-22
+
+| Chỉ tiêu | 2022 | Nguồn LULUCF-22 |
+|----------|------|----------------|
+| Diện tích rừng nguyên trạng (ha) | 13,364,050 | Bảng 2.8 (dòng 1502–1537) |
+| Diện tích chuyển thành rừng (ha) | 1,671,473 | Bảng 2.12 (dòng 1753–1970) |
+| Sản lượng khai thác gỗ (m3) | 20,119,100 | Bảng 2.6 (dòng 1429–1464) |
+| Diện tích cháy rừng (ha) | 41.4 | Bảng 2.6 |
+| Ma trận chuyển đổi đất | Chi tiết | Bảng 2.4 (dòng 976–1144) |
+
+#### IPPU (CĐ18) — từ IPCC-22
+
+| Chỉ tiêu | 2022 | Nguồn IPCC-22 |
+|----------|------|--------------|
+| Sản lượng xi măng (nghìn tấn) | 100,000 | Bảng 4.3 (dòng 758–766) |
+| Sản lượng clinke (nghìn tấn) | 79,015 | Bảng 4.4 (dòng 769–777) |
+| Sản lượng vôi (tấn) | 2,350,000 | Bảng 4.6 (dòng 815–823) |
+| Sản lượng thủy tinh (triệu m2) | 241 | Bảng 4.7 (dòng 846–852) |
+| Sản lượng amoniac (tấn) | 1,622,160 | Bảng 4.12 (dòng 949–955) |
+| Thép thô BOF (nghìn tấn) | 9,524 | Bảng 4.25 (dòng 1299–1308) |
+| Thép thô EAF (nghìn tấn) | 7,317 | Bảng 4.25 |
+| Tiêu thụ HFC (tấn) | 5,604,662 | Bảng 4.32 (dòng 1430–1490) |
+| Tiêu thụ dầu bôi trơn (TJ) | 3,818 | Bảng 4.28 (dòng 1361–1367) |
+| Sản lượng SiC (tấn) | 60,000 | Bảng 4.24 (dòng 1250–1290) |
