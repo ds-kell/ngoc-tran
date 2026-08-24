@@ -1,0 +1,488 @@
+SOURCE: D:\NgocTran\phase1\_work_knk_2022\CĐ4_4.4 Độ không chắc chắn _ IPPU.docx
+PARAGRAPHS=424 TABLES=8 SECTIONS=2
+
+P0000 [Normal] BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG
+P0001 [Normal] CỤC BIẾN ĐỔI KHÍ HẬU
+P0002 [Normal] Nhiệm vụ “Kiểm kê khí nhà kính cấp quốc gia”
+P0009 [Normal] BÁO CÁO 4.4
+P0010 [Normal] ĐÁNH GIÁ ĐỘ KHÔNG CHẮC CHẮN KIỂM KÊ KNK TRONG LĨNH VỰC IPPU
+P0020 [Normal] Hà Nội, 2026
+P0021 [Normal] BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG
+P0022 [Normal] CỤC BIẾN ĐỔI KHÍ HẬU
+P0023 [Normal] Nhiệm vụ “Kiểm kê khí nhà kính cấp quốc gia”
+P0029 [Normal] BÁO CÁO 4.4
+P0030 [Normal] ĐÁNH GIÁ ĐỘ KHÔNG CHẮC CHẮN KIỂM KÊ KNK TRONG LĨNH VỰC IPPU
+P0039 [Normal] Hà Nội, 2024
+P0040 [TOC Heading] MỤC LỤC
+P0041 [toc 1] DANH MỤC BẢNG BIỂU	2
+P0042 [toc 1] MỞ ĐẦU	3
+P0043 [toc 1] CHƯƠNG I. TỔNG QUAN VỀ KIỂM KÊ KHÍ NHÀ KÍNH TRONG LĨNH VỰC IPPU	4
+P0044 [toc 2] I.1. Tổng quan về kiểm kê khí nhà kính	4
+P0045 [toc 2] I.2. Kiểm kê khí nhà kính trong lĩnh vực IPPU	5
+P0046 [toc 1] CHƯƠNG II. NHỮNG LÝ THUYẾT VỀ TÍNH KHÔNG CHẮC CHẮN TRONG KIỂM KÊ PHÁT THẢI KHÍ NHÀ KÍNH	7
+P0047 [toc 2] II.1. Tổng quan về độ không chắc chắn	7
+P0048 [toc 2] II.2. Biểu hiện và nguyên tắc giảm thiểu độ không chắc chắn	10
+P0049 [toc 2] II.3. Phương pháp đánh giá độ không chắc chắn	16
+P0050 [toc 1] CHƯƠNG III. ĐÁNH GIÁ ĐỘ KHÔNG CHẮC CHẮN KIỂM KÊ KHÍ NHÀ KÍNH TRONG LĨNH VỰC  IPPU	19
+P0051 [toc 2] III.1. Phương pháp chung xác định độ không chắc chắn trong kiểm kê KNK năm 2022 lĩnh vực IPPU	19
+P0052 [toc 2] III.2 Đánh giá không chắc chắn kiểm kê KNK trong lĩnh vực IPPU	19
+P0053 [toc 2] III.2.1. Độ không chắc chắn trong kiểm kê KNK năm 2022 lĩnh vực IPPU	19
+P0054 [toc 2] III.2.2. Độ không chắc chắn trong kiểm kê KNK năm 2022 của từng hạng mục phát thải chính trong lĩnh vực IPPU	24
+P0055 [toc 2] KẾT LUẬN	43
+P0056 [toc 1] TÀI LIỆU THAM KHẢO	44
+P0058 [Heading 1] DANH MỤC BẢNG BIỂU
+P0059 [table of figures] Bảng 1:  Kết quả phát thải KNK năm 2022 trong lĩnh vực IPPU	6
+P0060 [table of figures] Bảng 2: Độ không chắc chắn trong kiểm kê KNK năm 2022 lĩnh vực IPPU	22
+P0061 [table of figures] Bảng  3: Lượng phát thải và độ không chắc chắn trong kiểm kê KNK năm 2022 của phát thải từ Công nghiệp khai khoáng (2A)	27
+P0062 [table of figures] Bảng  4: Lượng phát thải và độ không chắc chắn trong kiểm kê KNK năm 2022 của Công nghiệp hóa chất (2B)	31
+P0063 [table of figures] Bảng  5: Lượng phát thải và độ không chắc chắn trong kiểm kê KNK năm 2022 của Công nghiệp luyện kim (2C)	35
+P0064 [table of figures] Bảng  6: Lượng phát thải và độ không chắc chắn trong kiểm kê KNK năm 2022 từ hoạt động sản xuất Các sản phẩm phi năng lượng từ nhiên liệu và sử dụng dung môi (2D)	38
+P0065 [table of figures] Bảng  7: Lượng phát thải và độ không chắc chắn trong kiểm kê KNK năm 2022 - Phát thải các hợp chất phá hủy tầng ozon (2F)	42
+P0068 [Heading 1] MỞ ĐẦU
+P0069 [Normal] Biến đổi khí hậu được xem là một trong những thách thức lớn đối với sự phát triển và tồn tại của nhân loại trong thế kỷ 21. Theo các đánh giá của Ủy ban liên chính phủ về biến đổi khí hậu (IPCC), nguyên nhân chính dẫn đến biến đổi khí hậu toàn cầu là do sự phát thải khí gây hiệu ứng nhà kính quá mức từ các hoạt động phát triển kinh tế - xã hội của con người.
+P0070 [Normal] Nhằm đối phó và hạn chế hiện tượng tăng nhiệt độ trung bình của Trái đất, Công ước khung của Liên Hợp Quốc về biến đổi khí hậu (UNFCCC) đã được 160 quốc gia ký kết tham gia tại Hội nghị của Liên Hợp Quốc về Môi trường và Phát triển tại Rio de Jainero vào năm 1992 với mục tiêu ổn định nồng độ khí nhà kính (KNK) trong khí quyển ở mức độ có thể ngăn ngừa sự can thiệp nguy hiểm của con người đối với hệ thống khí hậu.
+P0071 [Normal] Kể từ đó, giảm phát thải khí nhà kính luôn là chủ đề chính của đàm phán tại Hội nghị các Bên thuộc Công ước khung Liên hợp quốc về biến đổi khí hậu (COP). Xu hướng tiến đến mục tiêu ngăn ngừa, giảm nhẹ và thích ứng với vấn đề toàn cầu này là không thể tránh khỏi. Chính phủ các nước cũng như khách hàng (nhãn hàng, người tiêu dùng) đã và đang đặt ra các yêu cầu ngày càng nghiêm ngặt hơn về sản xuất và tiêu dùng bền vững, bao gồm khía cạnh hiệu quả năng lượng và cắt giảm phát thải khí nhà kính (KNK).
+P0072 [Normal] Kiểm kê khí nhà kính quốc gia cho Việt Nam đã được thực hiện trong những năm gần đây thông qua các báo cáo cho chính phủ và quốc tế.
+P0073 [Normal] Trong lĩnh vực IPPU (Industrial Processes and Product Use), kiểm kê khí nhà kính đóng vai trò quan trọng trong việc đo lường và theo dõi lượng khí nhà kính phát thải từ các quy trình công nghiệp và sử dụng sản phẩm. Tuy nhiên, quá trình kiểm kê này thường phải đối diện với độ không chắc chắn do sự phức tạp của các quy trình sản xuất và sử dụng, cũng như vì các yếu tố khác như biến động công nghệ, biến đổi khí hậu, và các yếu tố ngẫu nhiên khác.
+P0074 [Heading 1] CHƯƠNG I. TỔNG QUAN VỀ KIỂM KÊ KHÍ NHÀ KÍNH TRONG LĨNH VỰC IPPU
+P0075 [Heading 2] I.1. Tổng quan về kiểm kê khí nhà kính
+P0076 [Normal] Kiểm kê quốc gia khí nhà kính (KNK) là một trong các nội dung chính và bắt buộc thực hiện trong các Thông báo quốc gia (TBQG) về biến đổi khí hậu của các nước gửi Công ước khung của Liên hợp quốc về biến đổi khí hậu. Mục đích của kiểm kê quốc gia KNK là ước tính tổng lượng phát thải/hấp thụ KNK của quốc gia, xác định các nguồn phát thải và hấp thụ KNK chính. Trên cơ sở đó xây dựng và đánh giá các biện pháp giảm nhẹ phát thải KNK phù hợp với điều kiện quốc gia để góp phần thực hiện UNFCCC, Thỏa thuận Paris về biến đổi khí hậu và Đóng góp do quốc gia tự quyết định cũng như các chiến lược, kế hoạch, chương trình, đề án ứng phó với biến đổi khí hậu (BĐKH), tăng trưởng xanh và phát triển nền kinh tế các-bon thấp góp phần vào nỗ lực ứng phó với BĐKH toàn cầu.
+P0077 [Normal] Quy định về việc báo cáo về việc kiểm kê phát thải và giảm thiếu khí nhà kính đã được đưa vào Luật Bảo vệ môi trường năm 2022 và được cụ thể hóa qua Nghị định số 06/2022/NĐ-CP ngày 07/01/2022 cùng Quyết định số 01/2022/QĐ-TTg ngày 18/01/2022 của Chính Phủ. Nghị định 06/2022/NĐ-CP về“Quy định giảm nhẹ phát thải khí nhà kính vào bảo vệ tầng Ozon” được Chính phủ ban hành ngày 07 tháng 01 năm 2022 quy định: 
+“Kiểm kê khí nhà kính (KNK) là hoạt động thu thập thông tin, số liệu về các nguồn phát thải khí nhà kính, tính toán lượng phát thải khí nhà kính, hấp thụ khí nhà kính trong một phạm vi xác định và trong một năm cụ thể theo phương pháp và quy trình do cơ quan có thẩm quyền ban hành”.
+P0078 [Normal] Bộ Tài nguyên và Môi trường có trách nhiệm định kỳ xây dựng báo cáo kiểm kê khí nhà kính cấp quốc gia hai năm một lần; tổ chức xây dựng Báo cáo minh bạch 02 năm một lần và các báo cáo quốc gia khác về biến đổi khí hậu theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; chủ trì tổ chức hoạt động kiểm kê khí nhà kính cấp quốc gia; xác định kỳ kiểm kê khí nhà kính lĩnh vực và cấp cơ sở để bảo đảm sự thống nhất theo quy định. Các Bộ quản lý lĩnh vực phải tổ chức thực hiện kiểm kê khí nhà kính cấp lĩnh vực và xây dựng báo cáo phục vụ kiểm kê khí nhà kính cấp quốc gia và gửi Bộ Tài nguyên và Môi trường trước ngày 31 tháng 01 của kỳ báo cáo tiếp theo kể từ năm 2023 để tổng hợp, báo cáo Thủ tướng Chính phủ. Cho đến nay, Việt Nam đã thực hiện kiểm kê quốc gia KNK cho các năm 1994 (TBQG1), 2000 (TBQG2), 2010 (BUR1), 2013 (BUR2), 2014 (TBQG3) và 2016 (BUR3).
+P0079 [Heading 2] I.2. Kiểm kê khí nhà kính trong lĩnh vực IPPU
+P0080 [Normal] Kiểm kê khí nhà kính (KNK) trong lĩnh vực Công nghiệp – Xây dựng (IPPU) là một hoạt động quan trọng nhằm đánh giá lượng khí nhà kính phát thải từ các quá trình sản xuất, xây dựng và hoạt động của các cơ sở trong lĩnh vực này. Việc kiểm kê KNK giúp các doanh nghiệp IPPU:
+P0081 [Normal] Hiểu rõ tác động: Đánh giá chính xác lượng khí thải mà doanh nghiệp thải ra, từ đó nhận thức rõ hơn về tác động của hoạt động sản xuất kinh doanh đến môi trường.
+P0082 [Normal] Đặt mục tiêu giảm phát thải: Xác định các nguồn phát thải chính và thiết lập các mục tiêu cụ thể để giảm thiểu lượng khí thải.
+P0083 [Normal] Đề xuất các biện pháp giảm thiểu: Tìm kiếm và triển khai các giải pháp hiệu quả để giảm thiểu lượng khí thải, như:
+P0084 [Normal] Nâng cao hiệu suất năng lượng;
+P0085 [Normal] Sử dụng năng lượng tái tạo;
+P0086 [Normal] Ứng dụng công nghệ sạch;
+P0087 [Normal] Quản lý chất thải hiệu quả.
+P0088 [Normal] Tuân thủ quy định: Đáp ứng các yêu cầu về báo cáo và công bố thông tin liên quan đến khí nhà kính theo quy định của pháp luật.
+P0089 [Normal] Lĩnh vực IPPU là một trong những nguồn phát thải KNK lớn: Các hoạt động sản xuất công nghiệp, xây dựng, sử dụng năng lượng và quản lý chất thải trong lĩnh vực này tạo ra một lượng lớn khí thải gây hiệu ứng nhà kính.
+P0090 [Normal] Quy trình kiểm kê KNK thường bao gồm các bước sau:
+P0091 [Normal] Xác định phạm vi kiểm kê: Xác định rõ các hoạt động, quá trình và nguồn phát thải KNK cần được kiểm kê.
+P0092 [Normal] Thu thập dữ liệu: Thu thập dữ liệu về tiêu thụ năng lượng, nhiên liệu, nguyên vật liệu, chất thải, v.v.
+P0093 [Normal] Tính toán lượng phát thải: Sử dụng các phương pháp và công cụ tính toán để xác định lượng khí thải KNK từ các nguồn phát thải đã xác định.
+P0094 [Normal] Kiểm tra và đánh giá: Kiểm tra lại tính chính xác của dữ liệu và kết quả tính toán, đánh giá các nguồn không chắc chắn.
+P0095 [Normal] Báo cáo: Lập báo cáo kiểm kê KNK, trình bày rõ ràng các kết quả và đưa ra các khuyến nghị.
+P0096 [Normal] Các khí nhà kính chính trong lĩnh vực IPPU:
+P0097 [Normal] Carbon dioxide (CO2): Phát thải từ quá trình đốt nhiên liệu hóa thạch, sản xuất xi măng, v.v.
+P0098 [Normal] Methane (CH4): Phát thải từ quá trình phân hủy chất hữu cơ, khai thác than, v.v.
+P0099 [Normal] Nitrous oxide (N2O): Phát thải từ quá trình sản xuất phân bón, quá trình đốt cháy nhiên liệu sinh khối, v.v.
+P0100 [Hue] Phát thải/hấp thụ khí nhà kính trong lĩnh vực IPPU năm 2022 được thực hiện theo IPCC 2006. Tổng lượng phát thải ròng KNK từ lĩnh vực IPPU năm 2022 là 81.456,33 Gg CO2tđ, chi tiết lượng phát thải/hấp thụ được trình bày trong Bảng 1:
+P0101 [Caption] Bảng 1:  Kết quả phát thải KNK năm 2022 trong lĩnh vực IPPU
+P0102 [Heading 1] CHƯƠNG II. NHỮNG LÝ THUYẾT VỀ TÍNH KHÔNG CHẮC CHẮN TRONG KIỂM KÊ PHÁT THẢI KHÍ NHÀ KÍNH
+P0103 [Heading 2] II.1. Tổng quan về độ không chắc chắn
+P0104 [Normal] Khái niệm về độ không chắc chắn:
+P0105 [Normal] Thuật ngữ độ không chắc chắn hay độ bất định có liên quan tới mức đồ khác nhau hay không nhất quán trong các số liệu khác nhau sự với một giá trị thực, sự khác nhau này thường xuất phát từ một số các đặc tính thiếu tính chắc chắn bao gồm cả độ tin cậy đại diện của các giá trị đo.
+P0106 [Normal] Độ không chắc chắn là sự thiếu kiến thức về giá trị thực sự của một biến số có thể được mô tả như hàm phân phối xác suất (PDF) đặc trưng cho phạm vi và khả năng các giá trị có thể có. Sự không chắc chắn phụ thuộc vào kiến thức của nhà phân tích, từ đó phụ thuộc vào chất lượng và số lượng dữ liệu có thể sử dụng được cũng như kiến thức về các quy trình cơ bản và các phương pháp thu thập dữ liệu.
+P0107 [Normal] Sự cần thiết phải tính toán độ không chắc chắn trong kiểm kê phát thải KNK:
+P0108 [Normal] Ước tính độ không chắc chắn giúp xác định được các lĩnh vực để cải thiện và mức độ cần thiết để cải thiện trong kiểm kê. Độ không chắc chắn cần có để đạt được các tiêu chí sau:
+P0109 [Normal] Độ tin cậy (credibility)
+P0110 [Normal] Các quá trình kiểm kê là các ước tính – phân tích độ k chắc chắn đưa ra một xác nhận và giúp nắm rõ về độ tin cậy của kết quả tính toán được.
+P0111 [Normal] Tính thiết thực (Utility)
+P0112 [Normal] Phân tích độ không chắc chắn để đưa ra những cải thiện, nâng cao chất lượng kiểm kê KNK trong tương lai.
+P0113 [Normal] Yêu cầu (Requirement)
+P0114 [Normal] Phân tích độ không chắc chắn là một trong những yêu cầu của hoạt đông kiểm kê KNK quốc gia.
+P0115 [Normal] Tính khoa học (Scientific)
+P0116 [Normal] Phân tích độ không chắc chăn dựa trên cơ sở khoa học và phương pháp luận rõ ràng.
+P0117 [Normal] Các yếu tố ảnh hưởng đến độ không chắc chắn trong kiểm kê KNK:
+P0118 [Normal] Trong kiểm kê KNK, có nhiều lý do dẫn đến lượng phát thải khí nhà kính thực tế khác với lượng phát thải được tính toán. Độ không chắc chắn trong kiểm kê KNK được xem xét trên các nguyên nhân chính như sau:
+P0119 [Normal] Không có số liệu: đây là trường hợp không có dữ liệu đo lường, giám sát trực tiếp bởi các cơ sở phát thải KNK, vì quá trình chưa được công nhận hoặc chưa có phương pháp đo lường. Thông thường, nguyên nhân này có thể dẫn đến những sai khác và không đồng nhất về kết quả phát thải KNK do các nguồn số liệu khác nhau thường không đồng nhất với nhau.
+P0120 [Normal] Mô hình tính toán: Các mô hình tính toán phát thải KNK đơn giản thông thường sử dụng các hệ số mặc định (ví dụ: hệ số phát thải). Việc sử dụng các hệ số mặc định sẽ làm tăng độ không chắc chắn. Việc sử dụng các mô hình để ước lượng lượng phát thải và hấp thụ khí nhà kính có thể gây ra sự không chắc chắn, bao gồm cả sai số và lỗi ngẫu nhiên, vì nhiều lý do:
+P0121 [Normal] Mô hình là sự đơn giản hóa của các hệ thống thực tế và do đó không chính xác. Ví dụ, lập trình máy tính có thể liên quan đến lỗi hoặc phép xấp xỉ; độ phân giải mô hình có thể không mang tính đại diện và phạm vi không gian và thời gian có thể không mang tính đại diện đầy đủ;
+P0122 [Normal] Nội suy là ứng dụng của một mô hình trong một phạm vi đầu vào mà mô hình được coi là hợp lệ. Tuy nhiên, trong một số trường hợp, “ngoại suy ẩn” có thể xảy ra khi mô hình được đánh giá dựa trên các kết hợp giá trị của đầu vào mà chưa được xác thực (Cullen và Frey, 1999);
+P0123 [Normal] Việc ngoại suy (áp dụng mô hình vượt ra ngoài phạm vi mà các dự đoán của mô hình được biết là hợp lệ) có thể dẫn đến sự không chắc chắn;
+P0124 [Normal] Các công thức thay thế của mô hình có thể dẫn đến các ước tính khác nhau;
+P0125 [Normal] Các đầu vào mô hình bao gồm dữ liệu hoạt động và các thông số nói chung được ước lượng dựa trên thông tin hạn chế tạo thêm sự không chắc chắn ngoài việc xây dựng mô hình.
+P0126 [Normal] Thiếu dữ liệu: Trong một số trường hợp, các cơ sở phát thải KNK có đo đạc và cung cấp số liệu cho đơn vị kiểm kê phát thải KNK, tuy nhiên số liệu chưa đầy đủ để phụ vụ kiểm kê KNK. Trong các tình huống này, cách tiếp cận phổ biến là sử dụng dữ liệu đại diện cho các lĩnh vực giống nhau hoặc tương tự nhau hoặc sử dụng phép nội suy hoặc ngoại suy làm cơ sở để ước tính.
+P0127 [Normal] Thiếu dữ liệu mang tính đại diện: nguyên nhân của độ không chắc chắn này liên quan đến sự thiếu tương quan hoàn toàn giữa các điều kiện liên quan đến dữ liệu sẵn có và các điều kiện liên quan đến việc phát thải hoặc hoạt động hoặc phát thải thực tế. Ví dụ, dữ liệu phát thải có thể được áp dụng cho các tình huống trong đó nhà máy đang vận hành ở chế độ đầy tải nhưng không phải cho các tình huống liên quan đến việc khởi động hoặc thay đổi tải. Trong trường hợp này, dữ liệu chỉ có một phần liên quan đến ước tính phát thải mong muốn. Thiếu tính đại diện thường dẫn đến thiếu khách quan.
+P0128 [Normal] Sai số lấy mẫu ngẫu nhiên trong hệ thống: Nguồn không chắc chắn này liên quan đến dữ liệu là một mẫu ngẫu nhiên có quy mô hữu hạn và thường phụ thuộc vào sự khác biệt của quần thể lấy mẫu và kích thước của mẫu đó (số lượng các điểm dữ liệu). Nó thường có thể được giảm bằng cách tăng số lượng các mẫu độc lập được thực hiện. Do đó, thực nghiệm tốt để phân biệt đúng giữa biến đổi và không chắc chắn. Kích cỡ mẫu lớn hơn sẽ không làm giảm sự biến đổi vốn có, nhưng sẽ dẫn đến các khoảng tin cậy hẹp hơn là cơ sở để ước tính thành phần cấu tạo của độ không chắc chắn.
+P0129 [Normal] Sai số do đo lường: Lỗi đo lường, có thể ngẫu nhiên hoặc có hệ thống, là kết quả của sai sót trong đo đạc, ghi và chuyển thông tin; độ phân giải dụng cụ hữu hạn; Các giá trị không chính xác của các tiêu chuẩn đo lường và các tài liệu tham khảo; các giá trị không chính xác của hằng số và các thông số khác thu được từ các nguồn bên ngoài và được sử dụng trong thuật toán giảm dữ liệu (ví dụ, giá trị mặc định từ Hướng dẫn IPCC); xấp xỉ và các giả định kết hợp trong phương pháp đo lường và quy trình ước lượng; và/hoặc các thay đổi trong các quan sát lặp đi lặp lại về việc phát thải hoặc biến số liên quan theo các điều kiện tương đương.
+P0130 [Normal] Báo cáo sai hoặc phân loại sai: Độ không chắc chắn ở đây có thể là do định nghĩa không đầy đủ, không rõ ràng hoặc lỗi của phát thải/hấp thụ. Nguyên nhân của độ không chắc chắn thường dẫn đến thiếu khách quan.
+P0131 [Normal] Dữ liệu bị lỗi: Độ không chắc chắn có thể xảy ra khi các phép đo đã được thử nhưng không có giá trị nào hợp lệ. Một ví dụ là các phép đo dưới giới hạn phát hiện. Nguyên nhân của độ không chắc chắn này có thể dẫn đến sự thiếu khách quan và sai số ngẫu nhiên. Khi các giá trị đo dưới giới hạn phát hiện, có thể ước tính một giới hạn trên về độ không chắc chắn. Có các kỹ thuật thống kê khắt khe để xử lý các dữ liệu không phát hiện cũng như các loại dữ liệu còn thiếu khác như dữ liệu bị mất một cách ngẫu nhiên. Những kỹ thuật này có thể liên quan đến ước tính hoặc sự gắn kết trong các phần không có dữ liệu.
+P0132 [Heading 2] II.2. Biểu hiện và nguyên tắc giảm thiểu độ không chắc chắn
+P0133 [Normal] Ước tính độ chắc chắn là một yếu tố thiết yếu của một quá trình kiểm kê hoàn chỉnh của lượng phát thải khí nhà kính (KNK). Chúng nên được bắt nguồn cho cả cấp quốc gia và dự báo xu hướng, cũng như các bộ phận cấu thành trong kiểm kê KNK như các yếu tố phát thải, dữ liệu hoạt động và các tham số ước lượng khác cho từng lĩnh vực. Do đó các hướng dẫn của IPCC đã phát triển một cách tiếp cận có cấu trúc để ước tính độ không chắc chắn.
+P0134 [Normal] -	Xác định sự không chắc chắn trong từng biến số được sử dụng trong kiểm kê (ví dụ: ước tính lượng phát thải từ các lĩnh vực cụ thể, các yếu tố phát thải, dữ liệu hoạt động);
+P0135 [Normal] -	Gộp các yếu tố không chắc chắn vào bản kiểm kê tổng hợp cuối cùng;
+P0136 [Normal] -	Xác định sự không chắc chắn theo xu hướng;
+P0137 [Normal] -	Xác định các nguồn không chắc chắn đáng kể trong kiểm kê để giúp ưu tiên thu thập dữ liệu và nỗ lực để cải thiện quá trình kiểm kê trong tương lai.
+P0138 [Normal] Mặc dù có các phương pháp nhằm ước tính sự không chắc chắn cho quá trình kiểm kê quốc gia, nhưng điều quan trọng là phải thừa nhận rằng một số sự không chắc chắn không được giải quyết bằng các phương tiện thống kê có thể tồn tại, bao gồm các lỗi phát sinh do thiếu sót, hoặc tính hai lần, hoặc các lỗi nhận thức khác, hoặc từ việc chưa hiểu rõ về các quá trình có thể dẫn đến sự không chính xác trong các ước tính được phát triển từ các mô hình.
+P0139 [Normal] Trước hết, cần xem xét phân tích độ không chắc chắn như một phương tiện giúp ưu tiên các nỗ lực của quốc gia nhằm giảm sự không chắc chắn của việc kiểm kê trong tương lai và hướng dẫn các quyết định về việc lựa chọn phương pháp luận. Vì lý do này, các phương pháp được sử dụng để xác định giá trị độ không chắc chắn phải đảm bảo thực tế, có thể bảo vệ tính khoa học, đủ mạnh để áp dụng cho giới hạn của các lĩnh vực phát thải theo nguồn và sự hấp thụ theo các bể chứa, phương pháp, hoàn cảnh quốc gia và trình bày theo cách có thể hiểu được đối với người sử dụng kiểm kê.
+P0140 [Normal] Phân tích định lượng độ không chắc chắn được thực hiện bằng cách ước lượng khoảng tin cậy 95% của lượng phát thải và ước lượng di dời cho từng lĩnh vực và cho tổng hợp kiểm kê.
+P0141 [Normal] Phân tích sự không chắc chắn phải là một phần không thể tách rời của việc kiểm kê - chứ không phải là "thêm vào" vào cuối!
+P0142 [Normal] Các định nghĩa liên quan đến việc thực hiện phân tích độ không chắc chắn bao gồm tính không chắc chắn, tính chính xác, tính rõ ràng và tính biến đổi. Những thuật ngữ này đôi khi được sử dụng lỏng lẻo và có thể bị hiểu nhầm. Trong thực tế, định nghĩa thống kê rõ ràng nên được sử dụng để được rõ hơn về những gì đang được định lượng và báo cáo. Một số định nghĩa được đưa ra ở đây, theo thứ tự chữ cái:
+P0143 [Normal] -	Độ chính xác (Accuracy): Sự nhất quán giữa giá trị đúng và mức trung bình của các quan sát đo được lặp đi lặp lại hoặc ước tính của một biến số. Đo lường hoặc dự đoán chính xác thiếu sự thiếu khách quan hoặc tương đương có lỗi hệ thống.
+P0144 [Normal] -	Độ lệch chuẩn (Bias): Thiếu độ chính xác. Sai số hệ thống có thể xảy ra do không nắm bắt được tất cả các quy trình có liên quan hoặc bởi vì các dữ liệu có sẵn không phải là đại diện cho tất cả các tình huống thực tế hoặc do lỗi của thiết bị.
+P0145 [Normal] -	Khoảng tin cậy (Confidence Interval): Giá trị thật sự của số lượng trong đó ước lượng khoảng thời gian là hằng số cố định nhưng không xác định, ví dụ tổng lượng phát thải hàng năm trong một năm cho một quốc gia nhất định. Khoảng tin cậy là một dải bao gồm giá trị đúng của số cố định không xác định này với độ tin cậy xác định (xác suất). Thông thường, một khoảng tin cậy 95% được sử dụng trong kiểm kê KNK. Từ quan điểm thống kê truyền thống, khoảng tin cậy 95% có xác suất 95% kèm theo giá trị thật sự nhưng chưa biết về số lượng. Giải thích khác là khoảng tin cậy là một dải có thể được tuyên bố một cách an toàn để phù hợp với dữ liệu hoặc thông tin được quan sát. Khoảng tin cậy 95% được bao quanh bởi phần trăm thứ 2,5 và 97.5 của PDF.
+P0146 [Normal] -	Tính rõ ràng (Precision): sự nhất quán giữa các phép đo lặp lại của cùng một biến. Độ rõ ràng tốt hơn có nghĩa là ít lỗi ngẫu nhiên. Độ rõ ràng không phụ thuộc vào độ chính xác.
+P0147 [Normal] -	Hàm phân phối xác suất (Probability density function) (PDF): PDF mô tả phạm vi và khả năng tương đối của các giá trị có thể. PDF có thể được sử dụng để mô tả độ không chắc chắn trong ước tính của một số lượng mà trong đó một hằng số cố định có giá trị là không chính xác được biết đến, hoặc nó có thể được sử dụng để mô tả biến thiên vốn có. Mục đích của việc phân tích tính không chắc chắn đối với kiểm kê phát thải là định lượng sự không chắc chắn trong giá trị cố định chưa biết của tổng lượng khí thải cũng như việc phát thải và hoạt động liên quan đến các lĩnh vực cụ thể. Vì vậy, giả định rằng PDF được sử dụng để ước lượng độ không chắc chắn, và không biến đổi, trừ khi có quy định khác.
+P0148 [Normal] -	Lỗi ngẫu nhiên (Random errors): Sự biến thiên ngẫu nhiên ở trên hoặc dưới một giá trị trung bình. Lỗi ngẫu nhiên tỉ lệ nghịch với độ chính xác. Thông thường, lỗi ngẫu nhiên được định lượng theo giá trị trung bình, nhưng trung bình có thể bị lệch hoặc không thiên vị. Do đó, lỗi ngẫu nhiên là một khái niệm khác biệt so với lỗi hệ thống.
+P0149 [Normal] -	Lỗi hệ thống (Systematic error): Một thuật ngữ khác về sự thiếu khách quan, có nghĩa là thiếu độ chính xác.
+P0150 [Normal] -	Sự không chắc chắn (Uncertainty): Thiếu kiến thức về giá trị thực sự của một biến có thể được mô tả như hàm xác suất phân phối (PDF) đặc trưng cho phạm vi và khả năng các giá trị có thể có. Sự không chắc chắn phụ thuộc vào kiến thức của nhà phân tích, từ đó phụ thuộc vào chất lượng và số lượng dữ liệu thích hợp cũng như kiến thức về các quy trình cơ bản và các phương pháp thu thập dữ liệu.
+P0151 [Normal] -	Tính đa dạng (Variability): Tính không đồng nhất của một biến theo thời gian, không gian hoặc các thành viên của một tập hợp. Sự biến đổi là một đặc tính cố hữu của hệ thống hay của tự nhiên chứ không phải của nhà phân tích.
+P0152 [Normal] Độ không chắc chắn liên quan đến số liệu hoạt động:
+P0153 [Normal] Số liệu hoạt động thường gắn liền với hoạt động kinh tế hơn là các yếu tố phát thải. Thường có những ưu đãi giá cả và các yêu cầu tài chính để tính toán chính xác các hoạt động kinh tế. Số liệu hoạt động do đó khuynh hướng có sự không chắc chắn thấp hơn và sự tương quan thấp hơn giữa các năm. Số liệu hoạt động thường được các cơ quan thống kê quốc gia thu thập và công bố thường xuyên. Có thể các cơ quan này đã đánh giá sự không chắc chắn liên quan đến số liệu của họ như là một phần của các thủ tục thu thập số liệu của họ. Những sự không chắc chắn này có thể được sử dụng để xây dựng các hàm phân phối xác suất. Thông tin này sẽ không nhất thiết phải được công bố, vì vậy thực tiễn tốt là liên hệ trực tiếp với các cơ quan thống kê. Vì số liệu hoạt động kinh tế thường không được thu thập nhằm mục đích ước tính mức phát thải khí nhà kính nên tính khả thi của số liệu nên được đánh giá trước khi sử dụng chúng.
+P0154 [Normal] Các cơ quan kiểm kê cũng có thể thực hiện các nghiên cứu chuyên dụng để thu thập số liệu hoạt động phù hợp với thực tiễn trong việc ưu tiên các nỗ lực đối với các nguồn phát thải chính (ví dụ các loại lĩnh vực có ảnh hưởng đáng kể đến tổng lượng kiểm kê khí nhà kính trực tiếp của quốc gia về mức tuyệt đối Phát thải, xu hướng phát thải, hoặc cả hai).
+P0155 [Normal] Độ không chắc chắn của số liệu hoạt động là do:
+P0156 [Normal] -Thiếu số liệu, do:
+P0157 [Normal] + sử dụng giá trị đại diện, ngoại suy;
+P0158 [Normal] + số liệu bị lỗi.
+P0159 [Normal] - Số liệu không thực sự đại diện;
+P0160 [Normal] - Sai số do đo lường;
+P0161 [Normal] - Báo cáo sai;
+P0162 [Normal] Xem xét những điều này trong giai đoạn thu thập số liệu sẽ giảm thiểu các lỗi.
+P0163 [Normal] Thu thập thông tin để định lượng sự không chắc chắn trong số liệu hoạt động:
+P0164 [Normal] + Số liệu không chắc chắn sẽ được thu thập như một phần của việc thu thập số liệu;
+P0165 [Normal] + Yêu cầu ước tính độ không chắc chắn của số liệu nguồn như là một phần của các yêu cầu thông thường cho tất cả các nhà cung cấp số liệu;
+P0166 [Normal] + Thông tin này sẽ không nhất thiết phải được công bố, vì vậy khuyến nghị nên liên hệ trực tiếp với nhà cung cấp số liệu (ví dụ: cơ quan thống kê).
+P0167 [Normal] + Các nhà cung cấp số liệu có kiến thức tốt hơn về số liệu của họ.
+P0168 [Normal] Độ không chắc chắn liên quan đến hệ số phát thải:
+P0169 [Normal] Trong một số trường hợp, các phép đo phát thải định kỳ có thể có tại một địa điểm. Nếu các phép đo này có thể được liên kết với số liệu hoạt động đại diện, tất nhiên là rất quan trọng, thì có thể xác định một hệ số phát thải cụ thể tại địa điểm cùng với hàm phân phối xác suất tương ứng để biểu thị lượng phát thải hàng năm.
+P0170 [Normal] Khi không có số liệu cụ thể về địa điểm, thực nghiệm tốt thường là phát triển các ước tính phát thải sử dụng các hệ số phát thải được rút ra từ tài liệu tham khảo phù hợp với Hướng dẫn của IPCC và Hướng dẫn thực hành tốt cụ thể cho từng lĩnh vực. Những hệ số này sẽ được đo lường trong các trường hợp cụ thể được đánh giá là điển hình. Sẽ có sự không chắc chắn liên quan đến các đo đạc ban đầu, cũng như với việc sử dụng các hệ số trong hoàn cảnh khác với các đo đạc ban đầu. Đây là một chức năng chính của hướng dẫn thực hành tốt cho từng lĩnh vực nguồn để hướng dẫn lựa chọn các hệ số phát thải để giảm thiểu nguồn không chắc chắn thứ hai trong phạm vi có thể. Hướng dẫn cụ thể cho tính toán các nguồn phát thải chính cũng cho thấy, nếu có thể, các giới hạn không chắc chắn sẽ liên quan đến việc sử dụng các hệ số này.
+P0171 [Normal] Trường hợp các hệ số phát thải như vậy được sử dụng, sự không chắc chắn liên quan cần được ước tính từ:
+P0172 [Normal] - Nghiên cứu ban đầu bao gồm số liệu cụ thể của quốc gia. Đối với các hệ số phát thải dựa trên phép đo, số liệu từ chương trình đo lường ban đầu có thể cho phép đánh giá độ không chắc chắn và có thể là hàm phân phối xác suất. Các chương trình đo lường được thiết kế tốt sẽ cung cấp số liệu mẫu bao gồm phạm vi của các loại cây trồng và sự duy trì, kích cỡ và độ tuổi của chúng, để các yếu tố và sự không chắc chắn của chúng có thể được sử dụng trực tiếp. Trong các trường hợp khác, cần phải có đánh giá của chuyên gia để đánh giá ngoại suy từ các phép đo đến toàn bộ quần thể thực vật trong lĩnh vực nguồn / bể hấp thụ đặc biệt đó.
+P0173 [Normal] - Hướng dẫn thực hành tốt. Đối với hầu hết các hệ số phát thải, hướng dẫn thực hành tốt cụ thể lĩnh vực nguồn cung cấp các ước tính không chắc chắn mặc định nên được sử dụng khi không có các thông tin khác. Trừ khi có bằng chứng rõ ràng ngược lại, các hàm phân phối xác suất được cho là bình thường. Tuy nhiên, cơ quan kiểm kê nên đánh giá tính đại diện của mặc định đối với tình huống của chính nó. Nếu mặc định được đánh giá là không có tính đại diện và phân loại nguồn phát thải là quan trọng đối với kiểm kê, nên xây dựng các giả định dựa trên đánh giá của chuyên gia.
+P0174 [Normal] Một hệ số phát thải vượt quá hoặc đánh giá thấp mức phát thải trong năm cơ sở có thể sẽ làm như vậy trong những năm tiếp theo. Do đó, sự không chắc chắn do các hệ số phát thải sẽ có xu hướng tương quan theo thời gian.
+P0175 [Normal] Trong Hướng dẫn kiểm kê KNK quốc gia phiên bản 2006 (2006 IPCC Guidelines for National Greenhouse Gas Inventories) (viết tắt là 2006 IPCC GL), thông tin về sự không chắc chắn có thể được tìm thấy trong mỗi chương, tại mục "đánh giá độ không chắc chắn" và trong hầu hết các bảng của hệ số phát thải (EF).
+P0176 [Normal] Phạm vi giá trị;
+P0177 [Normal] Tỷ lệ phần trăm sự không chắc chắn;
+P0178 [Normal] Yếu tố của sự không chắc chắn.
+P0179 [Normal] Giảm thiểu độ không chắc chăn:
+P0180 [Normal] Đánh giá độ không chắc chắn có thể được sử dụng để kiến nghị cải thiện trong tương lai đối với các nguồn phát thải chính. Thông thường các nguồn phát thải lớn trong các lĩnh vực các quá trình công nghiệp đều có độ không chắc chắn cao do thiếu số liệu hoặc do sử dụng hệ số phát thải mặc định. Có 7 cách để giảm thiểu độ không chắc chắn:
+P0181 [Normal] Cải thiện khái niệm và phân loại nguồn phát thải
+P0182 [Normal] Cải thiện các phương pháp tính toán
+P0183 [Normal] Nâng cao tính đại diện của số liệu
+P0184 [Normal] Thu thập nhiều số liệu đo đạc hơn
+P0185 [Normal] Loại bỏ nguy cơ sai lệch về số liệu đã biết
+P0186 [Normal] Nâng cao trình độ kiến thức.
+P0187 [Heading 2] II.3. Phương pháp đánh giá độ không chắc chắn
+P0188 [Normal] Phân tích sự không chắc chắn trước hết phải được coi là phương tiện ưu tiên trong công cuộc nỗ lực của các quốc gia nhằm làm giảm sự không chắc chắn của các kho dự trữ trong tương lai. Vì lý do này, các phương pháp được sử dụng để tính toán độ không chắc chắn phải thực tế, có thể bảo vệ về mặt khoa học, đủ khái quát để có thể áp dụng cho nhiều loại phát thải theo nguồn khác nhau, phù hợp với hoàn cảnh của các quốc gia, và được trình bày theo cách dễ hiểu đối với người sử dụng kho dự trữ.
+P0189 [Normal] Có 2 cách tiếp cận:
+P0190 [Normal] • Cách tiếp cận 1: Phương trình tính độ lệch chuẩn nguồn chính theo trọng số;
+P0191 [Normal] • Cách tiếp cận 2: Ước tính theo mô phỏng (ví dụ: Phương trình Monte Carlo);
+P0192 [Normal] Phương trình tính độ lệch chuẩn nguồn chính theo trọng số mang lại hai quy tắc thuận lợi cho việc kết hợp những sự không chắc chắn không liên quan được thêm vào và cấp số nhân.
+P0193 [Normal] - Quy tắc A: Nếu lượng không chắc chắn được kết hợp bằng cách bổ sung, tổng của độ lệch chuẩn sẽ là căn bậc hai của tổng bình phương các độ lệch chuẩn của các số được cộng với độ lệch chuẩn tất cả được biểu diễn bằng các giá trị tuyệt đối (Quy tắc này là chính xác cho các biến không tương quan).
+P0194 [Normal] Sử dụng cách diễn giải này, một phương trình đơn giản có thể được bắt nguồn cho tổng của sự không chắc chắn, được thể hiện bằng tỷ lệ phần trăm:
+P0197 [Normal] Trong đó:
+P0198 [Normal] ●	Utotal là tỷ lệ phần trăm độ không chắc chắn trong tổng số lượng (một nửa khoảng tin cậy 95% chia cho tổng số (tức là trung bình) và được biểu diễn dưới dạng phần trăm);
+P0199 [Normal] ●	xi và Ui là giá trị không chắc chắn và tỷ lệ phần trăm độ không chắc chắn liên quan đến chúng, theo thứ tự định sẵn.
+P0200 [Normal] - Quy tắc B: Nếu lượng không chắc chắn được kết hợp bằng phép nhân, thì cũng áp dụng cùng một quy tắc, ngoại trừ độ lệch chuẩn phải được biểu diễn dưới dạng các phần của các giá trị trung bình thích hợp (quy tắc này gần đúng với tất cả các biến ngẫu nhiên). Một phương trình đơn giản cũng có thể được bắt nguồn cho sự không chắc chắn của kết quả, thể hiện bằng tỷ lệ phần trăm:
+P0202 [Normal] Trong đó:
+P0203 [Normal] ●	Utotal là phần trăm độ không chắc chắn trong kết quả của lượng phát thải (một nửa khoảng tin cậy 95% chia cho tổng và thể hiện dưới dạng phần trăm);
+P0204 [Normal] ●	Ui là tỷ lệ phần trăm độ không chắc chắn liên quan đến mỗi lượng phát thải thành phần, i=1,2,…,n.
+P0205 [Normal] Kiểm kê khí nhà kính chủ yếu là tổng sản phẩm của các hệ số phát thải và số liệu hoạt động. Do đó, Các quy tắc A và B có thể được sử dụng nhiều lần để ước tính độ không chắc chắn của tổng kiểm kê. Trong thực tế, sự không chắc chắn được tìm thấy trong các danh mục các nguồn thải khác nhau từ vài phần trăm đến mức độ lớn và có thể tương quan với nhau. Điều này không phù hợp với giả định của Quy tắc A và B rằng các biến số không tương quan với độ lệch chuẩn nhỏ hơn 30% so với mức trung bình, nhưng trong những trường hợp này, các quy tắc A và B vẫn có thể được sử dụng để có được một kết quả gần đúng. Ngoài ra, có thể sử dụng một mô phỏng ngẫu nhiên (phương pháp Monte Carlo) có thể kết hợp sự không chắc chắn với bất kỳ sự phân bố xác suất, phạm vi và cấu trúc tương quan, miễn là chúng đã được định lượng phù hợp. Do đó, hai bậc phân tích độ không chắc chắn được mô tả dưới đây:
+P0206 [Normal] - Cấp 1 (Tier 1): Ước tính sự không chắc chắn theo lĩnh vực chính sử dụng phương trình truyền lỗi thông qua quy tắc A và B, và sự kết hợp đơn giản của độ không chắc chắn theo lĩnh vực để ước tính tổng thể độ không chắc chắn trong một năm và sự không chắc chắn theo xu hướng.
+P0207 [Normal] - Cấp 2 (Tier 2): Ước tính sự không chắc chắn theo lĩnh mục chính bằng cách sử dụng phân tích Monte Carlo, tiếp theo là sử dụng kỹ thuật Monte Carlo để ước tính tổng thể độ không chắc chắn trong một năm và sự không chắc chắn theo xu hướng này.
+P0208 [Normal] Phân tích Monte Carlo cũng có thể được sử dụng một cách hạn chế trong Cấp 1 để kết hợp các số liệu hoạt động và các yếu tố phát thải không chắc chắn có phân bố xác suất rất rộng hoặc không bình thường hoặc cả hai. Phương pháp tiếp cận này cũng có thể giúp giải quyết các lĩnh vực chính trong Cấp 1 được ước tính bằng các mô hình theo quy trình chứ không phải bằng tính toán 'số liệu hoạt động của hệ số phát thải' truyền thống.
+P0209 [Normal] Việc sử dụng Cấp 1 hoặc Cấp 2 sẽ cung cấp cái nhìn sâu sắc hơn nhiều so với những gì đã có trước đây về các lĩnh vực chính và khí nhà kính riêng biệt đã góp phần tạo ra sự không chắc chắn trong lượng phát thải trong năm và xu hướng tổng lượng phát thải giữa những năm với nhau
+P0210 [Normal] Việc so sánh quốc gia giữa các phương pháp sẽ rất hữu ích trong việc phát triển sự hiểu biết. Phương pháp Cấp 1, dựa trên bảng tính, rất dễ áp dụng và không gây ra bất kỳ nỗ lực phát sinh nào cho cơ quan kiểm kê cũng thực hiện Cấp 2. Do đó, hiện tại, việc thực hành tốt cho tất cả các quốc gia thực hiện phân tích độ không chắc chắn báo cáo kết quả Cấp 1 và đối với tất cả các cơ quan kiểm kê có đủ nguồn lực và chuyên môn thực hiện Cấp 2.
+P0211 [Heading 1] CHƯƠNG III. ĐÁNH GIÁ ĐỘ KHÔNG CHẮC CHẮN KIỂM KÊ KHÍ NHÀ KÍNH TRONG LĨNH VỰC  IPPU
+P0212 [Heading 2] III.1. Phương pháp chung xác định độ không chắc chắn trong kiểm kê KNK năm 2022 lĩnh vực IPPU
+P0213 [Normal] Để đối phó với độ không chắc chắn trong kiểm kê khí nhà kính IPPU, việc áp dụng các phương pháp đánh giá độ không chắc chắn sẽ giúp cung cấp thông tin chính xác hơn về lượng khí thải và giảm thiểu sai số trong quá trình đo lường và báo cáo.
+P0214 [Normal] Phương thức tính toán độ không chắc chắn của lĩnh vực IPPU năm 2022 dựa vào phương pháp chung được đề cập trong mục II.3 ở trên, trong đó độ không chắc chắn chung của các lĩnh vực dựa vào độ không chắc chắn của số liệu hoạt động, độ không chắc chắn của hệ số phát thải và lượng phát thải tương ứng của từng hạng mục trong tiểu lĩnh vực đó. Các nguồn của độ không chắc chắn cho hệ số phát thải và số liệu hoạt động được tham khảo từ GPG 2000 và IPCC 2006. Các nguồn số liệu khác nếu không có được lấy từ kinh nghiệm chuyên gia.
+P0215 [Heading 2] III.2 Đánh giá không chắc chắn kiểm kê KNK trong lĩnh vực IPPU
+P0216 [Heading 2] III.2.1. Độ không chắc chắn trong kiểm kê KNK năm 2022 lĩnh vực IPPU
+P0217 [Normal] Độ không chắc chắn là một khái niệm quan trọng trong việc kiểm kê khí nhà kính (KNK), đặc biệt trong lĩnh vực Công nghiệp – Xây dựng (IPPU).
+P0218 [Normal] 1. Các yếu tố dẫn đến độ không chắc chắn trong kiểm kê KNK năm 2022 từ lĩnh vực IPPU
+P0219 [Normal] a. Dữ liệu đầu vào không đầy đủ hoặc không chính xác
+P0220 [Normal] Dữ liệu sản xuất và tiêu thụ: Một trong những yếu tố quan trọng trong kiểm kê KNK lĩnh vực IPPU là dữ liệu về sản xuất công nghiệp và tiêu thụ các sản phẩm công nghiệp, như lượng xi măng sản xuất, lượng thép sản xuất, hoặc các chất hóa học sử dụng. Dữ liệu về sản xuất công nghiệp có thể thiếu chính xác hoặc không đầy đủ, đặc biệt là ở các quốc gia hoặc khu vực không có hệ thống giám sát và báo cáo mạnh mẽ. Việc thiếu thông tin về sản lượng hoặc tỉ lệ sử dụng các nguyên liệu trong các ngành công nghiệp có thể dẫn đến sự không chắc chắn trong ước tính phát thải.
+P0221 [Normal] Dữ liệu về quá trình sử dụng sản phẩm: Trong các ngành công nghiệp như sản xuất xi măng, nhôm, và thép, việc ước tính phát thải từ quá trình sử dụng sản phẩm cũng gặp khó khăn. Ví dụ, phát thải từ sản phẩm xi măng có thể tiếp tục xảy ra trong suốt vòng đời của nó (quá trình sử dụng, tái chế, phân hủy). Việc ước tính phát thải này đòi hỏi dữ liệu chi tiết về vòng đời của sản phẩm, nhưng nhiều quốc gia chưa thu thập đầy đủ dữ liệu này.
+P0222 [Normal] b. Biến động trong hệ số phát thải (Emission Factors)
+P0223 [Normal] Sự khác biệt về hệ số phát thải: Hệ số phát thải là các yếu tố được sử dụng để tính toán lượng phát thải khí nhà kính từ mỗi đơn vị sản phẩm hoặc mỗi quá trình sản xuất. Tuy nhiên, các hệ số phát thải này có thể có sự thay đổi đáng kể giữa các quốc gia, khu vực hoặc công ty, do sự khác biệt trong công nghệ, quy trình sản xuất, nguyên liệu đầu vào, và các biện pháp kiểm soát phát thải. Việc sử dụng các hệ số phát thải chuẩn hoặc các hệ số phát thải từ các nghiên cứu toàn cầu có thể không phản ánh đúng tình hình thực tế của từng quốc gia, dẫn đến độ không chắc chắn cao.
+P0224 [Normal] Phát thải gián tiếp: Một số hoạt động công nghiệp có thể tạo ra khí nhà kính gián tiếp, ví dụ như phát thải từ điện năng sử dụng trong sản xuất. Việc ước tính chính xác các phát thải gián tiếp đòi hỏi dữ liệu về lượng năng lượng tiêu thụ, nguồn năng lượng (nhiệt điện, thủy điện, năng lượng tái tạo, v.v.), và hiệu suất của hệ thống điện. Thiếu dữ liệu chính xác về các yếu tố này có thể làm tăng độ không chắc chắn.
+P0225 [Normal] c. Các yếu tố không kiểm soát và không đo lường
+P0226 [Normal] Biến động trong công nghệ và quy trình sản xuất: Công nghệ sản xuất và quy trình công nghiệp có thể thay đổi theo thời gian. Ví dụ, các ngành công nghiệp sản xuất xi măng có thể thay đổi công nghệ để giảm phát thải CO₂ (chẳng hạn như sử dụng các nguyên liệu thay thế cho clinker), hoặc có thể thay đổi trong việc áp dụng công nghệ thu giữ và lưu trữ carbon. Những thay đổi này có thể làm thay đổi mức phát thải khí nhà kính, nhưng nếu không được giám sát và đo lường chính xác, chúng có thể tạo ra sự không chắc chắn lớn trong ước tính.
+P0227 [Normal] Dữ liệu về sản phẩm tiêu thụ và tái chế: Trong lĩnh vực sản xuất nhôm hoặc thép, việc ước tính lượng phát thải khí nhà kính từ quá trình tái chế các sản phẩm này có thể gặp khó khăn. Các sản phẩm công nghiệp có thể được tái chế nhiều lần, nhưng không phải lúc nào cũng có thông tin đầy đủ về tỷ lệ tái chế hoặc các quá trình tái chế. Điều này có thể dẫn đến độ không chắc chắn trong ước tính phát thải khí nhà kính từ các sản phẩm này.
+P0228 [Normal] d. Mô hình hóa và giả định không hoàn hảo
+P0229 [Normal] Mô hình hóa quá trình sản xuất và tiêu thụ: Các mô hình tính toán phát thải khí nhà kính từ quá trình công nghiệp và sử dụng sản phẩm thường phải dựa trên một số giả định chung về quy mô sản xuất, năng suất, công nghệ, và mức độ phát thải từ mỗi đơn vị sản phẩm. Những giả định này có thể không phản ánh chính xác các đặc thù trong từng ngành hoặc quốc gia, dẫn đến sự không chính xác trong kết quả tính toán.
+P0230 [Normal] Sự không đồng nhất trong phương pháp kiểm kê: Các quốc gia có thể áp dụng các phương pháp khác nhau trong việc thu thập dữ liệu và ước tính phát thải khí nhà kính, gây ra sự không đồng nhất trong các báo cáo và làm tăng độ không chắc chắn khi so sánh kết quả giữa các quốc gia.
+P0231 [Normal] 2. Các loại độ không chắc chắn trong kiểm kê KNK lĩnh vực IPPU
+P0232 [Normal] Độ không chắc chắn trong kiểm kê phát thải khí nhà kính từ lĩnh vực IPPU có thể chia thành các loại sau:
+P0233 [Normal] a. Độ không chắc chắn trong dữ liệu đầu vào
+P0234 [Normal] Các dữ liệu về sản xuất công nghiệp, tiêu thụ sản phẩm và năng lượng có thể không được báo cáo đầy đủ hoặc không chính xác, đặc biệt là trong các quốc gia hoặc ngành công nghiệp không có hệ thống giám sát chặt chẽ. Đặc biệt là các lĩnh vực như sản xuất xi măng, thép hoặc hóa chất, việc theo dõi và báo cáo các hoạt động này có thể gặp nhiều khó khăn.
+P0235 [Normal] b. Độ không chắc chắn trong hệ số phát thải
+P0236 [Normal] Hệ số phát thải có thể khác nhau giữa các công nghệ và quy trình sản xuất. Việc sử dụng hệ số phát thải chuẩn có thể không phản ánh đúng tình hình thực tế, làm tăng độ không chắc chắn trong các ước tính.
+P0237 [Normal] c. Độ không chắc chắn trong mô hình hóa và giả định
+P0238 [Normal] Mô hình tính toán phát thải khí nhà kính từ quá trình công nghiệp và sản phẩm có thể dựa vào các giả định không hoàn toàn chính xác. Ví dụ, việc ước tính phát thải từ sản phẩm công nghiệp có thể không tính đến tất cả các yếu tố như sự tái chế, sử dụng năng lượng hiệu quả, hoặc công nghệ mới.
+P0239 [Normal] d. Độ không chắc chắn trong phát thải gián tiếp
+P0240 [Normal] Phát thải gián tiếp từ việc sử dụng năng lượng trong sản xuất công nghiệp là một nguồn phát thải quan trọng, nhưng thường bị thiếu dữ liệu chi tiết về mức tiêu thụ năng lượng, nguồn năng lượng, và hiệu quả năng lượng. Điều này dẫn đến sự không chắc chắn trong ước tính phát thải khí nhà kính.
+P0241 [Normal] Kết quả đánh giá độ không chắc chắn trong đợt kiểm kê quốc gia KNK lĩnh vực IPPU năm 2022 được thể hiện ở Bảng 2. Tổng lượng phát thải trong lĩnh vực IPPU là  81.456,33 Gg CO2tđ. Độ không chắc chắn của tổng phát thải và hấp thụ trong IPPU được đánh giá ở mức 17,9%
+P0242 [Caption] Bảng 2: Độ không chắc chắn trong kiểm kê KNK năm 2022 lĩnh vực IPPU
+P0243 [Heading 2] III.2.2. Độ không chắc chắn trong kiểm kê KNK năm 2022 của từng hạng mục phát thải chính trong lĩnh vực IPPU
+P0244 [Normal] Kết quả kiểm kê năm 2022 đối với lĩnh vực IPPU bao gồm CO2, CH4, N2O và HFCs từ các nguồn khác nhau như:
+P0245 [Normal] 2A Công nghiệp khai khoáng
+P0246 [Normal] 2B Công nghiệp hóa chất
+P0247 [Normal] 2C Công nghiệp luyện kim
+P0248 [Normal] 2D Các sản phẩm phi năng lượng từ nhiên liệu và sử dụng dung môi
+P0249 [Normal] 2F Phát thải các hợp chất phá hủy tầng ozon
+P0250 [Normal] Phát thải khí nhà kính từ Công nghiệp khai khoáng (2A):
+P0251 [Normal] Công nghiệp khai khoáng, một trụ cột quan trọng của nền kinh tế, đồng thời cũng là một trong những nguồn phát thải khí nhà kính đáng kể. Quá trình khai thác, chế biến khoáng sản tiêu tốn lượng lớn năng lượng, giải phóng các chất khí gây hiệu ứng nhà kính, và tác động trực tiếp đến biến đổi khí hậu.
+P0252 [Normal] 1. Các nguồn phát thải khí nhà kính từ công nghiệp khai khoáng
+P0253 [Normal] a. Phát thải từ quá trình đốt nhiên liệu hóa thạch
+P0254 [Normal] Đốt nhiên liệu hóa thạch (than đá, dầu mỏ, khí tự nhiên) trong các hoạt động khai thác mỏ là một nguồn phát thải CO₂ chính. Ví dụ, trong khai thác than đá, khí CO₂ được phát thải trong quá trình đốt cháy than để cung cấp năng lượng cho các thiết bị khai thác hoặc vận chuyển.
+P0255 [Normal] Các quá trình chế biến khoáng sản, như nung quặng sắt để sản xuất thép, hoặc luyện nhôm, cũng đốt nhiên liệu hóa thạch và do đó phát thải CO₂.
+P0256 [Normal] b. Phát thải từ các quá trình chế biến khoáng sản
+P0257 [Normal] Chế biến khoáng sản: Các quá trình như nung quặng, tách kim loại hoặc hợp chất hóa học từ quặng kim loại, và xử lý dầu mỏ đều có thể tạo ra khí CO₂. Ví dụ, trong sản xuất thép từ quặng sắt, quá trình khử oxit sắt bằng khí carbon monoxide (CO) tạo ra CO₂.
+P0258 [Normal] Sản xuất xi măng: Ngành sản xuất xi măng, trong đó phần lớn là từ việc nung đá vôi (CaCO₃) để sản xuất vôi (CaO), cũng phát thải một lượng lớn CO₂. Đây là một phần quan trọng trong quá trình khai thác và chế biến khoáng sản.
+P0259 [Normal] c. Phát thải CH₄ (Methane)
+P0260 [Normal] Khai thác mỏ than: Khí methane (CH₄) là khí chủ yếu phát thải từ khai thác mỏ than. Methane có thể được giải phóng trong quá trình khai thác và chế biến than. Tuy nhiên, nếu không được thu giữ, methane có thể trở thành một nguồn phát thải mạnh mẽ, bởi vì methane là khí nhà kính có hiệu ứng nóng ấm mạnh gấp 25 lần CO₂ trong vòng 100 năm.
+P0261 [Normal] Khai thác khí tự nhiên và dầu mỏ: Trong quá trình khai thác khí tự nhiên và dầu mỏ, một lượng methane không nhỏ có thể bị rò rỉ ra môi trường, đặc biệt trong các giai đoạn vận chuyển, nén khí, hay trong các cơ sở chế biến khí và dầu.
+P0262 [Normal] d. Phát thải N₂O (Nitrous oxide)
+P0263 [Normal] Sử dụng hóa chất trong khai khoáng: Các hoạt động sử dụng hóa chất trong khai thác mỏ (như xyanua trong khai thác vàng) có thể phát thải một lượng nhỏ khí N₂O. Tuy nhiên, nguồn phát thải này thường ít quan trọng hơn so với CO₂ và CH₄ trong ngành khai khoáng.
+P0264 [Normal] e. Phát thải từ các hoạt động phụ trợ
+P0265 [Normal] Các hoạt động phụ trợ như vận chuyển vật liệu (đường bộ, đường sắt, hoặc đường biển), cung cấp điện cho các khu vực khai thác, và các cơ sở hạ tầng khác (ví dụ: các máy móc nặng, hệ thống làm lạnh, thắp sáng) đều góp phần vào việc phát thải khí nhà kính.
+P0266 [Normal] 2. Các yếu tố gây độ không chắc chắn trong ước tính phát thải khí nhà kính từ công nghiệp khai khoáng
+P0267 [Normal] a. Dữ liệu đầu vào không đầy đủ hoặc không chính xác
+P0268 [Normal] Thiếu dữ liệu về sản lượng khai thác: Việc thu thập và theo dõi chính xác sản lượng khai thác khoáng sản và nhiên liệu (như than, quặng, dầu mỏ) có thể gặp khó khăn. Những thiếu sót trong dữ liệu có thể gây khó khăn trong việc ước tính chính xác tổng lượng phát thải khí nhà kính từ ngành này.
+P0269 [Normal] Dữ liệu về năng lượng tiêu thụ: Đối với nhiều mỏ và nhà máy chế biến khoáng sản, dữ liệu về năng lượng tiêu thụ (đặc biệt là năng lượng từ nhiên liệu hóa thạch) có thể không được đo đạc đầy đủ hoặc không được phân loại rõ ràng, điều này làm tăng độ không chắc chắn trong ước tính.
+P0270 [Normal] b. Biến động trong quy trình và công nghệ
+P0271 [Normal] Khác biệt về công nghệ: Các công nghệ khai thác và chế biến khoáng sản khác nhau có thể dẫn đến sự khác biệt lớn trong mức độ phát thải khí nhà kính. Chẳng hạn, công nghệ khai thác và chế biến than có thể sử dụng năng lượng từ nhiên liệu hóa thạch với hiệu quả khác nhau, dẫn đến sự khác biệt lớn trong mức phát thải CO₂.
+P0272 [Normal] Công nghệ thu khí methane (CH₄): Một số công ty khai thác than có thể thu hồi và sử dụng methane thay vì để nó thoát ra môi trường. Tuy nhiên, không phải tất cả các quốc gia hoặc công ty đều áp dụng công nghệ này, dẫn đến sự không chắc chắn trong việc tính toán lượng methane phát thải.
+P0273 [Normal] c. Độ không chắc chắn trong hệ số phát thải
+P0274 [Normal] Hệ số phát thải từ quá trình chế biến khoáng sản có thể thay đổi tùy thuộc vào công nghệ và quy mô sản xuất. Ví dụ, các công nghệ thu hồi năng lượng từ khí thải có thể giảm thiểu lượng CO₂ phát thải từ các nhà máy chế biến khoáng sản, trong khi các phương pháp chế biến khác có thể phát thải nhiều hơn.
+P0275 [Normal] Phát thải methane từ khai thác mỏ than: Việc ước tính chính xác lượng methane phát thải từ các mỏ than có thể gặp khó khăn vì nó phụ thuộc vào độ sâu của mỏ, phương pháp khai thác, và mức độ thu hồi methane.
+P0276 [Normal] d. Phát thải gián tiếp
+P0277 [Normal] Các nguồn phát thải gián tiếp từ năng lượng (điện, nhiên liệu) sử dụng trong công nghiệp khai khoáng, đặc biệt là trong các khu vực có tỷ lệ sử dụng năng lượng từ nguồn hóa thạch cao, có thể chưa được tính toán đầy đủ. Việc thiếu thông tin về cấu trúc năng lượng trong khu vực có thể làm tăng độ không chắc chắn khi tính toán các phát thải gián tiếp.
+P0278 [Normal] e. Các yếu tố môi trường và địa lý
+P0279 [Normal] Điều kiện địa lý: Việc khai thác khoáng sản ở các khu vực địa lý khác nhau (như ở vùng cao nguyên hoặc vùng có điều kiện khí hậu khác biệt) có thể tạo ra sự khác biệt trong mức độ phát thải khí nhà kính, điều này gây khó khăn cho việc mô phỏng và ước tính chính xác.
+P0280 [Normal] Năm 2022, ngành công nghiệp khai khoáng có tổng lượng phát thải khoảng 44.411,86 Gg CO2tđ. Độ không chắc chắn đối với lĩnh vực này được đánh giá ở mức 30,4%. Các phát thải chủ yếu từ các nguồn sản xuất xi măng, sản xuất đá vôi, sản xuất kính.
+P0281 [Caption] Bảng  3:  Lượng phát thải và độ không chắc chắn trong kiểm kê KNK năm 2022 của phát thải từ Công nghiệp khai khoáng (2A)
+P0283 [Normal] Phát thải khí nhà kính từ Công nghiệp hóa chất (2B):
+P0284 [Normal] Công nghiệp hóa chất là một trong những ngành đóng góp đáng kể vào lượng khí nhà kính toàn cầu. Các quá trình sản xuất, chế biến hóa chất tiêu thụ năng lượng lớn, giải phóng nhiều loại khí gây hiệu ứng nhà kính, và tác động trực tiếp đến biến đổi khí hậu.
+P0285 [Normal] Ngành hóa chất bao gồm nhiều hoạt động sản xuất và chế biến các loại hóa chất, từ các hóa chất cơ bản (như axit sulfuric, amoniac, hoặc xút) đến các hóa chất phức tạp hơn dùng trong các ngành công nghiệp khác (như dược phẩm, nhựa, phân bón, thuốc trừ sâu). Những quá trình này không chỉ tạo ra khí CO₂ mà còn phát thải các khí nhà kính khác như CH₄ (methane) và N₂O (nitrous oxide), cũng như các khí gây hiệu ứng nhà kính có tiềm năng làm thay đổi khí hậu mạnh mẽ.
+P0286 [Normal] 1. Các nguồn phát thải khí nhà kính từ công nghiệp hóa chất
+P0287 [Normal] a. Phát thải từ quá trình sản xuất hóa chất
+P0288 [Normal] Phát thải CO₂ từ quá trình tổng hợp hóa chất: Quá trình sản xuất các hóa chất cơ bản, như amoniac, axit sulfuric, hoặc xút, đều sử dụng nhiên liệu hóa thạch (như khí tự nhiên, than đá, dầu) hoặc điện năng, dẫn đến phát thải CO₂. Ví dụ, sản xuất amoniac (qua quá trình Haber-Bosch) là một trong những nguồn phát thải CO₂ lớn nhất trong ngành hóa chất do việc sử dụng khí tự nhiên làm nguyên liệu.
+P0289 [Normal] Chế biến và sử dụng nguyên liệu hóa thạch: Trong quá trình tổng hợp các hóa chất phức tạp như nhựa, dung môi, thuốc trừ sâu, khí CO₂ cũng được phát thải do sử dụng nhiên liệu hóa thạch và các phản ứng hóa học tạo ra sản phẩm cuối cùng. Các nhà máy sản xuất nhựa, đặc biệt là nhựa PET (polyethylene terephthalate), thường sử dụng quy trình hóa học tạo ra CO₂ trong khi tổng hợp các polymer.
+P0290 [Normal] b. Phát thải từ các phản ứng hóa học
+P0291 [Normal] Phát thải N₂O (Nitrous oxide): Một trong những nguồn phát thải khí nhà kính quan trọng từ ngành công nghiệp hóa chất là N₂O, đặc biệt là từ sản xuất nitric acid và các loại phân bón chứa nitơ. Quá trình sản xuất nitric acid từ amoniac, một quá trình công nghiệp phổ biến, có thể tạo ra N₂O là sản phẩm phụ. Ngoài ra, phân bón nitrat trong nông nghiệp cũng có thể tạo ra N₂O khi bị phân hủy trong đất.
+P0292 [Normal] Phát thải CH₄ (Methane): Methane có thể được phát thải trong quá trình chế biến hóa dầu và khí tự nhiên, đặc biệt là trong các nhà máy sản xuất ethylene, propylene và các sản phẩm hóa dầu khác. Quá trình cracking (phân hủy nhiệt) của khí tự nhiên hoặc dầu thô để sản xuất ethylene có thể tạo ra một lượng methane nhỏ, nhưng rất mạnh mẽ như khí nhà kính.
+P0293 [Normal] c. Phát thải từ các quá trình phụ trợ và sử dụng năng lượng
+P0294 [Normal] Năng lượng tiêu thụ trong sản xuất hóa chất: Ngành công nghiệp hóa chất là một trong những ngành tiêu thụ năng lượng lớn nhất, với phần lớn năng lượng được cung cấp từ nguồn nhiên liệu hóa thạch. Việc đốt nhiên liệu hóa thạch để cung cấp năng lượng cho các quá trình sản xuất có thể tạo ra khí CO₂, đặc biệt trong các nhà máy sản xuất hóa chất phức tạp và chế biến các nguyên liệu từ dầu khí.
+P0295 [Normal] Khí thải từ việc sử dụng dung môi và hóa chất: Sử dụng dung môi hữu cơ (như toluene, xylene, hay các hợp chất hữu cơ bay hơi khác) trong sản xuất hóa chất cũng có thể phát thải khí nhà kính. Các dung môi này có thể bay hơi trong quá trình sản xuất và đóng gói, tạo ra khí hữu cơ bay hơi (VOCs) có tác động gián tiếp đến hiệu ứng nhà kính và tạo ra các chất ô nhiễm không khí.
+P0296 [Normal] d. Phát thải từ quá trình tiêu thụ và sử dụng hóa chất
+P0297 [Normal] Sản phẩm hóa chất trong nông nghiệp: Phát thải từ việc sử dụng các sản phẩm hóa chất như phân bón nitrat, thuốc trừ sâu, và các chất hóa học khác trong nông nghiệp có thể dẫn đến phát thải khí nhà kính, đặc biệt là N₂O. Phân bón nitrat, khi được sử dụng trong đất, có thể phân hủy và giải phóng N₂O, một khí nhà kính mạnh mẽ.
+P0298 [Normal] Khí thải từ các sản phẩm nhựa và polymer: Trong quá trình sử dụng các sản phẩm nhựa, đặc biệt là nhựa khó phân hủy, có thể tạo ra các khí nhà kính khi các sản phẩm này bị phân hủy hoặc đốt cháy. Nhựa PET và các polymer khác có thể phát thải CO₂ khi bị đốt bỏ hoặc phân hủy trong môi trường.
+P0299 [Normal] 2. Các yếu tố gây độ không chắc chắn trong ước tính phát thải khí nhà kính từ công nghiệp hóa chất
+P0300 [Normal] a. Dữ liệu đầu vào không đầy đủ hoặc không chính xác
+P0301 [Normal] Thiếu dữ liệu về sản xuất và tiêu thụ hóa chất: Việc thiếu dữ liệu chi tiết về sản lượng các hóa chất được sản xuất và tiêu thụ có thể dẫn đến sự không chắc chắn trong việc ước tính phát thải khí nhà kính. Nhiều quốc gia hoặc công ty không có hệ thống theo dõi và báo cáo chính xác lượng hóa chất sản xuất hoặc tiêu thụ.
+P0302 [Normal] Không đồng nhất trong báo cáo phát thải: Các quốc gia và khu vực có thể sử dụng các phương pháp và hệ thống báo cáo khác nhau, dẫn đến sự không đồng nhất trong các dữ liệu liên quan đến phát thải khí nhà kính từ công nghiệp hóa chất.
+P0303 [Normal] b. Biến động trong hệ số phát thải
+P0304 [Normal] Sự khác biệt trong quy trình công nghệ: Các phương pháp sản xuất và công nghệ khác nhau trong ngành hóa chất có thể tạo ra mức độ phát thải khác nhau. Ví dụ, sản xuất amoniac từ khí tự nhiên có thể có mức phát thải CO₂ khác với sản xuất amoniac từ than đá. Các công nghệ thu hồi khí N₂O cũng có thể làm giảm mức phát thải khí nhà kính, nhưng không phải mọi cơ sở sản xuất đều áp dụng các công nghệ này.
+P0305 [Normal] Hệ số phát thải không đồng nhất: Sự khác biệt trong hệ số phát thải từ các quá trình sản xuất hóa chất, chẳng hạn như quá trình cracking để sản xuất ethylene, có thể làm tăng độ không chắc chắn trong việc tính toán phát thải.
+P0306 [Normal] c. Phát thải gián tiếp
+P0307 [Normal] Phát thải gián tiếp từ sử dụng năng lượng: Công nghiệp hóa chất tiêu thụ một lượng lớn năng lượng, phần lớn từ nhiên liệu hóa thạch. Tuy nhiên, trong nhiều trường hợp, các dữ liệu về năng lượng tiêu thụ và nguồn năng lượng lại không rõ ràng hoặc không được báo cáo đầy đủ, gây khó khăn trong việc tính toán phát thải khí nhà kính gián tiếp từ năng lượng.
+P0308 [Normal] d. Biến động trong chất lượng dữ liệu khí thải
+P0309 [Normal] Khí thải từ các phản ứng hóa học: Các dữ liệu về khí thải từ các phản ứng hóa học, như N₂O từ sản xuất nitric acid, có thể thiếu chính xác, đặc biệt là trong các quy trình sản xuất không đồng nhất hoặc chưa được kiểm soát tốt. Điều này tạo ra sự không chắc chắn trong việc xác định mức độ phát thải từ các ngành công nghiệp hóa chất.
+P0310 [Normal] Theo kiểm kê lượng phát thải ngành công nghiệp hóa chất năm 2022 khoảng 2.282,99 Gg CO2tđ, độ không chắc chắn được đánh giá ở mức 9,8%.
+P0311 [Caption] Bảng 4: Lượng phát thải và độ không chắc chắn trong kiểm kê KNK năm 2022 của Công nghiệp hóa chất (2B)
+P0313 [Normal] Phát thải khí nhà kính từ Công nghiệp luyện kim (2C):
+P0314 [Normal] Công nghiệp luyện kim, đặc biệt là luyện kim đen (sắt, thép), là một trong những nguồn phát thải khí nhà kính lớn nhất trên thế giới. Quá trình sản xuất thép, từ việc khai thác quặng sắt đến quá trình luyện gang, đều tiêu tốn một lượng lớn năng lượng và giải phóng một lượng đáng kể khí thải. Các quá trình sản xuất và chế biến kim loại này thường rất tốn năng lượng và phụ thuộc vào nhiên liệu hóa thạch, điều này dẫn đến việc phát thải một lượng đáng kể khí nhà kính (KNK), chủ yếu là CO₂ (carbon dioxide), CH₄ (methane) và N₂O (nitrous oxide). Đặc biệt, sản xuất thép và nhôm là hai ngành có mức độ phát thải cao nhất trong công nghiệp luyện kim.
+P0315 [Normal] 1. Các nguồn phát thải khí nhà kính trong công nghiệp luyện kim
+P0316 [Normal] a. Phát thải CO₂ từ quá trình sản xuất thép
+P0317 [Normal] Quá trình lò cao (Blast Furnace): Sản xuất thép bằng phương pháp lò cao là một trong những nguồn phát thải CO₂ lớn nhất trong công nghiệp luyện kim. Trong quá trình này, quặng sắt (Fe₂O₃) được khử bằng các chất khử (như than cốc) để tạo ra gang. Quá trình khử này giải phóng CO₂. Ví dụ, trong một tấn thép sản xuất từ quặng sắt, có thể phát thải khoảng 1,8 tấn CO₂.
+P0318 [Normal] Phát thải từ quá trình sử dụng nhiên liệu hóa thạch: Các quá trình đốt nhiên liệu hóa thạch (như than đá, dầu, khí tự nhiên) để cung cấp nhiệt năng cho các lò luyện kim cũng là nguồn phát thải khí CO₂ đáng kể.
+P0319 [Normal] b. Phát thải CO₂ từ sản xuất nhôm
+P0320 [Normal] Quá trình điện phân nhôm (Hall-Héroult process): Sản xuất nhôm từ quặng bauxite thông qua quá trình điện phân sử dụng điện năng từ các nguồn hóa thạch là một nguồn phát thải CO₂ khác. Quá trình điện phân này không phát thải CO₂ trực tiếp từ quặng, nhưng lượng điện tiêu thụ lớn, nếu sử dụng năng lượng từ nhiên liệu hóa thạch, sẽ tạo ra CO₂.
+P0321 [Normal] Phát thải CO₂ từ nhiên liệu đốt trong sản xuất nhôm: Để duy trì nhiệt độ cao trong quá trình luyện kim, việc đốt nhiên liệu hóa thạch, như than, dầu hoặc khí tự nhiên, có thể tạo ra CO₂.
+P0322 [Normal] c. Phát thải CH₄ (Methane)
+P0323 [Normal] Khí methane trong quá trình luyện thép: Trong một số quy trình sản xuất thép, khí methane có thể được phát thải, đặc biệt là trong quá trình sản xuất thép từ quặng sắt (sử dụng than cốc và khí CO). Tuy nhiên, phát thải methane trong công nghiệp luyện kim thường không lớn bằng CO₂, nhưng khí này có tác động mạnh mẽ hơn nhiều lần đối với hiệu ứng nhà kính.
+P0324 [Normal] Phát thải methane trong quá trình sản xuất thép dạng lò điện (Electric Arc Furnace - EAF): Các lò điện trong sản xuất thép có thể phát thải methane, mặc dù đây là một phần nhỏ so với lò cao. Tuy nhiên, một số nhà máy thép có thể thu hồi và sử dụng methane để giảm thiểu phát thải.
+P0325 [Normal] d. Phát thải N₂O (Nitrous oxide)
+P0326 [Normal] Phát thải N₂O từ quá trình sản xuất thép: N₂O có thể được phát thải trong một số quy trình luyện kim, chẳng hạn như trong sản xuất thép từ quặng sắt hoặc quá trình sử dụng oxy trong sản xuất. N₂O có khả năng gây hiệu ứng nhà kính mạnh gấp 300 lần so với CO₂, mặc dù lượng phát thải này không phải là nguồn phát thải chủ yếu.
+P0327 [Normal] e. Các nguồn phát thải khác
+P0328 [Normal] Phát thải từ quá trình sử dụng và tái chế kim loại: Trong quá trình tái chế kim loại, đặc biệt là thép, nhôm, và đồng, lượng phát thải CO₂ có thể được giảm so với sản xuất từ nguyên liệu thô. Tuy nhiên, trong một số trường hợp, các khí nhà kính vẫn có thể được phát thải từ các nguồn phụ như nhiên liệu đốt, các phản ứng hóa học hoặc quá trình luyện kim không hoàn hảo.
+P0329 [Normal] 2. Các yếu tố gây độ không chắc chắn trong ước tính phát thải khí nhà kính từ công nghiệp luyện kim
+P0330 [Normal] a. Dữ liệu đầu vào không đầy đủ hoặc không chính xác
+P0331 [Normal] Thiếu dữ liệu về sản lượng kim loại: Việc theo dõi và báo cáo chính xác sản lượng kim loại sản xuất hoặc tái chế có thể gặp khó khăn, đặc biệt là ở các quốc gia phát triển hoặc các khu vực không có hệ thống kiểm soát dữ liệu tốt.
+P0332 [Normal] Không thống nhất trong báo cáo: Các quốc gia hoặc công ty có thể sử dụng các phương pháp và hệ thống báo cáo khác nhau, dẫn đến sự không đồng nhất trong các số liệu về phát thải khí nhà kính trong ngành luyện kim. Điều này gây khó khăn trong việc xác định chính xác tổng lượng phát thải toàn cầu.
+P0333 [Normal] b. Biến động trong công nghệ và quy trình
+P0334 [Normal] Công nghệ luyện kim khác nhau: Các phương pháp sản xuất kim loại khác nhau (như lò cao, lò điện, lò thổi oxy) có thể có mức độ phát thải khí nhà kính khác nhau. Công nghệ sản xuất thép thông qua lò điện (EAF) có thể có phát thải CO₂ thấp hơn so với phương pháp truyền thống sử dụng lò cao, nhưng không phải tất cả các nhà máy đều chuyển sang sử dụng công nghệ này.
+P0336 [Normal] Công nghệ thu hồi khí: Một số nhà máy luyện kim có thể sử dụng công nghệ thu hồi khí (như thu hồi CO₂ và CH₄ trong sản xuất thép), nhưng các công nghệ này không được áp dụng rộng rãi, và không phải tất cả các nhà máy luyện kim đều có hệ thống thu hồi và xử lý khí nhà kính.
+P0337 [Normal] c. Biến động trong hệ số phát thải
+P0338 [Normal] Hệ số phát thải CO₂ khác nhau: Hệ số phát thải CO₂ có thể khác nhau tùy theo loại kim loại được sản xuất, loại nhiên liệu sử dụng (than cốc, khí tự nhiên, dầu, v.v.), và phương pháp sản xuất. Sự khác biệt này có thể gây khó khăn trong việc ước tính chính xác tổng lượng phát thải.
+P0339 [Normal] Khí thải gián tiếp: Trong quá trình sản xuất kim loại, các khí thải gián tiếp từ năng lượng tiêu thụ (như điện) cũng có thể góp phần vào tổng lượng phát thải khí nhà kính. Tuy nhiên, dữ liệu về phát thải gián tiếp từ năng lượng có thể không được thu thập đầy đủ hoặc rõ ràng, dẫn đến sự không chắc chắn trong ước tính.
+P0340 [Normal] d. Các yếu tố môi trường và địa lý
+P0341 [Normal] Điều kiện địa lý và quy mô sản xuất: Các khu vực khác nhau có thể có mức độ phát thải khác nhau do sự khác biệt trong các phương pháp sản xuất, nguồn năng lượng sử dụng và quy mô của nhà máy luyện kim. Ví dụ, các nhà máy luyện kim ở các quốc gia sử dụng năng lượng tái tạo có thể có mức phát thải thấp hơn so với các nhà máy ở những quốc gia phụ thuộc vào nhiên liệu hóa thạch.
+P0342 [Normal] Độ không chắc chắn trong kiểm kê phát thải khí nhà kính từ công nghiệp luyện kim năm 2022:
+P0343 [Normal] Lượng khí CO2 phát sinh từ công nghiệp luyện kim năm 2022 bằng 23.962,42 Gg CO2tđ, độ không chắc chắn được đánh giá ở mức 24,1%.
+P0344 [Caption] Bảng 5: Lượng phát thải và độ không chắc chắn trong kiểm kê KNK năm 2022 của Công nghiệp luyện kim (2C)
+P0346 [Normal] Phát thải khí nhà kính từ hoạt động sản xuất Các sản phẩm phi năng lượng từ nhiên liệu và sử dụng dung môi (2D):
+P0347 [Normal] Hoạt động sản xuất các sản phẩm phi năng lượng từ nhiên liệu và sử dụng dung môi đóng góp một phần đáng kể vào tổng lượng khí nhà kính thải ra toàn cầu. Mặc dù không trực tiếp đốt cháy nhiên liệu để tạo ra năng lượng, các quá trình sản xuất này vẫn gây ra phát thải khí nhà kính thông qua nhiều con đường khác nhau.
+P0348 [Normal] 1. Các nguồn phát thải khí nhà kính trong sản xuất các sản phẩm phi năng lượng từ nhiên liệu
+P0349 [Normal] a. Sản xuất dầu mỏ và các sản phẩm dầu mỏ (như xăng, dầu diesel, và các sản phẩm hóa dầu)
+P0350 [Normal] Phát thải CO₂ từ sản xuất và chế biến dầu mỏ: Quá trình khai thác, vận chuyển và chế biến dầu mỏ để tạo ra các sản phẩm như xăng, dầu diesel, nhựa, và hóa chất sẽ phát thải một lượng lớn CO₂. Trong quá trình chưng cất và chuyển đổi dầu mỏ thành các sản phẩm dầu khí khác, nhiều khí nhà kính được tạo ra, đặc biệt là CO₂.
+P0351 [Normal] Phát thải từ sử dụng năng lượng trong sản xuất: Các nhà máy chế biến dầu mỏ sử dụng một lượng lớn năng lượng, thường là năng lượng từ các nhiên liệu hóa thạch (như khí tự nhiên hoặc than đá), để duy trì nhiệt độ và các quá trình sản xuất, tạo ra CO₂ trong quá trình đốt cháy nhiên liệu.
+P0352 [Normal] b. Sản xuất khí thiên nhiên (khí hóa lỏng LNG, khí tự nhiên hóa lỏng)
+P0353 [Normal] Phát thải CO₂ trong sản xuất khí tự nhiên: Quá trình chiết xuất và xử lý khí tự nhiên để sản xuất LNG hoặc khí tự nhiên sử dụng trong công nghiệp cũng tạo ra một lượng CO₂ đáng kể, do sử dụng năng lượng và quá trình chế biến khí. Mặc dù khí tự nhiên có ít CO₂ hơn so với than đá, nhưng vẫn có sự phát thải đáng kể từ các cơ sở khai thác và chế biến.
+P0354 [Normal] Rò rỉ khí methane (CH₄): Trong quá trình khai thác, vận chuyển và lưu trữ khí tự nhiên, rò rỉ methane có thể xảy ra. Mặc dù methane có tác động mạnh gấp 25 lần CO₂ trong việc gây hiệu ứng nhà kính, nhưng phát thải methane không phải lúc nào cũng được kiểm soát chặt chẽ.
+P0355 [Normal] c. Sản xuất và sử dụng các sản phẩm hóa dầu (nhựa, phân bón, dung môi)
+P0356 [Normal] Phát thải CO₂ trong sản xuất hóa dầu: Sản xuất các sản phẩm hóa dầu như nhựa (polyethylene, polypropylene, PVC, v.v.) hoặc phân bón hóa học (như amoniac, ure) từ dầu khí hoặc khí tự nhiên cũng là nguồn phát thải CO₂ lớn. Quá trình cracking (phân hủy nhiệt) của dầu mỏ và khí tự nhiên để tạo ra các monomer (chất nền) cần thiết cho sản xuất nhựa hoặc hóa chất cũng giải phóng CO₂.
+P0357 [Normal] Phát thải từ việc sử dụng khí thải trong các quá trình sản xuất: Trong các nhà máy sản xuất nhựa hoặc hóa dầu, các khí thải từ các phản ứng hóa học như cracking hoặc reforming cũng phát thải CO₂ và các khí khác. Quá trình tổng hợp phân bón nitrat từ khí tự nhiên cũng là một nguồn phát thải CO₂.
+P0358 [Normal] 2. Phát thải khí nhà kính từ sử dụng dung môi trong sản xuất
+P0359 [Normal] a. Dung môi hữu cơ trong sản xuất hóa chất và sơn
+P0360 [Normal] Phát thải VOC (hợp chất hữu cơ bay hơi): Dung môi hữu cơ, chẳng hạn như toluene, xylene, acetone, và các dung môi khác, được sử dụng rộng rãi trong công nghiệp sản xuất hóa chất, sơn, mực in và dược phẩm. Trong quá trình sản xuất và sử dụng các dung môi này, một phần của chúng có thể bay hơi vào khí quyển dưới dạng VOC, góp phần vào hiệu ứng nhà kính và ô nhiễm không khí. Mặc dù VOC không phải là khí nhà kính mạnh như CO₂, nhưng chúng có thể tạo ra các phản ứng hóa học trong bầu khí quyển, dẫn đến hình thành ozone ở tầng đối lưu, góp phần vào sự nóng lên toàn cầu.
+P0361 [Normal] Phát thải CO₂ từ các quá trình sử dụng dung môi: Ngoài VOC, việc sử dụng năng lượng trong các quy trình sử dụng dung môi (như đốt nhiên liệu để cung cấp nhiệt cho quá trình làm khô sơn hoặc làm sạch trong công nghiệp hóa chất) có thể phát thải CO₂. Năng lượng sử dụng chủ yếu là từ các nguồn hóa thạch (đặc biệt là khí tự nhiên hoặc dầu), dẫn đến phát thải khí CO₂ trong quá trình vận hành.
+P0362 [Normal] b. Sử dụng dung môi trong sản xuất dược phẩm và các ngành công nghiệp khác
+P0363 [Normal] Dung môi trong sản xuất dược phẩm: Trong ngành dược phẩm, dung môi hữu cơ (như ethanol, isopropyl alcohol) được sử dụng để hòa tan, tinh chế và sản xuất thuốc. Quá trình này cũng tạo ra một lượng khí thải CO₂ và VOC. Tuy nhiên, tác động của phát thải này trong ngành dược phẩm có thể không đáng kể so với các ngành công nghiệp khác.
+P0364 [Normal] Phát thải từ các quy trình xử lý khí thải: Các công ty có thể áp dụng công nghệ thu hồi dung môi hoặc sử dụng hệ thống xử lý khí thải để giảm thiểu phát thải VOC. Tuy nhiên, các hệ thống này không phải lúc nào cũng hiệu quả hoàn toàn và có thể vẫn để lại lượng khí thải đáng kể.
+P0365 [Normal] c. Phát thải CO₂ từ đốt cháy dung môi trong các ngành công nghiệp khác
+P0366 [Normal] Đốt cháy dung môi hoặc chất thải hữu cơ: Một số ngành công nghiệp có thể đốt dung môi hoặc chất thải hữu cơ (như các chất thải từ quá trình sản xuất hóa chất hoặc sơn) để giảm thiểu nguy cơ ô nhiễm hoặc thu hồi năng lượng. Tuy nhiên, việc đốt cháy này cũng phát thải CO₂ và các khí nhà kính khác.
+P0367 [Normal] Lượng khí CO2 phát sinh từ hoạt động sản xuất Các sản phẩm phi năng lượng từ nhiên liệu và sử dụng dung môi năm 2022 bằng 60,53 Gg CO2tđ, độ không chắc chắn được đánh giá ở mức 59,9%.
+P0368 [Caption] Bảng 6: Lượng phát thải và độ không chắc chắn trong kiểm kê KNK năm 2022 từ hoạt động sản xuất Các sản phẩm phi năng lượng từ nhiên liệu và sử dụng dung môi (2D)
+P0370 [Normal] Phát thải các hợp chất phá hủy tầng ozon (2F):
+P0371 [Normal] Các hợp chất phá hủy tầng ozon (ODS - Ozone Depleting Substances) là những chất hóa học gây hại tầng ozon, một lớp khí quan trọng bảo vệ Trái Đất khỏi tia cực tím có hại từ Mặt Trời. Việc phát thải các chất này đã dẫn đến tình trạng suy giảm tầng ozon và lỗ thủng tầng ozon, gây ra nhiều hậu quả nghiêm trọng.
+P0372 [Normal] Kiểm kê phát thải các hợp chất phá hủy tầng ozone (ODS) là một quá trình quan trọng để đánh giá lượng chất ODS được sử dụng, tiêu thụ và thải ra trong một hệ thống nhất định, như một doanh nghiệp, một ngành công nghiệp hoặc một quốc gia. Việc kiểm kê này cung cấp thông tin cơ bản để:
+P0373 [Normal] Đánh giá tác động: Hiểu rõ mức độ ảnh hưởng của các hoạt động sử dụng ODS đến tầng ozone và môi trường.
+P0374 [Normal] Lập kế hoạch giảm thiểu: Xây dựng các kế hoạch cụ thể để giảm thiểu lượng ODS sử dụng và phát thải.
+P0375 [Normal] Tuân thủ quy định: Đảm bảo tuân thủ các quy định quốc tế và quốc gia về quản lý ODS.
+P0376 [Normal] Cải thiện hiệu quả: Tìm kiếm các cơ hội để nâng cao hiệu quả sử dụng ODS và giảm thiểu chi phí.
+P0377 [Normal] Độ không chắc chắn trong kiểm kê phát thải các hợp chất phá hủy tầng ozon (ODS):
+P0378 [Normal] Độ không chắc chắn trong kiểm kê phát thải các hợp chất phá hủy tầng ozon (ODS) là một vấn đề quan trọng cần được xem xét trong quá trình đánh giá và báo cáo phát thải các hợp chất này. Độ không chắc chắn trong kiểm kê phản ánh sự không đầy đủ, không chính xác, hoặc biến động trong dữ liệu và thông tin liên quan đến nguồn gốc, mức độ phát thải và tác động của các hợp chất phá hủy tầng ozon, và nó có thể ảnh hưởng đến các chính sách bảo vệ tầng ozon.
+P0379 [Normal] 1. Nguồn độ không chắc chắn trong kiểm kê phát thải ODS
+P0380 [Normal] Độ không chắc chắn trong kiểm kê phát thải ODS có thể xuất phát từ nhiều yếu tố khác nhau, bao gồm dữ liệu không đầy đủ, phương pháp tính toán không chính xác, thiếu thông tin về các nguồn phát thải cụ thể, và sự thay đổi trong các thông số sử dụng. Dưới đây là các nguồn độ không chắc chắn phổ biến trong kiểm kê phát thải ODS:
+P0381 [Normal] a. Dữ liệu về sản lượng và tiêu thụ ODS
+P0382 [Normal] Sản lượng sản xuất: Việc thu thập dữ liệu về sản lượng sản xuất các hợp chất ODS có thể không đầy đủ hoặc không chính xác, đặc biệt là ở các quốc gia có nền công nghiệp kém phát triển hoặc chưa được giám sát chặt chẽ. Các nhà sản xuất có thể không báo cáo đầy đủ hoặc không chính xác về lượng ODS được sản xuất.
+P0383 [Normal] Dữ liệu tiêu thụ: Các số liệu về tiêu thụ ODS, bao gồm việc sử dụng trong các ứng dụng công nghiệp và tiêu dùng (hệ thống làm lạnh, điều hòa không khí, bình xịt, thuốc trừ sâu, v.v.), cũng có thể thiếu chính xác do thiếu báo cáo, không đồng bộ trong việc thu thập thông tin, hoặc thay đổi trong mức tiêu thụ theo thời gian.
+P0384 [Normal] b. Tỷ lệ rò rỉ ODS
+P0385 [Normal] Thiết bị và hệ thống làm lạnh: Các thiết bị như máy điều hòa không khí, tủ lạnh, và hệ thống làm lạnh công nghiệp có thể rò rỉ ODS trong suốt quá trình sử dụng. Tuy nhiên, tỷ lệ rò rỉ này rất khó đo lường chính xác, đặc biệt đối với các thiết bị cũ hoặc không được bảo trì tốt. Mức độ rò rỉ có thể thay đổi tùy theo loại thiết bị, độ tuổi của thiết bị và điều kiện sử dụng, dẫn đến sự không chắc chắn trong ước tính tổng lượng phát thải.
+P0386 [Normal] Mức độ bảo dưỡng và thay thế thiết bị: Các quốc gia hoặc khu vực có mức độ bảo dưỡng và thay thế thiết bị khác nhau, dẫn đến sự thay đổi trong tần suất rò rỉ ODS và ảnh hưởng đến độ chính xác của kiểm kê.
+P0387 [Normal] c. Dữ liệu về các nguồn phát thải ODS khác
+P0388 [Normal] Nông nghiệp (Methyl Bromide): Methyl bromide là một hợp chất ODS phổ biến trong nông nghiệp, được sử dụng như một chất khử trùng (fumigant) để kiểm soát sâu bệnh trong đất và bảo quản nông sản. Tuy nhiên, dữ liệu về lượng methyl bromide sử dụng có thể thiếu chính xác hoặc không đầy đủ, do sự thiếu giám sát ở cấp cơ sở hoặc việc sử dụng không được báo cáo đầy đủ.
+P0389 [Normal] Chất thải từ các sản phẩm ODS: Các hợp chất ODS có thể được phát thải trong quá trình thải bỏ, tái chế, hoặc xử lý các sản phẩm cũ (như thiết bị làm lạnh đã hết hạn sử dụng hoặc bị loại bỏ). Các phương pháp thu hồi, tái chế và xử lý chất thải có thể có độ không chắc chắn lớn do thiếu quy định và giám sát chặt chẽ.
+P0390 [Normal] d. Thay đổi trong việc tuân thủ các quy định quốc tế
+P0391 [Normal] Tuân thủ Nghị định thư Montreal: Mặc dù các quốc gia đã cam kết giảm dần sản xuất và tiêu thụ các hợp chất ODS theo Nghị định thư Montreal, nhưng mức độ tuân thủ có thể khác nhau giữa các quốc gia. Một số quốc gia có thể không thực hiện đủ các biện pháp giám sát hoặc báo cáo đầy đủ về việc sử dụng các hợp chất ODS, dẫn đến sự không chắc chắn trong việc xác định các nguồn phát thải.
+P0392 [Normal] Tốc độ chuyển đổi sang các chất thay thế: Sự chuyển đổi từ các hợp chất ODS sang các chất thay thế thân thiện với ozon có thể không đồng đều giữa các ngành công nghiệp và quốc gia. Sự thay đổi trong các quy định và chính sách có thể dẫn đến sự thay đổi trong mức tiêu thụ và phát thải các hợp chất ODS, làm tăng độ không chắc chắn trong kiểm kê.
+P0393 [Normal] 2. Các yếu tố ảnh hưởng đến độ không chắc chắn trong kiểm kê phát thải ODS
+P0394 [Normal] a. Phương pháp tính toán và hệ số phát thải
+P0395 [Normal] Hệ số phát thải: Các hệ số phát thải (emission factors) là những chỉ số quan trọng trong việc ước tính phát thải ODS. Tuy nhiên, các hệ số phát thải có thể thay đổi tùy thuộc vào công nghệ, quy trình và điều kiện sử dụng trong từng quốc gia, khu vực hoặc ngành công nghiệp. Việc áp dụng hệ số phát thải không chính xác có thể dẫn đến sự không chắc chắn trong các ước tính.
+P0396 [Normal] Các phương pháp tính toán: Việc sử dụng các phương pháp tính toán khác nhau (ví dụ: từ dữ liệu thống kê tiêu thụ, mô hình phát thải, hoặc trực tiếp đo lường rò rỉ) có thể tạo ra sự khác biệt trong kết quả kiểm kê. Các phương pháp không đồng nhất hoặc thiếu chính xác có thể gia tăng độ không chắc chắn trong quá trình kiểm kê.
+P0397 [Normal] b. Sự thay đổi trong hành vi tiêu dùng và sản xuất
+P0398 [Normal] Biến động trong thị trường và công nghệ: Sự thay đổi trong thói quen tiêu dùng (như việc chuyển từ thiết bị làm lạnh cũ sang mới) hoặc sự thay đổi công nghệ có thể dẫn đến sự biến động trong việc sử dụng ODS. Ví dụ, việc sử dụng các chất thay thế thân thiện với ozon có thể giảm phát thải ODS, nhưng điều này có thể không được cập nhật kịp thời trong hệ thống kiểm kê.
+P0399 [Normal] Sự thay đổi trong các quy định và chính sách: Các chính sách quốc gia hoặc khu vực liên quan đến quản lý ODS có thể thay đổi theo thời gian, ví dụ như việc điều chỉnh các mức tiêu thụ hoặc quy định về giảm phát thải. Điều này có thể ảnh hưởng đến mức độ phát thải và tăng độ không chắc chắn trong kiểm kê.
+P0400 [Normal] c. Sự khác biệt giữa các quốc gia và khu vực
+P0401 [Normal] Quản lý và báo cáo khác nhau: Các quốc gia có thể áp dụng các mức độ giám sát và kiểm tra khác nhau đối với các ngành công nghiệp sử dụng ODS. Sự thiếu thống nhất trong việc báo cáo dữ liệu giữa các quốc gia cũng có thể làm tăng độ không chắc chắn trong các ước tính phát thải toàn cầu.
+P0402 [Normal] Mức độ tuân thủ Nghị định thư Montreal: Các quốc gia phát triển có xu hướng tuân thủ nghiêm ngặt hơn các cam kết giảm ODS theo Nghị định thư Montreal so với các quốc gia đang phát triển, nơi mà việc sử dụng ODS vẫn phổ biến do chi phí thấp hoặc thiếu các lựa chọn thay thế.
+P0403 [Normal] Lượng khí phát sinh từ lĩnh vực phát thải các hợp chất phá hủy tầng ozon năm 2022 bằng 10.728,09 Gg CO2tđ, độ không chắc chắn được đánh giá ở mức 16,1%.
+P0404 [Caption] Bảng 7: Lượng phát thải và độ không chắc chắn trong kiểm kê KNK năm 2022 - Phát thải các hợp chất phá hủy tầng ozon (2F)
+P0408 [Heading 2] KẾT LUẬN
+P0409 [Normal] Độ không chắc chắn trong kiểm kê phát thải khí nhà kính (KNK) của năm 2022 trong lĩnh vực IPPU (Industrial Processes and Product Use - Quá trình công nghiệp và Sử dụng sản phẩm) là một chủ đề quan trọng trong việc đánh giá và giám sát các nguồn phát thải khí nhà kính từ các hoạt động công nghiệp. Lĩnh vực IPPU bao gồm các ngành công nghiệp như sản xuất xi măng, sản xuất thép, chế biến hóa chất, sản xuất nhôm, sử dụng dung môi, làm lạnh, và sử dụng sản phẩm công nghiệp khác. Trong kiểm kê KNK, độ không chắc chắn là sự không chắc chắn trong việc ước tính tổng phát thải khí nhà kính từ các ngành này và có thể ảnh hưởng đến chất lượng các báo cáo quốc gia về khí nhà kính.
+P0410 [Normal] Phát thải khí nhà kính cho năm 2022 đối với lĩnh vực IPPU đã được thực hiện dựa trên hướng dẫn của IPCC 1996 và GPG 2000. Năm 2022 tổng lượng phát thải trong lĩnh vực IPPU  là 81.456,33 Gg CO2 tương đương. Độ không chắc chắn trong phát thải được đánh giá ở mức 17,9%.
+P0411 [Normal] Đánh giá độ không chắc chắn trong kiểm kê khí nhà kính lĩnh vực IPPU đòi hỏi sự chú trọng và nỗ lực từ các bên liên quan để cung cấp thông tin chính xác và đáng tin cậy về lượng khí thải. Việc xác định nguồn gốc của độ không chắc chắn, áp dụng các phương pháp đánh giá độ không chắc chắn, và hướng phát triển và cải thiện quy trình đo lường và báo cáo là cần thiết để đảm bảo điều này.
+P0412 [Heading 1] TÀI LIỆU THAM KHẢO
+P0413 [Normal] 1.       Bộ Tài nguyên và Môi trường (2003), Thông báo quốc gia lần thứ nhất của Việt Nam cho Công ước khung của Liên Hợp Quốc về Biến đổi khí hậu.
+P0414 [Normal] 2.	Bộ Tài nguyên và Môi trường (2010), Thông báo quốc gia lần thứ hai của Việt Nam cho Công ước khung của Liên hợp quốc về Biến đổi khí hậu.
+P0415 [Normal] 3.	Bộ Tài nguyên và Môi trường (2015), Báo cáo kỹ thuật Dự kiến đóng góp do quốc gia tự quyết định.
+P0416 [Normal] 4.	Bộ Tài nguyên và môi trường. 2015. Báo cáo Đóng góp dự kiến do quốc gia tự xác định của lĩnh vực năng lượng. Xuất bản bởi GIZ.
+P0417 [Normal] 5.	Bộ Tài nguyên và Môi trường (2016), Kịch bản Biến đổi khí hậu, nước biển dâng cho Việt Nam.
+P0418 [Normal] 6.	Bộ Tài nguyên và Môi trường (2017), Báo cáo cập nhật hai năm một lần lần thứ hai của Việt Nam cho Công ước khung của Liên hợp quốc về biến đổi khí hậu.
+P0419 [Normal] 7.	Bộ Tài nguyên và Môi trường (2019), Thông báo quốc gia lần thứ ba của Việt Nam cho Công ước khung của Liên hợp quốc về Biến đổi khí hậu.
+P0420 [Normal] 8.	2006 IPCC Guidelines for National Greenhouse Gas Inventories
+P0421 [Normal] 9.	Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories
+P0422 [Normal] 10.	Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories
+
+=== TABLE 1 (1x2) ===
+R000	TRUNG TÂM ỨNG PHÓ / BIẾN ĐỔI KHÍ HẬU	NGƯỜI THỰC HIỆN
+
+=== TABLE 2 (8x3) ===
+R000	Mã IPCC	Nguồn phát thải/ hấp thụ	Lượng phát thải KNK
+R001	Mã IPCC	Nguồn phát thải/ hấp thụ	Gg CO2tđ
+R002	2	IPPU	81.456,33
+R003	2A	Công nghiệp khai khoáng	44.411,86
+R004	2B	Công nghiệp hóa chất	2.282,99
+R005	2C	Công nghiệp luyện kim	23.962,42
+R006	2D	Các sản phẩm phi năng lượng từ nhiên liệu và sử dụng dung môi	60,53
+R007	2F	Phát thải các hợp chất phá hủy tầng ozon	10.728,09
+
+=== TABLE 3 (20x5) ===
+R000	Mã IPCC	Mã IPCC	KNK	Lượng phát thải
+(Gg CO2tđ)	Độ không chắc chắn (%)
+R001	Mã IPCC	Mã IPCC	KNK	A	B
+R002	2 IPPU	2 IPPU		81.456,33	17,9%
+R003	2A  Công nghiệp khai khoáng	2A  Công nghiệp khai khoáng		44.411,86	30,4%
+R004		2A1 Sản xuất xi măng	CO2	41.483,03	33,5%
+R005		2A2 Sản xuất vôi	CO2	1.769,55	15,1%
+R006		2A3 Sản xuất kính	CO2	592,14	42,7%
+R007		2A4 Các quy trình sử dụng cacbon khác	CO2	567,14	10,3%
+R008	2B Công nghiệp hóa chất	2B Công nghiệp hóa chất		2.282,99	9,8%
+R009		2B1 Sản xuất Amoniac	CO2	2.089,47	28,6%
+R010		2B2 Sản xuất axit nitric	N2O	31,80	25,1%
+R011		2B5 Sản xuất cacbua	CO2	157,20	5,6%
+R012			CH4	19,49	5,6%
+R013	2C Công nghiệp luyện kim	2C Công nghiệp luyện kim		23.962,42	24,1%
+R014		2C1 Sản xuất sắt thép	CO2	23.962,42	24,1%
+R015	2D Các sản phẩm phi năng lượng từ nhiên liệu và sử dụng dung môi	2D Các sản phẩm phi năng lượng từ nhiên liệu và sử dụng dung môi		60,53	59,9%
+R016		2D1 Sử dụng chất bôi trơn	CO2	60,53	52,2%
+R017		2D2 Sử dụng sáp Parafin	CO2	168,23	101,1%
+R018	2F Phát thải các hợp chất phá hủy tầng ozon	2F Phát thải các hợp chất phá hủy tầng ozon	HFCs	10.728,09	16,1%
+R019		2F3 Chất chống cháy	HFCs	10.728,09	16,1%
+
+=== TABLE 4 (9x5) ===
+R000	Mã IPCC	Mã IPCC	KNK	Lượng phát thải
+Gg CO2tđ	Độ không chắc chắn
+R001	Mã IPCC	Mã IPCC	KNK	A	B
+R002	2A	Công nghiệp khai khoáng	CO2	44.411,86	30,4%
+R003	2A1	Sản xuất xi măng	CO2	41.483,03	33,5%
+R004	2A2	Sản xuất vôi	CO2	1.769,55	15,1%
+R005		Vôi có độ canxi cao	CO2	1.593,75	15,1%
+R006		Vôi đôlômit	CO2	288,75	15,1%
+R007	2A3	Sản xuất kính	CO2	592,14	42,7%
+R008	2A4	Các quy trình sử dụng cacbon khác	CO2	567,14	10,3%
+
+=== TABLE 5 (8x5) ===
+R000	Mã IPCC	Mã IPCC	KNK	Lượng phát thải
+Gg CO2tđ	Độ không chắc chắn
+R001	Mã IPCC	Mã IPCC	KNK	A	B
+R002	2B	Công nghiệp hóa chất	CO2	2.282,99	9,8%
+R003	2B1	Sản xuất Amoniac	CO2	2.089,47	28,6%
+R004	2B2	Sản xuất axit nitric	N2O	31,80	25,1%
+R005	2B5	Sản xuất cacbua		176,69	5,0%
+R006			CO2	157,20	5,6%
+R007			CH4	19,49	5,6%
+
+=== TABLE 6 (7x5) ===
+R000	Mã IPCC	Mã IPCC	KNK	Lượng phát thải
+Gg CO2tđ	Độ không chắc chắn
+R001	Mã IPCC	Mã IPCC	KNK	A	B
+R002	2C	Công nghiệp luyện kim		23.962,42	24,1%
+R003	2C1	Sản xuất sắt thép	CO2	23.962,42	24,1%
+R004		BOF	CO2	26.051,09	48.8%
+R005		EAF	CO2	463,27	
+R006		IF	CO2	97,91	
+
+=== TABLE 7 (5x5) ===
+R000	Mã IPCC	Mã IPCC	KNK	Lượng phát thải
+Gg CO2tđ	Độ không chắc chắn
+R001	Mã IPCC	Mã IPCC	KNK	A	B
+R002	2D	Các sản phẩm phi năng lượng từ nhiên liệu và sử dụng dung môi	CO2	60,53	59,9%
+R003	2D1	Sử dụng chất bôi trơn	CO2	60,53	52,2%
+R004	2D2	Sử dụng sáp Parafin	CO2	168,23	101,1%
+
+=== TABLE 8 (4x5) ===
+R000	Mã IPCC	Mã IPCC	KNK	Lượng phát thải
+Gg CO2tđ	Độ không chắc chắn
+R001	Mã IPCC	Mã IPCC	KNK	A	B
+R002	2F	Phát thải các hợp chất phá hủy tầng ozon		10.728,09	16,1%
+R003	2F1	Thiết bị làm lạnh	HFCs	10.728,09	16,1%
+
+=== STYLE COUNTS ===
+Normal	374
+toc 2	10
+Heading 2	10
+table of figures	7
+Caption	7
+toc 1	6
+Heading 1	6
+1 Noi dung	2
+TOC Heading	1
+Hue	1
+
+=== DIRECT FONT COUNTS (characters) ===
+('Times New Roman', 14.0, False, False)	67278
+('', None, False, False)	957
+('Times New Roman', 14.0, False, True)	712
+('Times New Roman', None, False, False)	561
+('Times New Roman', 14.0, True, False)	441

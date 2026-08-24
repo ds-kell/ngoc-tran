@@ -1,0 +1,736 @@
+SOURCE: D:\NgocTran\phase1\bao cao chuyen de\2025-4-29. IE. Bao cao KKQG KNK nam 2021, 2022_nang luong.docx
+PARAGRAPHS=420 TABLES=39 SECTIONS=4
+
+P0000 [Normal] BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG
+P0001 [Normal] CỤC BIẾN ĐỔI KHÍ HẬU
+P0002 [Normal] DỰ ÁN “XÂY DỰNG THÔNG BÁO QUỐC GIA LẦN THỨ TƯ CỦA VIỆT NAM CHO
+P0003 [Normal] CÔNG ƯỚC KHUNG CỦA LIÊN HỢP QUỐC VỀ BIẾN ĐỔI KHÍ HẬU”
+P0004 [Normal] –––––––––––––––––––
+P0008 [Normal] BÁO CÁO TỔNG HỢP
+P0011 [Normal] BÁO CÁO KIỂM KÊ QUỐC GIA
+P0012 [Normal] KHÍ NHÀ KÍNH CHO NĂM 2021, 2022
+P0013 [Normal] TRONG LĨNH VỰC NĂNG LƯỢNG
+P0024 [Normal] Hà Nội, 2025
+P0025 [Normal] BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG
+P0026 [Normal] CỤC BIẾN ĐỔI KHÍ HẬU
+P0027 [Normal] DỰ ÁN “XÂY DỰNG THÔNG BÁO QUỐC GIA LẦN THỨ TƯ CỦA VIỆT NAM CHO
+P0028 [Normal] CÔNG ƯỚC KHUNG CỦA LIÊN HỢP QUỐC VỀ BIẾN ĐỔI KHÍ HẬU”
+P0029 [Normal] –––––––––––––––––––
+P0033 [Normal] BÁO CÁO TỔNG HỢP
+P0037 [Normal] BÁO CÁO KIỂM KÊ QUỐC GIA
+P0038 [Normal] KHÍ NHÀ KÍNH CHO NĂM 2021, 2022
+P0039 [Normal] TRONG LĨNH VỰC NĂNG LƯỢNG
+P0049 [Normal] Hà Nội, 2025
+P0050 [H1-] MỤC LỤC
+P0056 [H1-] DANH MỤC BẢNG
+P0057 [toc 1] Bảng 1. Kết quả phát thải KNK năm 2021 trong lĩnh vực năng lượng	2
+P0058 [toc 1] Bảng 2. Kết quả phát thải KNK năm 2022 trong lĩnh vực năng lượng	3
+P0059 [toc 1] Bảng 3. Tiêu thụ nhiên liệu trong công nghiệp năng lượng năm 2021	5
+P0060 [toc 1] Bảng 4. Tiêu thụ nhiên liệu trong công nghiệp năng lượng năm 2022	6
+P0061 [toc 1] Bảng 5. Hệ số phát thải của tiêu thụ nhiên liệu trong công nghiệp năng lượng	6
+P0062 [toc 1] Bảng 6. Kết quả phát thải KNK từ công nghiệp năng lượng năm 2021	6
+P0063 [toc 1] Bảng 7. Kết quả phát thải KNK từ công nghiệp năng lượng năm 2022	7
+P0064 [toc 1] Bảng 8. Tiêu thụ nhiên liệu trong công nghiệp sản xuất và xây dựng năm 2021	8
+P0065 [toc 1] Bảng 9. Tiêu thụ nhiên liệu trong công nghiệp sản xuất và xây dựng năm 2022	8
+P0066 [toc 1] Bảng 10. Hệ số phát thải của tiêu thụ nhiên liệu trong công nghiệp sản xuất và xây dựng	9
+P0067 [toc 1] Bảng 11. Kết quả phát thải KNK từ công nghiệp sản xuất và xây dựng năm 2021	9
+P0068 [toc 1] Bảng 12. Kết quả phát thải KNK từ công nghiệp sản xuất và xây dựng năm 2022	10
+P0069 [toc 1] Bảng 13. Tiêu thụ nhiên liệu của giao thông vận tải năm 2021	12
+P0070 [toc 1] Bảng 14. Tiêu thụ nhiên liệu của giao thông vận tải năm 2022	12
+P0071 [toc 1] Bảng 15. Hệ số phát thải của tiêu thụ nhiên liệu trong giao thông vận tải	12
+P0072 [toc 1] Bảng 16. Kết quả phát thải khí nhà kính từ giao thông vận tải năm 2021	13
+P0073 [toc 1] Bảng 17. Kết quả phát thải khí nhà kính từ giao thông vận tải năm 2022	13
+P0074 [toc 1] Bảng 18. Kết quả phát thải KNK từ các hoạt động đốt nhiên liệu khác năm 2021	13
+P0075 [toc 1] Bảng 19. Kết quả phát thải KNK từ các hoạt động đốt nhiên liệu khác năm 2022	14
+P0076 [toc 1] Bảng 20. Tiêu thụ nhiên liệu trong thương mại và dịch vụ năm 2021	14
+P0077 [toc 1] Bảng 21. Tiêu thụ nhiên liệu trong thương mại và dịch vụ năm 2022	14
+P0078 [toc 1] Bảng 22. Hệ số phát thải của tiêu thụ nhiên liệu trong thương mại và dịch vụ	15
+P0079 [toc 1] Bảng 23. Tiêu thụ nhiên liệu trong dân dụng năm 2021	15
+P0080 [toc 1] Bảng 24. Tiêu thụ nhiên liệu trong dân dụng năm 2022	16
+P0081 [toc 1] Bảng 25. Hệ số phát thải của tiêu thụ nhiên liệu trong dân dụng	16
+P0082 [toc 1] Bảng 26. Tiêu thụ nhiên liệu trong nông nghiệp, lâm nghiệp và thủy sản năm 2021	17
+P0083 [toc 1] Bảng 27. Tiêu thụ nhiên liệu trong nông nghiệp, lâm nghiệp và thủy sản năm 2022	17
+P0084 [toc 1] Bảng 28. Hệ số phát thải của tiêu thụ nhiên liệu trong nông nghiệp, lâm nghiệp và thủy sản	17
+P0085 [toc 1] Bảng 29. Kết quả phát thải KNK từ khai thác than và chuyển hóa nhiên liệu năm 2021	18
+P0086 [toc 1] Bảng 30. Kết quả phát thải KNK từ khai thác than và chuyển hóa nhiên liệu năm 2022	18
+P0087 [toc 1] Bảng 31. Sản lượng khai thác than trong nước năm 2021	19
+P0088 [toc 1] Bảng 32. Sản lượng khai thác than trong nước năm 2022	19
+P0089 [toc 1] Bảng 33. Kết quả phát thải KNK từ hệ thống dầu và khí tự nhiên năm 2021	22
+P0090 [toc 1] Bảng 34. Kết quả phát thải KNK từ hệ thống dầu và khí tự nhiên năm 2022	22
+P0091 [toc 1] Bảng 35. Hệ số phát thải của các phân đoạn trong hệ thống dầu	23
+P0092 [toc 1] Bảng 36. Hệ số phát thải của các phân đoạn trong hệ thống khí tự nhiên	24
+P0095 [H1-] DANH MỤC HÌNH
+P0096 [toc 1] Hình 1. Tỷ trọng phát thải KNK năm 2021 trong lĩnh vực năng lượng	3
+P0097 [toc 1] Hình 2. Tỷ trọng phát thải KNK năm 2022 trong lĩnh vực năng lượng	4
+P0105 [H1-] DANH MỤC TỪ VIẾT TẮT
+P0110 [Heading 1] LỜI NÓI ĐẦU
+P0111 [Hd1] PHẦN GIỚI THIỆU CHUNG
+P0112 [Hd2] Mục tiêu
+P0113 [Hd2] Nhiệm vụ
+P0114 [Hd2] Đối tượng và phạm vi thực hiện
+P0115 [Hd2] Phương pháp thực hiện
+P0116 [Normal] Trình bày tóm tắt các phương pháp đã sử dụng để thực hiện công việc.
+P0117 [Hd2] Tổ chức thực hiện
+P0118 [Normal] (mô tả tổ chức thực hiện kiểm kê khí nhà kính trong lĩnh vực thực hiện).
+P0121 [Hd1] KẾT QUẢ THỰC HIỆN
+P0122 [Hd2] Tổng hợp kết quả kiểm kê quốc gia khí nhà kính cho năm 2021, 2022 trong lĩnh vực năng lượng
+P0123 [Normal] Trong lĩnh vực năng lượng, các KNK được ước tính theo hai nguồn bao gồm phát thải từ đốt nhiên liệu và phát thải do phát tán (CO2, CH4, N2O). Tổng lượng phát thải KNK trong lĩnh vực năng lượng năm 2021 là 261.663,46 nghìn tấn CO2tđ và năm 2022 là 272.025,14 nghìn tấn CO2tđ. Kết quả phát thải KNK được trình bày trong các bảng dưới đây:
+P0124 [Tbl] Bảng 1. Kết quả phát thải KNK năm 2021 trong lĩnh vực năng lượng
+P0125 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0128 [Fig] Hình 1. Tỷ trọng phát thải KNK năm 2021 trong lĩnh vực năng lượng
+P0129 [Tbl] Bảng 2. Kết quả phát thải KNK năm 2022 trong lĩnh vực năng lượng
+P0130 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0132 [Fig] Hình 2. Tỷ trọng phát thải KNK năm 2022 trong lĩnh vực năng lượng
+P0133 [Hd2] Kết quả kiểm kê quốc gia khí nhà kính cho năm 2021, 2022 theo các tiểu lĩnh vực
+P0134 [Hd3] Đốt nhiên liệu (1A)
+P0135 [Normal] Phát thải khí CO2 là kết quả của quá trình ôxy hóa các-bon trong quá trình đốt cháy nhiên liệu. Trong điều kiện đốt cháy hoàn toàn, tổng hàm lượng các-bon trong nhiên liệu sẽ được chuyển hóa thành CO2. Khí CH4 được sinh ra với khối lượng nhỏ từ quá trình đốt cháy nhiên liệu do quá trình cháy không hoàn toàn của hyđrô các-bon. Việc tạo ra CH4 phụ thuộc vào nhiệt độ trong lò hơi, lò nung hoặc bếp đun. Khí N2O được hình thành thông qua phản ứng cháy của nhiên liệu chứa Nitơ và cơ chế hình thành N2O từ Nitơ trong không khí ở nhiệt độ cao.
+P0136 [Hd5] Tiểu lĩnh vực công nghiệp năng lượng (1A1)
+P0137 [Hd7] Mô tả các nguồn phát thải
+P0138 [Normal] Công nghiệp năng lượng bao gồm các hoạt động như sản xuất và chuyển hóa năng lượng, gồm các nhà máy phát điện, lọc dầu, chế biến khí, sản xuất nhiên liệu rắn... Các nhà máy sản xuất điện để tự dùng cũng được tính vào nguồn phát thải này.
+P0139 [Normal] Năng lượng đầu vào cho các ngành công nghiệp năng lượng bao gồm than, dầu, khí tự nhiên và năng lượng phi thương mại.
+P0140 [Hd7] Phương pháp luận
+P0141 [Normal] Áp dụng phương pháp bậc 1, Công thức 2.1, trang 2.11, Chương 2, Phần 2, IPCC 2006.
+P0142 [Hd7] Số liệu hoạt động
+P0143 [Normal] Số liệu hoạt động (SLHĐ) về tiêu thụ nhiên liệu sử dụng trong công nghiệp năng lượng (1A1) được tổng hợp từ Bảng cân bằng năng lượng (CBNL) năm 2021, 2022 của Viện Năng lượng, Bộ Công Thương. Thông tin được trình bày trong Bảng 3 và Bảng 4 dưới đây.
+P0144 [Normal] Trong đó, SLHĐ của tiểu ngành “Lọc hoá dầu” và “Chế biến khí” không có sẵn. Số liệu sử dụng để kiểm kê KNK cho 02 tiểu ngành này là tổng nhiên liệu đầu vào sẽ được đốt ở trong các nhà máy lọc dầu và chế biến khí. Do quá trình thu thập số liệu áp dụng phương pháp tiếp cận từ trên-xuống (top-down) nên gặp khó khăn trong việc thu thập tổng số nhiên liệu được đốt tại các nhà máy lọc hoá dầu và chế biến khí.
+P0145 [Normal] Theo hướng dẫn IPCC, có khoảng 6-10% tổng nhiên liệu đầu vào của nhà máy lọc dầu sẽ được đốt ở trong nhà máy lọc dầu. Tuy nhiên, không có hướng dẫn cho các cơ sở chế biến khí. Do đó, SLHĐ của tiểu ngành “Lọc hoá dầu” áp dụng giá trị trung bình theo IPCC là 8% tổng nhiên liệu đầu vào để kiểm kê KNK cho năm 2021 và năm 2022. SLHĐ của tiểu ngành “Chế biến khí” không có sẵn nên chưa được kiểm kê tại kỳ kiểm kê này.
+P0146 [Tbl] Bảng 3. Tiêu thụ nhiên liệu trong công nghiệp năng lượng năm 2021
+P0147 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0149 [Tbl] Bảng 4. Tiêu thụ nhiên liệu trong công nghiệp năng lượng năm 2022
+P0150 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0151 [Hd7] Hệ số phát thải
+P0152 [Normal] Áp dụng các hệ số phát thải theo Quyết định số 2626/QĐ-BTNMT ngày 10/10/2022 của Bộ trưởng Bộ Tài nguyên và Môi trường công bố danh mục hệ số phát thải phục vụ kiểm kê khí nhà kính, chi tiết trong Bảng 5.
+P0153 [Tbl] Bảng 5. Hệ số phát thải của tiêu thụ nhiên liệu trong công nghiệp năng lượng
+P0154 [Nguon] Nguồn: Quyết định số 2626/QĐ-BTNMT
+P0155 [Hd7] Kết quả phát thải
+P0156 [Normal] Kết quả phát thải KNK trong công nghiệp năng lượng (1A1) năm 2021, 2022 được thể hiện trong Bảng 6 và Bảng 7 dưới đây.
+P0157 [Tbl] Bảng 6. Kết quả phát thải KNK từ công nghiệp năng lượng năm 2021
+P0158 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0159 [Tbl] Bảng 7. Kết quả phát thải KNK từ công nghiệp năng lượng năm 2022
+P0160 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0161 [Hd5] Tiểu lĩnh vực công nghiệp sản xuất và xây dựng (1A2)
+P0162 [Hd7] Mô tả các nguồn phát thải
+P0163 [Normal] Công nghiệp sản xuất và xây dựng bao gồm các hoạt động như sản xuất sắt và thép; hóa chất và dầu khí; giấy, bột giấy và in ấn; thực phẩm và thuốc lá; dệt may và da giầy; và các hoạt động khác (như khai thác mỏ, thiết bị vận tải, máy móc, gỗ và sản phẩm gỗ, xây dựng, các ngành công nghiệp không xác định). Trong đó, ngành công nghiệp không xác định bao gồm hoạt động sản xuất các loại sản phẩm khác nhau không thuộc các ngành nêu trên và không nằm trong hệ thống ngành kinh tế quốc dân.
+P0164 [Normal] Năng lượng đầu vào cho các ngành này là than đá, sản phẩm dầu, khí tự nhiên và năng lượng phi thương mại. Trong đó, năng lượng phi thương mại là các nguồn năng lượng được sử dụng cho mục đích sản xuất và tiêu dùng trong nước mà không có hoạt động mua bán hoặc trao đổi hàng hóa với các quốc gia khác và thường được sử dụng trong sinh hoạt như củi gỗ, bã mía, trấu, rơm rạ, các chất phế thải từ sản xuất nông nghiệp.
+P0165 [Hd7] Phương pháp luận
+P0166 [Normal] Áp dụng phương pháp bậc 1, Công thức 2.1, trang 2.11, Chương 2, Phần 2, IPCC 2006.
+P0167 [Hd7] Số liệu hoạt động
+P0168 [Normal] SLHĐ về tiêu thụ nhiên liệu sử dụng trong công nghiệp sản xuất và xây dựng (1A2) chia theo từng loại nhiên liệu và ngành được tổng hợp từ Bảng Cân bằng Năng lượng năm 2021, 2022 của Viện Năng lượng, Bộ Công Thương. Thông tin được trình bày trong Bảng 8 và Bảng 9 dưới đây.
+P0172 [Tbl] Bảng 8. Tiêu thụ nhiên liệu trong công nghiệp sản xuất và xây dựng năm 2021
+P0173 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0174 [Tbl] Bảng 9. Tiêu thụ nhiên liệu trong công nghiệp sản xuất và xây dựng năm 2022
+P0175 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0176 [Hd7] Hệ số phát thải
+P0177 [Normal] Áp dụng các hệ số phát thải theo Quyết định số 2626/QĐ-BTNMT ngày 10/10/2022 của Bộ trưởng Bộ Tài nguyên và Môi trường công bố danh mục hệ số phát thải phục vụ kiểm kê khí nhà kính, chi tiết trong Bảng 10.
+P0178 [Tbl] Bảng 10. Hệ số phát thải của tiêu thụ nhiên liệu trong công nghiệp sản xuất và xây dựng
+P0179 [Nguon] Nguồn: Quyết định số 2626/QĐ-BTNMT
+P0180 [Hd7] Kết quả phát thải
+P0181 [Normal] Kết quả phát thải KNK từ công nghiệp sản xuất và xây dựng năm 2021, 2022 được thể hiện trong các bảng sau:
+P0182 [Tbl] Bảng 11. Kết quả phát thải KNK từ công nghiệp sản xuất và xây dựng năm 2021
+P0183 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0184 [Tbl] Bảng 12. Kết quả phát thải KNK từ công nghiệp sản xuất và xây dựng năm 2022
+P0185 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0186 [Hd5] Tiểu lĩnh vực giao thông vận tải (1A3)
+P0187 [Hd7] Mô tả các nguồn phát thải
+P0188 [Normal] Giao thông vận tải bao gồm các hoạt động sau:
+P0189 [N2] Hàng không: hoạt động vận tải trong ngành hàng không dân dụng bao gồm hàng không quốc tế và nội địa;
+P0190 [N2] Đường bộ: hoạt động vận tải của các phương tiện đường bộ như ô tô, xe máy…;
+P0191 [N2] Đường sắt: hoạt động vận tải của các phương tiện đường sắt;
+P0192 [N2] Đường thủy: hoạt động vận tải đường thủy quốc tế và nội địa;
+P0193 [Normal] Năng lượng đầu vào cho các hoạt động GTVT chủ yếu là xăng, dầu và khí.
+P0194 [Normal] Các hoạt động giao thông vận tải khác như đường ống vận chuyển khí, hoạt động của các phương tiện vận chuyển nhưng không tham gia giao thông, đánh bắt thủy hải sản… Tuy nhiên, do không thu thập được số liệu hoạt động nên phát thải KNK từ các hoạt động nêu trên chưa được tính.
+P0195 [Normal] Nhiên liệu cho vận tải quốc tế, bao gồm phát thải từ nhiên liệu hàng không dân dụng và hàng hải từ các hoạt động giao thông vận tải quốc tế đã được báo cáo riêng biệt ở mục “Ghi nhớ” và không bao gồm trong tổng phát thải quốc gia. Tuy nhiên, do chưa thu thập được số liệu tiêu thụ nhiên liệu cho ngành hàng không và đường thủy quốc tế nên phát thải KNK từ hoạt động này chưa được tính.
+P0196 [Hd7] Phương pháp luận
+P0197 [Normal] Theo Hướng dẫn của IPCC 2006, phát thải từ giao thông vận tải bao gồm phát thải từ các hoạt động giao thông đường bộ, đường sắt, hàng không và đường thủy:
+P0198 [N2] Hàng không: áp dụng phương pháp bậc 1 do chưa thu thập được số liệu tổng hợp về số lần cất cánh hạ cánh (LTO) của từng máy bay.
+P0199 [N2] Đường bộ: áp dụng phương pháp bậc 1 để tính lượng CO2 phát thải do chưa có HSPT đặc trưng quốc gia. Đối với phát thải phi-CO2, phương pháp bậc 1 cũng được áp dụng vì chưa thu thập đầy đủ số liệu tiêu thụ nhiên liệu theo từng loại phương tiện.
+P0200 [N2] Đường sắt: áp dụng phương pháp bậc 1 do chưa thu thập được SLHĐ của đầu máy xe lửa, HSPT và nhiên liệu sử dụng theo từng loại đầu máy.
+P0201 [N2] Đường thủy: áp dụng phương pháp bậc 1 do chưa có số liệu hàm lượng các-bon đặc trưng quốc gia và HSPT đặc trưng quốc gia.
+P0202 [Normal] Các công thức tính phát thải từ giao thông vận tải bao gồm:
+P0203 [N2] Hàng không: Công thức 3.6.1, trang 3.59, Chương 3, Phần 2, IPCC 2006;
+P0204 [N2] Đường bộ: Công thức 3.2.1, 3.2.3, trang 3.12, 3.13, Chương 3, Phần 2, IPCC 2006;
+P0205 [N2] Đường sắt: Công thức 3.4.1, trang 3.41, Chương 3, Phần 2, IPCC 2006;
+P0206 [N2] Đường thủy: Công thức 3.5.1, trang 3.47, Chương 3, Phần 2, IPCC 2006.
+P0207 [Hd7] Số liệu hoạt động
+P0208 [Normal] SLHĐ về tiêu thụ nhiên liệu trong giao thông vận tải bao gồm số liệu về lượng nhiên liệu tiêu thụ của hàng không nội địa, đường bộ, đường sắt, đường thủy nội địa, được tổng hợp từ Bảng Cân bằng năng lượng năm 2021, 2022 của Viện Năng lượng, Bộ Công Thương. Thông tin được trình bày trong các bảng dưới đây.
+P0209 [Tbl] Bảng 13. Tiêu thụ nhiên liệu của giao thông vận tải năm 2021
+P0210 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0211 [Tbl] Bảng 14. Tiêu thụ nhiên liệu của giao thông vận tải năm 2022
+P0212 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0213 [Hd7] Hệ số phát thải
+P0214 [Normal] Áp dụng các hệ số phát thải theo Quyết định số 2626/QĐ-BTNMT ngày 10/10/2022 của Bộ trưởng Bộ Tài nguyên và Môi trường công bố danh mục hệ số phát thải phục vụ kiểm kê khí nhà kính, chi tiết trong bảng sau.
+P0215 [Tbl] Bảng 15. Hệ số phát thải của tiêu thụ nhiên liệu trong giao thông vận tải
+P0216 [Nguon] Nguồn: Quyết định số 2626/QĐ-BTNMT
+P0217 [Hd7] Kết quả phát thải
+P0218 [Normal] Kết quả phát thải khí nhà kính từ giao thông vận tải (1A3) năm 2021, 2022 được thể hiện trong Bảng 16 và Bảng 17 dưới đây.
+P0219 [Tbl] Bảng 16. Kết quả phát thải khí nhà kính từ giao thông vận tải năm 2021
+P0220 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0221 [Tbl] Bảng 17. Kết quả phát thải khí nhà kính từ giao thông vận tải năm 2022
+P0222 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0223 [Hd5] Tiểu lĩnh vực khác (1A4)
+P0224 [Normal] Kết quả phát thải KNK từ các hoạt động đốt nhiên liệu khác ở Việt Nam bao gồm phát thải từ thương mại và dịch vụ (1A4a), dân dụng (1A4b) và nông nghiệp, lâm nghiệp và thủy sản (1A4c) được trình bày trong các bảng sau.
+P0225 [Tbl] Bảng 18. Kết quả phát thải KNK từ các hoạt động đốt nhiên liệu khác năm 2021
+P0226 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0227 [Tbl] Bảng 19. Kết quả phát thải KNK từ các hoạt động đốt nhiên liệu khác năm 2022
+P0228 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0229 [Hd6] Thương mại và dịch vụ (1A4a)
+P0230 [Hd7] Mô tả các nguồn phát thải
+P0231 [Normal] Phát thải KNK từ các hoạt động đốt nhiên liệu trong ngành thương mại/dịch vụ bao gồm: các doanh nghiệp bán buôn và bán lẻ; cơ sở y tế, các tổ chức xã hội và giáo dục, các tổ chức chính quyền trung ương và địa phương (ví dụ: căn cứ quân sự, nhà tù, tòa nhà văn phòng). Năng lượng đầu vào cho các ngành này là than, sản phẩm dầu, khí tự nhiên và than củi.
+P0232 [Hd7] Phương pháp luận
+P0233 [Normal] Áp dụng phương pháp bậc 1, công thức 2.1, trang 2.11, Chương 2, Phần 2, IPCC 2006.
+P0234 [Hd7] Số liệu hoạt động
+P0235 [Normal] SLHĐ về tiêu thụ nhiên liệu trong thương mại dịch vụ được tổng hợp từ Bảng Cân bằng năng lượng năm 2021, 2022 của Viện Năng lượng, Bộ Công Thương. Thông tin được trình bày trong Bảng 20 và Bảng 21.
+P0236 [Tbl] Bảng 20. Tiêu thụ nhiên liệu trong thương mại và dịch vụ năm 2021
+P0237 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0238 [Tbl] Bảng 21. Tiêu thụ nhiên liệu trong thương mại và dịch vụ năm 2022
+P0239 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0240 [Hd7] Hệ số phát thải
+P0241 [Normal] Áp dụng các hệ số phát thải theo Quyết định số 2626/QĐ-BTNMT ngày 10/10/2022 của Bộ trưởng Bộ Tài nguyên và Môi trường công bố danh mục hệ số phát thải phục vụ kiểm kê khí nhà kính, chi tiết trong bảng sau.
+P0242 [Tbl] Bảng 22. Hệ số phát thải của tiêu thụ nhiên liệu trong thương mại và dịch vụ
+P0243 [Nguon] Nguồn: Quyết định số 2626/QĐ-BTNMT
+P0244 [Hd7] Kết quả phát thải
+P0245 [Normal] Kết quả phát thải KNK từ tiêu thụ nhiên liệu trong thương mại và dịch vụ (1A4a) năm 2020, 2021 được trình bày trong Bảng 18 và Bảng 19.
+P0246 [Hd6] Dân dụng (1A4b)
+P0247 [Hd7] Mô tả các nguồn phát thải
+P0248 [Normal] Phát thải KNK từ tiêu thụ nhiên liệu trong dân dụng bao gồm phát thải từ các hoạt động đốt cháy nhiên liệu như chiếu sáng, sưởi ấm và các thiết bị khác được sử dụng cho cuộc sống hàng ngày. Năng lượng đầu vào cho ngành này chủ yếu là than, sản phẩm dầu, khí tự nhiên và năng lượng phi thương mại. Trong đó, năng lượng phi thương mại bao gồm các loại năng lượng như củi gỗ, bã mía, trấu, rơm rạ, các chất phế thải từ sản xuất nông nghiệp.
+P0249 [Hd7] Phương pháp luận
+P0250 [Normal] Áp dụng phương pháp bậc 1, công thức 2.1, trang 2.11, Chương 2, Phần 2, IPCC 2006.
+P0251 [Hd7] Số liệu hoạt động
+P0252 [Normal] SLHĐ về tiêu thụ nhiên liệu trong dân dụng được tổng hợp từ Bảng Cân bằng năng lượng năm 2021, 2022 của Viện Năng lượng, Bộ Công Thương. Thông tin được trình bày trong Bảng 23 và Bảng 24 dưới đây.
+P0253 [Tbl] Bảng 23. Tiêu thụ nhiên liệu trong dân dụng năm 2021
+P0254 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0255 [Tbl] Bảng 24. Tiêu thụ nhiên liệu trong dân dụng năm 2022
+P0256 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0257 [Hd7] Hệ số phát thải
+P0258 [Normal] Áp dụng các hệ số phát thải theo Quyết định số 2626/QĐ-BTNMT ngày 10/10/2022 của Bộ trưởng Bộ Tài nguyên và Môi trường công bố danh mục hệ số phát thải phục vụ kiểm kê khí nhà kính, chi tiết trong bảng sau.
+P0259 [Tbl] Bảng 25. Hệ số phát thải của tiêu thụ nhiên liệu trong dân dụng
+P0260 [Nguon] Nguồn: Quyết định số 2626/QĐ-BTNMT
+P0261 [Hd7] Kết quả phát thải
+P0262 [Normal] Kết quả phát thải KNK từ tiêu thụ nhiên liệu trong dân dụng (1A4b) năm 2021, 2022 được trình bày trong Bảng 18 và Bảng 19.
+P0263 [Hd6] Nông nghiệp lâm nghiệp và thủy sản (1A4c)
+P0264 [Hd7] Mô tả các nguồn phát thải
+P0265 [Normal] Phát thải KNK từ hoạt động này bao gồm phát thải do đốt cháy nhiên liệu từ các hoạt động nông nghiệp, lâm nghiệp và thủy sản, ví dụ như các hoạt động chế biến thực phẩm, gỗ và nuôi trồng thủy sản. Năng lượng đầu vào cho ngành này chủ yếu là xăng, dầu và năng lượng phi thương mại.
+P0266 [Hd7] Phương pháp luận
+P0267 [Normal] Áp dụng phương pháp bậc 1, công thức 2.1, trang 2.11, Chương 2, Phần 2, IPCC 2006.
+P0268 [Hd7] Số liệu hoạt động
+P0269 [Normal] Số liệu tiêu thụ nhiên liệu trong nông nghiệp được tổng hợp từ Bảng Cân bằng năng lượng năm 2021, 2022 của Viện Năng lượng, Bộ Công Thương. Thông tin được trình bày trong Bảng 26 và Bảng 27.
+P0272 [Tbl] Bảng 26. Tiêu thụ nhiên liệu trong nông nghiệp, lâm nghiệp và thủy sản năm 2021
+P0273 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0274 [Tbl] Bảng 27. Tiêu thụ nhiên liệu trong nông nghiệp, lâm nghiệp và thủy sản năm 2022
+P0275 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0276 [Hd7] Hệ số phải thải
+P0277 [Normal] Áp dụng các hệ số phát thải theo Quyết định số 2626/QĐ-BTNMT ngày 10/10/2022 của Bộ trưởng Bộ Tài nguyên và Môi trường công bố danh mục hệ số phát thải phục vụ kiểm kê khí nhà kính, chi tiết trong bảng sau.
+P0278 [Tbl] Bảng 28. Hệ số phát thải của tiêu thụ nhiên liệu trong nông nghiệp, lâm nghiệp và thủy sản
+P0279 [Nguon] Nguồn: Quyết định số 2626/QĐ-BTNMT
+P0280 [Hd7] Kết quả phát thải
+P0281 [Normal] Kết quả phát thải KNK từ tiêu thụ nhiên liệu trong nông nghiệp (1A4c) năm 2021, 2022 được trình bày trong Bảng 18 và Bảng 19.
+P0282 [Hd5] Phương pháp tiếp cận tham chiếu CO2 và so sánh với phương pháp tiếp cận ngành
+P0283 [Normal] Phương pháp tiếp cận tham chiếu CO2 nhằm ước tính lượng phát thải CO2 từ các hoạt động đốt cháy nhiên liệu sử dụng cách tiếp cận từ trên - xuống trên cơ sở thống kê năng lượng quốc gia cho sản xuất, nhập khẩu, xuất khẩu và thay đổi dự trữ. Chênh lệch về phát thải CO2 giữa phương pháp tiếp cận tham chiếu và phương pháp tiếp cận ngành trong năm 2021 và 2022 lần lượt là 0,7% và 2,0%. Chênh lệch trong tiêu thụ năng lượng và phát thải CO2 có thể được xem như tổn thất năng lượng và mất cân bằng các-bon trong Bảng cân bằng Năng lượng năm 2021 và 2022 của Viện Năng lượng, Bộ Công Thương.
+P0284 [Hd3] Phát thải do phát tán (1B)
+P0285 [Normal] Phát thải do phát tán là phát thải KNK có thể xảy ra trong quá trình khai thác, chế biến và phân phối nhiên liệu hóa thạch đến điểm sử dụng cuối cùng, xảy ra trong các phân đoạn thăm dò, sản xuất, xử lý, lưu kho và vận chuyển than, dầu và khí đốt tự nhiên và phát tán trong quá trình chuyển hóa nhiên liệu (ví dụ trong quá trình sản xuất than củi).
+P0286 [Hd5] Khai thác than và chuyển hóa nhiên liệu (1B1)
+P0287 [Normal] Đối với khai thác than đá, quá trình địa chất tạo ra than cũng tạo ra khí CH4, CO2 và một phần trong số đó vẫn còn tồn tại trong các vỉa than cho đến khi được khai thác. Nhìn chung, các vỉa than ở càng sâu dưới lòng đất thì càng chứa nhiều lượng KNK hơn so với vỉa than lộ thiên. Ngoài việc phát thải khí vỉa, than thải được đổ vào bãi chứa quá tải hoặc bãi thải có thể tạo ra CO2, do quá trình oxy hóa ở nhiệt độ thấp hoặc do quá trình đốt cháy không được kiểm soát.
+P0288 [Normal] Phát thải do phát tán của quá trình chuyển hóa nhiên liệu xảy ra trong quá trình chuyển đổi từ nhiên liệu rắn sang nhiên liệu rắn (sản xuất than củi) dựa trên sự chuyển đổi trạng thái vật lý của nhiên liệu. Quá trình cacbon hóa gỗ tạo ra than củi, các hợp chất dễ bay hơi và nhiều loại khí. Các khí sinh ra bao gồm khí nhà kính trực tiếp (CO2, CH4 và N2O), khí nhà kính gián tiếp (CO) và các loại khí khác, kể cả H2. Phát thải CO2 từ sản xuất than củi được báo cáo ở đây như một mục thông tin và được đề cập trong Nông nghiệp, Thay đổi sử dụng đất và Lâm nghiệp (AFOLU). Phát thải CH4 và N2O được tính toán và báo cáo.
+P0289 [Normal] Kết quả kiểm kê phát thải KNK từ quá trình khai thác than và chuyển hóa nhiên liệu năm 2021, 2022 thể hiện trong các bảng sau.
+P0290 [Tbl] Bảng 29. Kết quả phát thải KNK từ khai thác than và chuyển hóa nhiên liệu năm 2021
+P0291 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0292 [Tbl] Bảng 30. Kết quả phát thải KNK từ khai thác than và chuyển hóa nhiên liệu năm 2022
+P0293 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0294 [Hd6] Khai thác than hầm lò (1B1ai)
+P0295 [Hd7] Phương pháp luận
+P0296 [Normal] Theo hướng dẫn của phiên bản năm 2006 sửa đổi, bổ sung năm 2019, phương pháp tiếp cận bậc 1 được sử dụng để ước tính lượng phát thải CH4 và CO2 cho khai thác than hầm lò trong quá trình khai thác và sau khai thác. Các công thức áp dụng bao gồm:
+P0297 [N2] Công thức 4.1.1, trang 4.14; công thức 4.1.3, trang 4.18; công thức 4.1.3A trang 4.19 và công thức 4.1.4, trang 4.20, Chương 4, Phần 2, IPCC 2006 sửa đổi, bổ sung năm 2019. Trong đó, không có phương pháp ước tính khí thải CO2 cho hoạt động sau khai thác;
+P0298 [N2] Đối với các mỏ than bị bỏ hoang; đốt khí mêtan hoặc chuyển đổi khí mêtan thành CO2 không được tính toán do số liệu hoạt động không có sẵn và không được thống kê riêng.
+P0299 [Hd7] Số liệu hoạt động
+P0300 [Normal] Theo số liệu từ Bảng Cân bằng năng lượng năm 2021, 2022 của Viện Năng lượng, Bộ Công Thương, sản lượng than khai thác trong nước năm 2021 đạt khoảng 48,3 triệu tấn và năm 2022 đạt khoảng 49,9 triệu tấn, tuy nhiên số liệu nêu trên chưa được phân tách thành than hầm lò và lộ thiên. Theo đánh giá chuyên gia, tỷ lệ khai thác than lộ thiên ở Việt Nam là 40%, khai thác than hầm lò là 60% trên tổng lượng than được khai thác. Chi tiết sản lượng khai thác than mỗi loại được trình bày trong các bảng dưới đây.
+P0301 [Tbl] Bảng 31. Sản lượng khai thác than trong nước năm 2021
+P0302 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0303 [Tbl] Bảng 32. Sản lượng khai thác than trong nước năm 2022
+P0304 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0305 [Hd7] Hệ số phát thải
+P0306 [Normal] Áp dụng các hệ số phát thải theo Quyết định số 2626/QĐ-BTNMT ngày 10/10/2022 của Bộ trưởng Bộ Tài nguyên và Môi trường công bố danh mục hệ số phát thải phục vụ kiểm kê khí nhà kính và nguồn hệ số phát thải theo Hướng dẫn của IPCC, cụ thể như sau:
+P0307 [N2] HSPT CH4 đối với khai thác hầm lò: 1,5789 m3/tấn (Quyết định số 2626/QĐ-BTNMT);
+P0308 [N2] HSPT CH4 sau khai thác: 0,1697 m3/tấn (Quyết định số 2626/QĐ-BTNMT);
+P0309 [N2] HSPT CO2 đối với khai thác hầm lò: 5,9 m3/tấn (HSPT trung bình, trang 4.19, Chương 4, Phần 2, IPCC 2006 sửa đổi, bổ sung năm 2019.
+P0310 [Hd7] Kết quả phát thải
+P0311 [Normal] Kết quả phát thải KNK từ khai thác than hầm lò (1B1ai) năm 2021, 2022 được thể hiện trong Bảng 29 và Bảng 30.
+P0312 [Hd6] Khai thác than lộ thiên (1B1aii)
+P0313 [Hd7] Phương pháp luận
+P0314 [Normal] Theo hướng dẫn của phiên bản năm 2006 sửa đổi, bổ sung năm 2019, phương pháp tiếp cận bậc 1 được sử dụng để tính lượng phát thải CH4 và CO2 cho khai thác than lộ thiên trong quá trình khai thác và sau khai thác. Các công thức được sử dụng bao gồm:
+P0315 [N2] Công thức 4.1.6 trang 4.23, Công thức 4.1.7 trang 4.25 và Công thức 4.1.7A trang 4.25, Chương 4, Phần 2, IPCC 2006 sửa đổi, bổ sung năm 2019. Trong đó, không có phương pháp ước tính khí thải CO2 cho hoạt động sau khai thác;
+P0316 [N2] Đối với các mỏ than bị bỏ hoang; đốt cháy không được kiểm soát do hoạt động khai thác than và  thăm dò than không được tính toán do số liệu hoạt động không có sẵn và không được thống kê riêng.
+P0317 [Hd7] Số liệu hoạt động
+P0318 [Normal] Số liệu sản lượng than khai thác lộ thiên trình bày trong Bảng 31 và Bảng 32.
+P0319 [Hd7] Hệ số phát thải
+P0320 [Normal] Áp dụng các hệ số phát thải theo Quyết định số 2626/QĐ-BTNMT ngày 10/10/2022 của Bộ trưởng Bộ Tài nguyên và Môi trường công bố danh mục hệ số phát thải phục vụ kiểm kê khí nhà kính và nguồn hệ số phát thải theo Hướng dẫn của IPCC, cụ thể như sau:
+P0321 [N2] HSPT CH4 đối với khai thác lộ thiên: 0,05375 m3/tấn (Quyết định số 2626/QĐ-BTNMT);
+P0322 [N2] HSPT CH4 sau khai thác: 0,1697 m3/tấn (Quyết định số 2626/QĐ-BTNMT);
+P0323 [N2] HSPT CO2 đối với khai thác lộ thiên: 0,44 m3/tấn (HSPT trung bình, trang 4.25, Chương 4, Phần 2, IPCC 2006 sửa đổi, bổ sung năm 2019.
+P0324 [Hd7] Kết quả phát thải
+P0325 [Normal] Kết quả phát thải KNK từ khai thác than lộ thiên (1B1aii) năm 2021, 2022 được thể hiện trong Bảng 29 và Bảng 30.
+P0326 [Hd6] Chuyển hóa nhiên liệu (1B1c)
+P0327 [Hd7] Phương pháp luận
+P0328 [Normal] Theo hướng dẫn của phiên bản năm 2006 sửa đổi, bổ sung năm 2019, phương pháp tiếp cận bậc 1 được sử dụng để tính lượng phát thải CH4 và N2O cho chuyển hóa nhiên liệu. Áp dụng Công thức 4.3.1, trang 4.102, Chương 4, Phần 2, IPCC 2006 sửa đổi, bổ sung năm 2019.
+P0329 [Hd7] Số liệu hoạt động
+P0330 [Normal] Theo số liệu từ Bảng Cân bằng năng lượng năm 2021, 2022 của Viện Năng lượng, Bộ Công Thương, sản lượng than củi sản xuất được năm 2021 đạt khoảng 224,56 nghìn tấn và năm 2022 đạt khoảng 258,36 nghìn tấn.
+P0331 [Hd7] Hệ số phát thải
+P0332 [Normal] Áp dụng các giá trị mặc định của IPCC trong bảng 4.3.3, trang 4.103, Chương 4, Phần 2 IPCC 2006 sửa đổi, bổ sung năm 2019, cụ thể như sau:
+P0333 [N2] HSPT CH4 đối với chuyển hóa nhiên liệu: 40,3 gCH4/kg;
+P0334 [N2] HSPT N2O đối với chuyển hóa nhiên liệu: 0,08 gN2O/kg.
+P0335 [Hd7] Kết quả phát thải
+P0336 [Normal] Kết quả phát thải KNK từ chuyển hóa nhiên liệu (1B1ci) năm 2021, 2022 được thể hiện trong Bảng 29 và Bảng 30.
+P0337 [Hd5] Dầu và khí tự nhiên (1B2)
+P0338 [Normal] Phát thải do phát tán trong toàn hệ thống dầu và khí tự nhiên là tất cả phát thải khí nhà kính ngoại trừ các nguồn phát thải từ quá trình đốt cháy nhiên liệu.
+P0339 [Normal] Các nguồn phát thải này bao gồm (nhưng không giới hạn) rò rỉ thiết bị, tổn thất bay hơi, thông hơi, đốt cháy và rò rỉ ngẫu nhiên và có thể gây phát tán trong toàn bộ phân đoạn từ thăm dò, sản xuất, vận chuyển, truyền tải và lưu trữ, phân phối trong hệ thống dầu và khí tự nhiên.
+P0340 [Normal] Kết quả phát thải từ hệ thống dầu và khí tự nhiên năm 2021, 2022 được thể hiện trong các bảng dưới đây.
+P0341 [Tbl] Bảng 33. Kết quả phát thải KNK từ hệ thống dầu và khí tự nhiên năm 2021
+P0342 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0343 [Tbl] Bảng 34. Kết quả phát thải KNK từ hệ thống dầu và khí tự nhiên năm 2022
+P0344 [Nguon] Nguồn: Viện Năng lượng, Bộ Công Thương
+P0345 [Hd6] Dầu (1B2a)
+P0346 [Hd7] Phương pháp luận
+P0347 [Normal] Theo hướng dẫn trong Chương 4, Phần 2 của IPCC 2006 sửa đổi, bổ sung năm 2019, phương pháp tiếp cận bậc 1 được sử dụng để tính lượng phát thải KNK cho hệ thống dầu. Các công thức và hướng dẫn chi tiết cho từng phân đoạn như sau:
+P0348 [N2] Sản xuất dầu: áp dụng phương pháp bậc 1, công thức 4.2.10, trang 4.53;
+P0349 [N2] Vận chuyển dầu: áp dụng phương pháp bậc 1, công thức 4.2.11, trang 4.56;
+P0350 [N2] Lọc hóa dầu: áp dụng phương pháp bậc 1, công thức 4.2.1 và 4.2.2 trang 4.53;
+P0351 [N2] Thăm dò: Hoạt động khai thác dầu đều là từ các mỏ ngoài khơi. Theo hướng dẫn IPCC 2019, dữ liệu phát thải thăm dò ngoài khơi không có sẵn và những phát thải này được cho là không đáng kể; do đó, các yếu tố phát thải không được đưa vào thăm dò ngoài khơi.
+P0352 [N2] Phân phối sản phẩm dầu: không được tính toán do hệ số phát thải không áp dụng;
+P0353 [N2] Các mục còn lại trong hệ thống Dầu không được tính toán do số liệu hoạt động không có sẵn và không được thống kê riêng.
+P0354 [Hd7] Số liệu hoạt động
+P0355 [Normal] Theo Bảng Cân bằng năng lượng năm 2021, 2022 của Viện Năng lượng, Bộ Công Thương, lượng dầu thô được sản xuất trong nước năm 2021 đạt khoảng 16.222 nghìn m3, năm 2020 đạt khoảng 16.464 nghìn m3.
+P0356 [Hd7] Hệ số phát thải
+P0357 [Normal] HSPT áp dụng cho từng phân đoạn như sản xuất dầu, vận chuyển, lọc hóa dầu là các giá trị trong Chương 4, Phần 2, Hướng dẫn IPCC 2006 sửa đổi, bổ sung năm 2019. Cụ thể như sau:
+P0358 [N2] HSPT đối với sản xuất dầu: áp dụng các giá trị của IPCC trong bảng 4.2.4A, trang 4.54;
+P0359 [N2] HSPT đối với vận chuyển dầu: áp dụng các giá trị trong bảng 4.2.4B, trang 4.57;
+P0360 [N2] HSPT đối với lọc hóa dầu: áp dụng các giá trị trong bảng 4.2.4C, trang 4.59;
+P0361 [Normal] HSPT cho từng phân đoạn chi tiết trong bảng sau:
+P0362 [Tbl] Bảng 35. Hệ số phát thải của các phân đoạn trong hệ thống dầu
+P0363 [Nguon] Nguồn: Hướng dẫn IPCC 2006 sửa đổi, bổ sung năm 2019
+P0364 [Hd7] Kết quả phát thải
+P0365 [Normal] Kết quả phát thải KNK năm 2021, 2022 từ các phân đoạn sản xuất, vận chuyển và lọc hóa dầu trong hệ thống dầu (1B2a) được thể hiện trong Bảng 33 và Bảng 34.
+P0366 [Hd6] Khí tự nhiên (1B2b)
+P0367 [Hd7] Phương pháp luận
+P0368 [Normal] Theo hướng dẫn trong Chương 4, Phần 2 của IPCC 2006 sửa đổi, bổ sung năm 2019, phương pháp tiếp cận bậc 1 được sử dụng để tính lượng phát thải KNK cho hệ thống khí tự nhiên. Các công thức và hướng dẫn chi tiết cho từng phân đoạn như sau:
+P0369 [N2] Sản xuất khí: áp dụng phương pháp bậc 1, công thức 4.2.14, trang 4.69;
+P0370 [N2] Chế biến khí: áp dụng phương pháp bậc 1, công thức 4.2.15, trang 4.72;
+P0371 [N2] Truyền tải và lưu trữ: áp dụng phương pháp bậc 1, công thức 4.2.16 trang 4.75;
+P0372 [N2] Thăm dò: Theo hướng dẫn IPCC 2019, dữ liệu phát thải thăm dò ngoài khơi không có sẵn và những phát thải này được cho là không đáng kể; do đó, các yếu tố phát thải không được đưa vào thăm dò ngoài khơi;
+P0373 [N2] Phân phối: không được tính toán do khó khăn trong việc phân tách dữ liệu. Theo hướng dẫn IPCC 2019 chỉ đưa ra các hệ số phát thải cho việc phân phối bằng đường ống. Trong khi tại Việt Nam, khí cho các hộ tiêu thụ công nghiệp được cung cấp bằng hệ thống đường ống phân phối khí thấp áp đối với các khách hàng ở gần hệ thống cơ sở hạ tầng (CSHT) đường ống dẫn khí, đối với các khách hàng công nghiệp ở xa hệ thống CSHT đường ống dẫn khí, khí thiên nhiên được cung cấp ở dạng CNG và được vận chuyển bằng phương tiện xe bồn.
+P0374 [Hd7] Số liệu hoạt động
+P0375 [Normal] Theo Bảng Cân bằng năng lượng năm 2021, 2022 của Viện Năng lượng, Bộ Công Thương, lượng khí tự nhiên sản xuất trong nước năm 2021 đạt khoảng 7.460 triệu m3, năm 2022 đạt khoảng 8.080 triệu m3.
+P0376 [Hd7] Hệ số phát thải
+P0377 [Normal] HSPT áp dụng cho từng phân đoạn như sản xuất khí, chế biến khí, truyền tải và lưu trữ là các giá trị trong Chương 4, Phần 2, Hướng dẫn IPCC 2006 sửa đổi, bổ sung năm 2019. Cụ thể như sau:
+P0378 [N2] HSPT đối với sản xuất khí: áp dụng các giá trị của IPCC trong bảng 4.2.4G, trang 4.70;
+P0379 [N2] HSPT đối với chế biến khí: áp dụng các giá trị trong bảng 4.2.4H, trang 4.73;
+P0380 [N2] HSPT đối với truyền tải và lưu trữ: áp dụng các giá trị trong bảng 4.2.4I, trang 4.76.
+P0381 [Normal] HSPT cho từng phân đoạn chi tiết trong bảng sau.
+P0382 [Tbl] Bảng 36. Hệ số phát thải của các phân đoạn trong hệ thống khí tự nhiên
+P0383 [Nguon] Nguồn: Hướng dẫn IPCC 2006 sửa đổi, bổ sung năm 2019
+P0384 [Hd7] Kết quả phát thải
+P0385 [Normal] Kết quả phát thải KNK năm 2021, 2022 từ các phân đoạn sản xuất, chế biến, truyền tải và lưu trữ trong hệ thống khí tự nhiên (1B2b) được thể hiện trong Bảng 33 và Bảng 34.
+P0386 [Hd2] Các cải thiện đối với quá trình kiểm kê khí nhà kính năm 2021, 2022
+P0387 [Normal] Tương tự kỳ kiểm kê KNK năm 2018, 2020 đã thực hiện, quá trình kiểm kê KNK năm 2021, 2022 áp dụng một số phương pháp luận, SLHĐ và HSPT được bổ sung và cập nhật mới theo Hướng dẫn IPCC 2006 sửa đổi, bổ sung năm 2019 so với kỳ kiểm kê KNK năm 2016 và các năm trong quá khứ đối với nguồn “Phát thải do phát tán (1B)”, cụ thể:
+P0388 [Hd7] Phương pháp luận
+P0389 [N2] (Mới): Áp dụng phương pháp luận kiểm kê khí thải CO2 phát tán trong khai thác than hầm lò và lộ thiên được trình bày trong mục 2.2.2.1.1 và 2.2.2.1.2;
+P0390 [N2] (Mới): Áp dụng phương pháp luận kiểm kê KNK trong quá trình chuyển hóa nhiên liệu (sản xuất than củi) được trình bày trong mục 2.2.2.1.3;
+P0391 [N2] (Cập nhật): Áp dụng các phương pháp luận kiểm kê KNK được cập nhật trong các hệ thống dầu và khí tự nhiên được trình bày trong mục 2.2.2.2.1 và 2.2.2.2.2.
+P0392 [Hd7] Số liệu hoạt động
+P0393 [N2] Đồng nhất SLHĐ theo cùng một đơn vị KTOE giúp thuận tiện trong tính toán, tránh nhầm lẫn và đồng nhất về hệ số chuyển đổi năng lượng với đơn vị cung cấp số liệu;
+P0394 [N2] (Cập nhật): Không áp dụng SLHĐ trong tiểu mục “chế biến khí” do không có sẵn và không có hướng dẫn phân tách SLHĐ cho các cơ sở chế biến khí;
+P0395 [N2] (Mới): Áp dụng SLHĐ kiểm kê KNK phát thải do phát tán trong quá trình chuyển hóa nhiên liệu (sản xuất than củi).
+P0396 [Hd7] Hệ số phát thải
+P0397 [N2] Áp dụng các HSPT theo Quyết định số 2626/QĐ-BTNMT ngày 10/10/2022 của Bộ trưởng Bộ Tài nguyên và Môi trường công bố danh mục hệ số phát thải phục vụ kiểm kê khí nhà kính và nguồn hệ số phát thải theo Hướng dẫn của IPCC;
+P0398 [N2] (Mới): Áp dụng các HSPT phát tán CH4 trong khai thác than hầm lò, sau khai thác than hầm lò và trong khai thác than lộ thiên, sau khai thác than lộ thiên;
+P0399 [N2] (Mới): Áp dụng HSPT phát tán CO2 trong khai thác than hầm lò và lộ thiên;
+P0400 [N2] (Mới): Áp dụng HSPT phát tán trong quá trình chuyển hóa nhiên liệu (sản xuất than củi);
+P0401 [N2] (Cập nhật): Áp dụng các HSPT phát tán được cập nhật trong các phân đoạn của các hệ thống dầu và khí tự nhiên.
+P0402 [Hd7] Kết quả kiểm kê KNK
+P0403 [N2] (Mới): Bổ sung kết quả kiểm kê khí CO2 do phát tán trong khai thác than hầm lò và lộ thiên;
+P0404 [N2] (Mới): Bổ sung kết quả kiểm kê KNK do phát tán trong quá trình chuyển hóa nhiên liệu (sản xuất than củi);
+P0405 [N2] (Cập nhật): Kết quả kiểm kê KNK năm 2021, 2022 do phát tán trong các hệ thống dầu và khí tự nhiên có xu hướng giảm mạnh so với kỳ kiểm kê KNK năm 2016 và các năm trong quá khứ do áp dụng phương pháp luận mới theo Hướng dẫn IPCC 2006 sửa đổi, bổ sung năm 2019.
+P0406 [Hd2] Khó khăn, tồn tại trong quá trình thực hiện kiểm kê khí nhà kính năm 2021, 2022
+P0407 [N2] Việt Nam chưa xây dựng được hệ thống các hệ số phát thải cho từng loại nhiên liệu, vẫn phải sử dụng hệ số phát thải mặc định của IPCC, ngoại trừ HSPT trong khai thác than.
+P0408 [N2] Về số liệu hoạt động vẫn chỉ đáp ứng được nhu cầu tính toán theo cách tiếp cận Bậc 1, mức độ chi tiết của số liệu chưa cao, tiếp cận theo hướng từ trên xuống.
+P0409 [Hd2] Đề xuất, kiến nghị
+P0410 [Hd1] KẾT LUẬN
+P0411 [Normal] TÀI LIỆU THAM KHẢO
+P0412 [List Paragraph] Hướng dẫn của IPCC năm 2006 về kiểm kê khí nhà kính quốc gia.
+P0413 [List Paragraph] Hướng dẫn của IPCC 2006 sửa đổi, bổ sung năm 2019 về kiểm kê khí nhà kính quốc gia.
+P0414 [List Paragraph] Báo cáo kiểm kê Quốc gia KNK năm 2016, 2018 và 2020 cho lĩnh vực năng lượng.
+P0415 [Normal] PHỤ LỤC
+P0416 [Normal] Bảng CBNL và các bảng tính phát thải KNK theo hướng dẫn của IPCC (bảng tính excel) được gửi kèm theo báo cáo này:
+P0417 [List Paragraph] File “Energy_Estimation_2021”
+P0418 [List Paragraph] File “Energy_Estimation_2022”.
+P0419 [List Paragraph] Bảng cân bằng năng lượng năm 2021 và 2022 của Viện Năng lượng, Bộ Công Thương.
+
+=== TABLE 1 (2x2) ===
+R000	Chủ trì thực hiện	BAN QUẢN LÝ DỰ ÁN
+R001		
+
+=== TABLE 2 (2x2) ===
+R000	Chủ trì thực hiện	BAN QUẢN LÝ DỰ ÁN
+R001		
+
+=== TABLE 3 (15x2) ===
+R000	BĐKH	Biến đổi khí hậu
+R001	IPCC	Ban liên Chính phủ về biến đổi khí hậu
+R002	IPCC 2006	Hướng dẫn của IPCC năm 2006 về kiểm kê khí nhà kính quốc gia
+R003	IPCC 2019	Hướng dẫn của IPCC năm 2006 sửa đổi, bổ sung năm 2019
+R004	CBNL	Bảng cân bằng năng lượng
+R005	UBQGBĐKH	Ủy ban quốc gia về Biến đổi khí hậu
+R006	UNFCCC	Công ước khung của Liên hợp quốc về biến đổi khí hậu
+R007	KNK	Khí nhà kính
+R008	HSPT	Hệ số phát thải
+R009	SLHĐ	Số liệu hoạt động
+R010	DO	Dầu điêzen
+R011	FO	Dầu nhiên liệu
+R012	LPG	Khí hóa lỏng
+R013	GTVT	Giao thông vận tải
+R014	GWP	Tiềm năng nóng lên toàn cầu
+
+=== TABLE 4 (11x7) ===
+R000	Mã IPCC	Nguồn phát thải	CO2	CH4	N2O	Tổng	Tỷ trọng
+R001	Mã IPCC	Nguồn phát thải	KtCO2tđ	KtCO2tđ	KtCO2tđ	KtCO2tđ	%
+R002	1	Năng lượng	254.508,03	5.550,05	1.605,38	261.663,46	100
+R003	1A	Các hoạt động đốt nhiên liệu	253.847,77	1.774,61	1.600,04	257.222,42	98,3
+R004	1A1	Công nghiệp năng lượng	127.583,22	294,46	564,20	128.441,89	49,1
+R005	1A2	Công nghiệp sản xuất và xây dựng	77.489,39	360,36	489,62	78.339,37	29,9
+R006	1A3	Giao thông vận tải	34.373,55	259,52	430,76	35.063,83	13,4
+R007	1A4	Lĩnh vực khác	14.401,61	860,26	115,46	15.377,33	5,9
+R008	1B	Phát tán từ nhiên liệu	660,26	3.775,45	5,34	4.441,05	1,7
+R009	1B1	Khai thác than và chuyển hóa nhiên liệu	330,30	1.285,21	4,76	1.620,27	0,6
+R010	1B2	Khai thác dầu và khí tự nhiên	329,95	2.490,24	0,58	2.820,77	1,1
+
+=== TABLE 5 (11x7) ===
+R000	Mã IPCC	Nguồn phát thải	CO2	CH4	N2O	Tổng	Tỷ trọng
+R001	Mã IPCC	Nguồn phát thải	KtCO2tđ	KtCO2tđ	KtCO2tđ	KtCO2tđ	%
+R002	1	Năng lượng	264.547,60	5.757,77	1.719,76	272.025,14	100
+R003	1A	Các hoạt động đốt nhiên liệu	263.859,19	1.762,72	1.713,68	267.335,59	98,3
+R004	1A1	Công nghiệp năng lượng	123.818,81	329,46	555,74	124.704,01	45,8
+R005	1A2	Công nghiệp sản xuất và xây dựng	80.929,63	371,11	505,15	81.805,89	30,1
+R006	1A3	Giao thông vận tải	44.732,01	312,90	550,99	45.595,89	16,8
+R007	1A4	Lĩnh vực khác	14.378,75	749,26	101,80	15.229,81	5,6
+R008	1B	Phát tán từ nhiên liệu	688,41	3.995,05	6,08	4.689,54	1,7
+R009	1B1	Khai thác than và chuyển hóa nhiên liệu	340,88	1.356,38	5,48	1.702,74	0,6
+R010	1B2	Khai thác dầu và khí tự nhiên	347,53	2.638,67	0,60	2.986,80	1,1
+
+=== TABLE 6 (6x9) ===
+R000	2021	Than / Antraxit	Than / sub-bitum	Dầu thô	Dầu / diesel	Dầu nhiên liệu	Khí tự nhiên	Sinh / Khối	Than củi
+R001		KTOE	KTOE	KTOE	KTOE	KTOE	KTOE	KTOE	KTOE
+R002	Sản xuất điện	23.307,66	4.200,92		13,51	38,85	4.480,97	1.180,56	
+R003	Lọc hóa dầu			1.323,74					
+R004	Chế biến khí								
+R005	Chế biến than củi								898,25
+
+=== TABLE 7 (6x9) ===
+R000	2022	Than / Antraxit	Than / sub-bitum	Dầu thô	Dầu / diesel	Dầu nhiên liệu	Khí tự nhiên	Sinh / Khối	Than củi
+R001		KTOE	KTOE	KTOE	KTOE	KTOE	KTOE	KTOE	KTOE
+R002	Sản xuất điện	22.420,06	3.872,85		23,10	8,98	4.998,33	1.297,61	
+R003	Lọc hóa dầu			1.343,46					
+R004	Chế biến khí								
+R005	Chế biến than củi								1033,45
+
+=== TABLE 8 (5x9) ===
+R000	Loại / khí	Than / Antraxit	Than / sub-bitum	Dầu thô	Dầu / diesel	Dầu / nhiên / liệu	Khí tự nhiên	Sinh / Khối	Than củi
+R001		Kg/Tj	Kg/Tj	Kg/Tj	Kg/Tj	Kg/Tj	Kg/Tj	Kg/Tj	Kg/Tj
+R002	CO2	98.300	96.100	73.300	74.100	77.400	56.100	100.000	112.000
+R003	CH4	1	1	3	3	3	1	30	200
+R004	N2O	1,5	1,5	0,6	0,6	0,6	0,1	4	4
+
+=== TABLE 9 (7x6) ===
+R000	Mã / IPCC	Nguồn phát thải	CO2	CH4	N2O	Tổng
+R001	Mã / IPCC	Nguồn phát thải	Kt	Kt	Kt	KtCO2tđ
+R002	1A1	Công nghiệp năng lượng	127.583,22	10,52	2,13	128.441,89
+R003	1A1a	Sản xuất điện	123.520,76	2,83	1,95	124.115,49
+R004	1A1b	Lọc hóa dầu	4.062,46	0,17	0,03	4.075,93
+R005	1A1ci	Sản xuất than củi		7,52	0,15	250,47
+R006	1A1cii	Chế biến khí	0,00	0,00	0,00	0,00
+
+=== TABLE 10 (7x6) ===
+R000	Mã / IPCC	Nguồn phát thải	CO2	CH4	N2O	Tổng
+R001	Mã / IPCC	Nguồn phát thải	Kt	Kt	Kt	KtCO2tđ
+R002	1A1	Công nghiệp năng lượng	123.818,81	11,77	2,10	124.704,01
+R003	1A1a	Sản xuất điện	119.695,83	2,94	1,89	120.279,19
+R004	1A1b	Lọc hóa dầu	4.122,98	0,17	0,03	4.136,65
+R005	1A1ci	Sản xuất than củi		8,65	0,17	288,17
+R006	1A1cii	Chế biến khí	0,00	0,00	0,00	0,00
+
+=== TABLE 11 (14x7) ===
+R000	Tiểu lĩnh vực	Than / Antraxit	Dầu / diesel	Dầu nhiên liệu	Khí hóa lỏng	Khí tự nhiên	Sinh / Khối
+R001		KTOE	KTOE	KTOE	KTOE	KTOE	KTOE
+R002	Sắt và thép	1.209,88	729,48	30,05	84,15	258,21	
+R003	Hóa chất và hóa dầu	902,25	91,40	22,29	26,40	348,14	
+R004	Giấy, bột giấy và in ấn	662,09	26,94	0,03	7,31	5,13	
+R005	Thực phẩm, đồ uống, thuốc lá	468,33	106,74	12,14	13,79	19,58	2.271,94
+R006	Khoáng phi kim	10.555,01	229,04	67,93	72,74	153,81	439,48
+R007	Thiết bị vận tải	0,78	40,59	4,89	62,40	12,56	
+R008	Thiết bị, máy móc	2,68	58,21	16,80	111,16	22,87	
+R009	Khai khoáng	362,89	534,03	0,38			
+R010	Gỗ & các sản phẩm từ gỗ	1,24	42,63	0,04	0,29		787,90
+R011	Xây dựng	13,15	204,19		7,07		
+R012	Dệt may & đồ da	1.329,79	71,38	1,23	20,87	4,44	1.031,70
+R013	Công nghiệp không xác định	817,73	35,54	0,34	21,09	2,62	
+
+=== TABLE 12 (14x7) ===
+R000	Tiểu lĩnh vực	Than / Antraxit	Dầu / diesel	Dầu nhiên liệu	Khí hóa lỏng	Khí tự nhiên	Sinh / Khối
+R001		KTOE	KTOE	KTOE	KTOE	KTOE	KTOE
+R002	Sắt và thép	1.216,59	962,46	58,38	91,00	304,52	
+R003	Hóa chất và hóa dầu	907,26	120,59	43,30	28,55	410,59	
+R004	Giấy, bột giấy và in ấn	665,77	35,54	0,06	7,91	6,05	
+R005	Thực phẩm, đồ uống, thuốc lá	470,93	140,84	23,59	14,91	23,09	2.354,18
+R006	Khoáng phi kim	10.653,78	302,19	131,95	78,65	181,40	475,23
+R007	Thiết bị vận tải		53,56	9,50	67,48	14,81	
+R008	Thiết bị, máy móc	1,19	76,80	32,63	120,20	26,97	
+R009	Khai khoáng	364,90	704,59	0,74			
+R010	Gỗ & các sản phẩm từ gỗ	5,65	56,25	0,08	0,32		827,44
+R011	Xây dựng	13,23	269,41		7,65		
+R012	Dệt may & đồ da	1.337,17	94,18	2,39	22,57	5,24	1.059,56
+R013	Công nghiệp không xác định	779,94	46,89	0,67	22,81	3,08	
+
+=== TABLE 13 (5x7) ===
+R000	Loại / khí	Than / Antraxit	Dầu / diesel	Dầu / nhiên / liệu	Khí hóa lỏng	Khí tự nhiên	Sinh / Khối
+R001		Kg/Tj	Kg/Tj	Kg/Tj	Kg/Tj	Kg/Tj	Kg/Tj
+R002	CO2	98.300	74.100	77.400	63.100	56.100	
+R003	CH4	10	3	3	1	1	30
+R004	N2O	1,5	0,6	0,6	0,1	0,1	4,0
+
+=== TABLE 14 (15x6) ===
+R000	Mã / IPCC	Nguồn phát thải	CO2	CH4	N2O	Tổng
+R001	Mã / IPCC	Nguồn phát thải	Kt	Kt	Kt	KtCO2tđ
+R002	1A2	Công nghiệp sản xuất và xây dựng	77.489,39	12,87	1,85	78.339,37
+R003	1A2a	Sắt và thép	8.168,72	0,62	0,10	8.211,55
+R004	1A2c	Hóa chất và hóa dầu	4.956,56	0,41	0,06	4.984,16
+R005	1A2d	Giấy, bột giấy và in ấn	2.827,64	0,28	0,04	2.846,64
+R006	1A2e	Thực phẩm, đồ uống, thuốc lá	2.380,40	3,07	0,41	2.575,70
+R007	1A2f	Khoáng phi kim	44.924,56	5,02	0,74	45.262,46
+R008	1A2g	Thiết bị vận tải	339,36	0,01	0,00	340,01
+R009	1A2h	Thiết bị, máy móc	593,44	0,02	0,00	594,59
+R010	1A2i	Khai khoáng	3.151,52	0,22	0,04	3.167,25
+R011	1A2j	Gỗ & các sản phẩm từ gỗ	138,29	1,00	0,13	201,44
+R012	1A2k	Xây dựng	706,30	0,03	0,01	708,77
+R013	1A2l	Dệt may & đồ da	5.763,91	1,86	0,26	5.884,50
+R014	1A2m	Công nghiệp không xác định	3.538,69	0,35	0,05	3.562,30
+
+=== TABLE 15 (15x6) ===
+R000	Mã / IPCC	Nguồn phát thải	CO2	CH4	N2O	Tổng
+R001	Mã / IPCC	Nguồn phát thải	Kt	Kt	Kt	KtCO2tđ
+R002	1A2	Công nghiệp sản xuất và xây dựng	80.929,63	13,25	1,91	81.805,89
+R003	1A2a	Sắt và thép	9.137,84	0,65	0,10	9.183,63
+R004	1A2c	Hóa chất và hóa dầu	5.288,16	0,42	0,06	5.316,56
+R005	1A2d	Giấy, bột giấy và in ấn	2.873,09	0,28	0,04	2.892,28
+R006	1A2e	Thực phẩm, đồ uống, thuốc lá	2.545,16	3,18	0,43	2.747,55
+R007	1A2f	Khoáng phi kim	45.845,94	5,12	0,76	46.190,95
+R008	1A2g	Thiết bị vận tải	410,00	0,01	0,00	410,83
+R009	1A2h	Thiết bị, máy móc	729,80	0,02	0,00	731,29
+R010	1A2i	Khai khoáng	3.690,12	0,24	0,04	3.707,64
+R011	1A2j	Gỗ & các sản phẩm từ gỗ	198,88	1,05	0,14	265,44
+R012	1A2k	Xây dựng	910,45	0,04	0,01	913,58
+R013	1A2l	Dệt may & đồ da	5.875,12	1,90	0,26	5.998,38
+R014	1A2m	Công nghiệp không xác định	3.425,07	0,33	0,05	3.447,73
+
+=== TABLE 16 (6x6) ===
+R000	Nguồn tiêu thụ	Xăng	Xăng máy bay	Dầu / diesel	Dầu nhiên liệu	Khí tự nhiên
+R001		KTOE	KTOE	KTOE	KTOE	KTOE
+R002	Hàng không nội địa		307,17			
+R003	Đường bộ	5.982,90		4.225,40		7,99
+R004	Đường sắt			24,94		
+R005	Đường thủy nội địa			766,02	158,40	
+
+=== TABLE 17 (6x6) ===
+R000	Nguồn tiêu thụ	Xăng	Xăng máy bay	Dầu / diesel	Dầu nhiên liệu	Khí tự nhiên
+R001		KTOE	KTOE	KTOE	KTOE	KTOE
+R002	Hàng không nội địa		1.129,91			
+R003	Đường bộ	7.146,58		5.454,24		12,62
+R004	Đường sắt			33,43		
+R005	Đường thủy nội địa			819,38	313,95	
+
+=== TABLE 18 (7x6) ===
+R000	Loại / khí	Xăng	Xăng máy bay	Dầu / diesel	Dầu nhiên liệu	Khí tự nhiên
+R001	Loại / khí	Kg/Tj	Kg/Tj	Kg/Tj	Kg/Tj	Kg/Tj
+R002	CO2	69.300	71.500	74.100	77.400	56.100
+R003	CH4	33	0,5	3,9 (đường bộ)	7	92
+R004	CH4	33	0,5	4,15 (đường sắt)	7	92
+R005	N2O	3,2	2	3,9 (đường bộ)	2	3
+R006	N2O	3,2	2	28,6 (đường sắt)	2	3
+
+=== TABLE 19 (7x6) ===
+R000	Mã IPCC	Nguồn phát thải	CO2	CH4	N2O	Tổng
+R001	Mã IPCC	Nguồn phát thải	Kt	Kt	Kt	KtCO2tđ
+R002	1A3	Giao thông vận tải	34.373,55	9,27	1,63	35.063,83
+R003	1A3a	Hàng không	919,52	0,01	0,03	926,52
+R004	1A3b	Đường bộ	30.486,83	8,99	1,49	31.133,99
+R005	1A3c	Đường sắt	77,37	0,00	0,03	85,40
+R006	1A3d	Đường thủy	2.889,82	0,27	0,08	2.917,92
+
+=== TABLE 20 (7x6) ===
+R000	Mã IPCC	Nguồn phát thải	CO2	CH4	N2O	Tổng
+R001	Mã IPCC	Nguồn phát thải	Kt	Kt	Kt	KtCO2tđ
+R002	1A3	Giao thông vận tải	44.732,01	11,17	2,08	45.595,89
+R003	1A3a	Hàng không	3.382,46	0,02	0,09	3.408,19
+R004	1A3b	Đường bộ	37.686,43	10,81	1,85	38.479,36
+R005	1A3c	Đường sắt	103,70	0,01	0,04	114,47
+R006	1A3d	Đường thủy	3.559,43	0,33	0,09	3.593,87
+
+=== TABLE 21 (6x6) ===
+R000	Mã IPCC	Nguồn phát thải	CO2	CH4	N2O	Tổng
+R001	Mã IPCC	Nguồn phát thải	Kt	Kt	Kt	KtCO2tđ
+R002	1A4	Các lĩnh vực khác	14.401,61	30,72	0,44	15.377,33
+R003	1A4a	Thương mại và dịch vụ	616,77	0,31	0,00	626,30
+R004	1A4c	Dân dụng	6.484,76	23,87	0,30	7.232,46
+R005	1A4c	Nông nghiệp	7.300,09	6,54	0,13	7.518,57
+
+=== TABLE 22 (6x6) ===
+R000	Mã IPCC	Nguồn phát thải	CO2	CH4	N2O	Tổng
+R001	Mã IPCC	Nguồn phát thải	Kt	Kt	Kt	KtCO2tđ
+R002	1A4	Các lĩnh vực khác	14.378,75	26,76	0,38	15.229,81
+R003	1A4a	Thương mại và dịch vụ	1.138,27	0,86	0,01	1.164,15
+R004	1A4c	Dân dụng	5.776,89	19,11	0,24	6.375,62
+R005	1A4c	Nông nghiệp	7.463,58	6,78	0,14	7.690,04
+
+=== TABLE 23 (3x6) ===
+R000	Loại nhiên liệu	Than	Dầu / diesel	Dầu nhiên liệu	Khí hóa lỏng	Than củi
+R001	Loại nhiên liệu	KTOE	KTOE	KTOE	KTOE	KTOE
+R002	Nhiên liệu cho hoạt động thương mại và dịch vụ	5,04	20,40		201,65	31,00
+
+=== TABLE 24 (3x6) ===
+R000	Loại nhiên liệu	Than	Dầu / diesel	Dầu nhiên liệu	Khí hóa lỏng	Than củi
+R001	Loại nhiên liệu	KTOE	KTOE	KTOE	KTOE	KTOE
+R002	Nhiên liệu cho hoạt động thương mại và dịch vụ	2,35	23,72		399,34	92,00
+
+=== TABLE 25 (5x6) ===
+R000	Loại khí	Than	Dầu / diesel	Dầu nhiên liệu	Khí hóa lỏng	Than củi
+R001	Loại khí	Kg/Tj	Kg/Tj	Kg/Tj	Kg/Tj	Kg/Tj
+R002	CO2	98.300	74.100	77,400	63.100	112.000
+R003	CH4	10	10	10	5	200
+R004	N2O	1,5	0,6	0,6	0,1	1
+
+=== TABLE 26 (3x6) ===
+R000	Loại nhiên liệu	Than	Dầu hỏa	Khí hóa lỏng	Than củi	Sinh khối rắn sơ cấp khác
+R001		KTOE	KTOE	KTOE	KTOE	KTOE
+R002	Nhiên liệu cho hoạt động dân dụng	159,18	20,91	2.182,80	82,00	1.649,54
+
+=== TABLE 27 (3x6) ===
+R000	Loại nhiên liệu	Than	Dầu hỏa	Khí hóa lỏng	Than củi	Sinh khối rắn sơ cấp khác
+R001		KTOE	KTOE	KTOE	KTOE	KTOE
+R002	Nhiên liệu cho hoạt động dân dụng	133,34	3,39	1.975,08	49,00	1.322,36
+
+=== TABLE 28 (5x6) ===
+R000	Loại khí	Than	Dầu hỏa	Khí hóa lỏng	Than củi	Sinh khối rắn sơ cấp khác
+R001	Loại khí	Kg/Tj	Kg/Tj	Kg/Tj	Kg/Tj	Kg/Tj
+R002	CO2	98.300	71.900	63.100	112.000	
+R003	CH4	300	10	5	200	300
+R004	N2O	1,5	0,6	0,1	1	4
+
+=== TABLE 29 (3x4) ===
+R000	Loại nhiên liệu	Xăng	Dầu Diesel	Sinh khối
+R001	Loại nhiên liệu	KTOE	KTOE	KTOE
+R002	Nhiên liệu cho hoạt động nông nghiệp	143,85	2.218,50	441,99
+
+=== TABLE 30 (3x4) ===
+R000	Loại nhiên liệu	Xăng	Dầu Diesel	Sinh khối
+R001	Loại nhiên liệu	KTOE	KTOE	KTOE
+R002	Nhiên liệu cho hoạt động nông nghiệp	153,30	2.262,36	459,67
+
+=== TABLE 31 (5x4) ===
+R000	Loại khí	Xăng	Dầu Diesel	Sinh khối
+R001	Loại khí	Kg/Tj	Kg/Tj	Kg/Tj
+R002	CO2	69.300	74.100	
+R003	CH4	10	10	300
+R004	N2O	0,6	0,6	4
+
+=== TABLE 32 (10x6) ===
+R000	Mã IPCC	Nguồn phát thải	CO2	CH4	N2O	Tổng
+R001	Mã IPCC	Nguồn phát thải	Kt	Kt	Kt	KtCO2tđ
+R002	1B1a	Nhiên liệu rắn	330,30	45,90	0,02	1.620,27
+R003	1B1ai	Khai thác than hầm lò	314,66	33,96		1.265,47
+R004	1B1ai1	Khai thác	314,66	30,66		
+R005	1B1ai2	Sau khai thác		3,30		
+R006	1B1aii	Khai thác than lộ thiên	15,64	2,89		96,65
+R007	1B1aii1	Khai thác	15,64	0,70		
+R008	1B1aii2	Sau khai thác		2,20		
+R009	1B1c	Chuyển hóa nhiên liệu		9,05	0,02	258,16
+
+=== TABLE 33 (10x6) ===
+R000	Mã IPCC	Nguồn phát thải	CO2	CH4	N2O	Tổng
+R001	Mã IPCC	Nguồn phát thải	Kt	Kt	Kt	KtCO2tđ
+R002	1B1a	Nhiên liệu rắn	340,88	48,44	0,02	1.702,74
+R003	1B1ai	Khai thác than hầm lò	324,73	35,04		1.305,99
+R004	1B1ai1	Khai thác	324,73	31,64		
+R005	1B1ai2	Sau khai thác		3,40		
+R006	1B1aii	Khai thác than lộ thiên	16,14	2,99		99,74
+R007	1B1aii1	Khai thác	16,14	0,72		
+R008	1B1aii2	Sau khai thác		2,27		
+R009	1B1c	Chuyển hóa nhiên liệu		10,41	0,02	297,01
+
+=== TABLE 34 (3x3) ===
+R000		Than hầm lò	Than lộ thiên
+R001		Kt	Kt
+R002	Sản xuất than trong nước	28.984,8	19.323,2
+
+=== TABLE 35 (3x3) ===
+R000		Than hầm lò	Than lộ thiên
+R001		Kt	Kt
+R002	Sản xuất than trong nước	29.912,8	19.941,9
+
+=== TABLE 36 (5x6) ===
+R000	Mã IPCC	Nguồn phát thải	CO2	CH4	N2O	Tổng
+R001	Mã IPCC	Nguồn phát thải	kt	kt	kt	ktCO2tđ
+R002	1B2	Dầu và khí tự nhiên	329,95	88,94	0,00	2.820,77
+R003	1B2a	Dầu	131,86	23,05	0,001568	777,69
+R004	1B2b	Khí tự nhiên	198,09	65,89	0,00	2.043,09
+
+=== TABLE 37 (5x6) ===
+R000	Mã IPCC	Nguồn phát thải	CO2	CH4	N2O	Tổng
+R001	Mã IPCC	Nguồn phát thải	kt	kt	kt	ktCO2tđ
+R002	1B2	Dầu và khí tự nhiên	347,53	94,24	0,00	2.986,80
+R003	1B2a	Dầu	132,98	22,88	0,001588	773,92
+R004	1B2b	Khí tự nhiên	214,56	71,36	0,00	2.212,89
+
+=== TABLE 38 (8x6) ===
+R000	Phân đoạn	Tiểu phân đoạn	Nguồn phát thải	CO2	CH4	N2O
+R001	Phân đoạn	Tiểu phân đoạn	Nguồn phát thải	Tấn/103m3 tổng sản phẩm dầu	Tấn/103m3 tổng sản phẩm dầu	Tấn/103m3 tổng sản phẩm dầu
+R002	Sản xuất dầu	Ngoài khơi	Tất cả	4,08	2,46	1,6E-05
+R003	Vận chuyển					
+R004		Đường ống	Tất cả	0,00049	0,0054	NA
+R005		Xe bồn và toa xe lửa	Tất cả	0,0023	0,025	NA
+R006		Bồn	Tất cả	NA	0,002	NA
+R007	Lọc hóa dầu	Lọc hóa dầu	Tất cả	5,85	0,03	8,77E-05
+
+=== TABLE 39 (9x6) ===
+R000	Phân đoạn	Tiểu phân đoạn	Nguồn phát thải	CO2	CH4	N2O
+R001	Phân đoạn	Tiểu phân đoạn	Nguồn phát thải	Tấn/106m3 tổng sản phẩm khí tự nhiên	Tấn/106m3 tổng sản phẩm khí tự nhiên	Tấn/106m3 tổng sản phẩm khí tự nhiên
+R002	Sản xuất khí	Ngoài khơi	Tất cả	4,80	2,94	8,20E-05
+R003	Chế biến khí					
+R004		Không có LDAR, hoặc có LDAR hạn chế, hoặc dưới 50% máy nén ly tâm có phớt khô	Tất cả	0,12	1,83	1,30E-06
+R005		Khí chua (loại bỏ khí axit)	Tất cả	66,7	0,1	1,30E-06
+R006	Truyền tải và lưu trữ					
+R007		Truyền tải: LDAR hạn chế hoặc dưới 50% máy nén ly tâm có phớt khô	Tất cả	0,23	3,36	NA
+R008		Lưu trữ: LDAR hạn chế hoặc hầu hết các hoạt động xảy ra với các công nghệ và phát thải thực tiễn cao hơn	Tất cả	0,06	0,67	NA
+
+=== STYLE COUNTS ===
+Normal	152
+N2	57
+Hd7	54
+toc 1	40
+Tbl	36
+Nguon	36
+Hd2	10
+Hd6	8
+Hd5	7
+List Paragraph	6
+H1-	5
+Hd1	3
+Heading 1	2
+Fig	2
+Hd3	2
+
+=== DIRECT FONT COUNTS (characters) ===
+('', None, False, False)	29655
+('', 12.0, False, False)	245
+('', 20.0, True, False)	160
+('', None, False, True)	140
+('', 14.0, True, False)	110
+('', 14.0, False, False)	54
+('', None, True, False)	25
+('', 14.0, True, True)	24
+('Times New Roman', 14.0, True, False)	11

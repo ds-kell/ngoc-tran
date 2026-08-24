@@ -1,0 +1,1140 @@
+SOURCE: D:\NgocTran\phase1\2025_11_10 BTR1_Chuong 2_draft2.docx
+PARAGRAPHS=178 TABLES=29 SECTIONS=7
+
+P0000 [Heading 1] KIỂM KÊ QUỐC GIA KHÍ NHÀ KÍNH
+P0005 [Heading 2] Tổng quan về kiểm kê quốc gia khí nhà kính
+P0006 [Heading 2] Tổ chức kiểm kê quốc gia khí nhà kính
+P0007 [Normal] Việc thực hiện kiểm kê quốc gia KNK cho Báo cáo minh bạch hai năm một lần lần thứ nhất (BTR1) của Việt Nam có sự tham gia của các tổ chức sau:
+P0008 [Normal] Cục Biến đổi khí hậu, Bộ NNMT chịu trách nhiệm xây dựng kế hoạch kiểm kê KNK; chủ trì, phối hợp với các cơ quan có liên quan thực hiện kiểm kê KNK và xây dựng báo cáo kỹ thuật kiểm kê quốc gia KNK. Cục Biến đổi khí hậu thành lập Nhóm công tác kỹ thuật kiểm kê quốc gia KNK bao gồm đại diện của các cơ quan có liên quan và chuyên gia có kinh nghiệm về kiểm kê KNK.
+P0009 [Normal] Tổng cục Thống kê, Bộ Tài chính tổng hợp, cung cấp số liệu hoạt động (SLHĐ) thống kê; kiểm soát chất lượng số liệu từ các đơn vị đầu mối của các Bộ quản lý lĩnh vực (Bộ Công Thương, Bộ NNMT, Bộ Xây dựng), UBND các tỉnh/thành phố, cơ sở phát thải KNK phải thực hiện kiểm kê KNK cung cấp SLHĐ, thông tin liên quan cho Cục Biến đổi khí hậu, Bộ NNMT và Nhóm công tác kỹ thuật kiểm kê quốc gia KNK để thực hiện kiểm kê quốc gia KNK (Hình 2-1).
+P0011 [Caption] Hình 2-1. Tổ chức thực hiện kiểm kê quốc gia KNK cho năm 2018, 2020.
+P0012 [Normal] Kết quả kiểm kê quốc gia KNK tại Việt Nam được lưu trữ, cập nhật và đăng tải trên trang thông tin điện tử của Cục Biến đổi khí hậu, Bộ NNMT.
+P0013 [Heading 2] Phương pháp luận
+P0014 [Heading 3] Phương pháp kiểm kê quốc gia khí nhà kính
+P0015 [Normal] Kiểm kê quốc gia KNK được thực hiện theo các Hướng dẫn của IPCC, bao gồm Hướng dẫn về kiểm kê quốc gia KNK phiên bản năm 2006 (IPCC 2006) và năm 2019 hoàn thiện cho phiên bản năm 2006 (IPCC 2019); Hướng dẫn về kiểm kê quốc gia KNK phiên bản năm 1996 sửa đổi (IPCC 1996 sửa đổi); Hướng dẫn thực hành tốt cho lĩnh vực sử dụng đất, thay đổi sử dụng đất và lâm nghiệp năm 2003 (GPG 2003); Hướng dẫn thực hành tốt và quản lý độ không chắc chắn trong kiểm kê quốc gia KNK năm 2000 (GPG 2000). Ngoài ra, tiểu lĩnh vực đất thuộc lĩnh vực AFOLU được tính bằng công cụ kiểm kê KNK cho nông nghiệp và sử dụng đất (ALU) phiên bản sử dụng hướng dẫn IPCC 2006 do Trường Đại học Bang Colorado, Hoa Kỳ xây dựng.
+P0016 [Normal] Hướng dẫn phân loại các tiểu lĩnh vực, áp dụng cây ra quyết định được tuân thủ theo Hướng dẫn IPCC 2006 và IPCC 2019. Việc áp dụng các thông số, hệ số chuyển đổi và hệ số phát thải (HSPT) ưu tiên theo các giá trị đặc trưng quốc gia, Hướng dẫn IPCC 2019 và Hướng dẫn IPCC 2006. Trong trường hợp một số các HSPT, thông số, hệ số chuyển đổi mặc định không có tại 02 phiên bản trên, thông tin tại các phiên bản IPCC 1996 sửa đổi, GPG 2000 và GPG 2003 sẽ được sử dụng.
+P0017 [Normal] Các lĩnh vực được kiểm kê quốc gia KNK xây dựng BTR1 bao gồm: (1) Năng lượng; (2) IPPU; (3) Nông nghiệp; (4) LULUCF và (5) Chất thải, đối với các KNK bao gồm: các-bon-nic (CO2), mê-tan (CH4), đi-ni-tơ ô-xit (N2O) và các khí hy-đrô-fluo-các-bon (HFCs). Các loại KNK khác không được tính do không thu thập được SLHĐ hoặc không xảy ra.
+P0018 [Heading 3] Số liệu hoạt động và hệ số phát thải
+P0024 [Normal] Phương pháp tiếp cận cho quá trình thu thập, tổng hợp và xử lý SLHĐ theo phương pháp từ trên-xuống (top-down). SLHĐ và các thông tin liên quan được thu thập, tổng hợp theo ưu tiên từ các số liệu thống kê quốc gia, số liệu của các cơ quan quản lý nhà nước, một số cơ quan, tổ chức ở trung ương và địa phương. Ngoài ra, một số số liệu được sử dụng từ các tài liệu nghiên cứu khoa học, báo cáo dự án hợp tác quốc tế. Tuy nhiên, do hiện trạng số liệu quốc gia chưa được thống kê đầy đủ theo phân loại của IPCC nên SLHĐ của một số tiểu lĩnh vực thuộc lĩnh vực IPPU đã sử dụng phương pháp tiếp cận từ dưới-lên (bottom-up).
+P0025 [Normal] Các HSPT, thông số và hệ số chuyển đổi sử dụng trong kiểm kê quốc gia KNK theo Quyết định số 2626/QĐ-BTNMT ngày 10 tháng 10 năm 2022 của Bộ trưởng Bộ Tài nguyên và Môi trường công bố danh mục hệ số phát thải phục vụ kiểm kê KNK. Trong Quyết định này, một số HSPT, thông số và hệ số chuyển đổi đặc trưng quốc gia được sử dụng, phần lớn HSPT, thông số và hệ số chuyển đổi sử dụng khác là các giá trị mặc định trong IPCC 2006, IPCC 2019.
+P0026 [Normal] Thông tin tổng hợp về phương pháp và nguồn SLHĐ, HSPT, thông số, hệ số chuyển đổi trong kiểm kê quốc gia KNK được tổng hợp trong Bảng 2.1 và Bảng 2.2 . Thông tin chi tiết về các thông số, HSPT đặc trưng quốc gia được tổng hợp tại Phụ lục 1.
+P0027 [Caption] Bảng 2.1. Tóm tắt phương pháp và hệ số phát thải sử dụng cho kiểm kê quốc gia khí nhà kính
+P0031 [Caption] Bảng 2.2. Tóm tắt nguồn số liệu sử dụng cho kiểm kê quốc gia khí nhà kính
+P0032 [Heading 3] Các nguồn phát thải chính
+P0033 [Normal] Phân tích nguồn phát thải, bể hấp thụ KNK chính được thực hiện theo phương pháp tiếp cận bậc 1, sử dụng công thức 4.1, trang 4.16, Chương 4, Quyển 1, IPCC 2019 để xác định các nguồn phát thải lớn nhất, đóng góp tới 95% tổng lượng phát thải ròng quốc gia.
+P0034 [Normal] Khi bao gồm lĩnh vực LULUCF, trong năm 2022, Việt Nam có 36 nguồn phát thải và bể hấp thụ KNK chính, đóng góp 95,2% trong tổng số 166 nguồn phát thải/bể hấp thụ KNK được tính. Trong đó, nguồn phát thải khí CO2 từ đốt nhiên liệu để sản xuất điện (1A1ai) được đánh giá là lớn nhất, chiếm 22,7%. Chi tiết về đánh giá mức độ đóng góp của nguồn chính cho các nguồn phát thải và bể hấp thụ KNK chính năm 2022 được tổng hợp trong Bảng 2.3.
+P0035 [Normal] Bảng 2.3. Phân tích nguồn phát thải/bể hấp thụ KNK chính bao gồm LULUCF trong năm 2022
+P0036 [Normal] Ghi chú: Giá trị (-) hiển thị lượng hấp thụ KNK
+P0037 [Normal] Trong số 36 nguồn phát thải/bể hấp thụ KNK chính, có 25 nguồn phát thải/bể hấp thụ chính là khí CO2, 8 nguồn phát thải/bể hấp thụ chính là khí CH4, 02 nguồn phát thải/bể hấp thụ chính là khí N2O và 01 nguồn phát thải là khí HFCs. Số lượng các nguồn phát thải/bể hấp thụ KNK chính được tổng hợp trong Bảng 2.4.
+P0038 [Normal] Xét theo lĩnh vực, lĩnh vực năng lượng có nhiều nguồn phát thải chính nhất (16 nguồn), tiếp theo là lĩnh vực nông nghiệp có 6 nguồn phát thải chính. Lĩnh vực IPPU và LULUCF có tổng số nguồn chính bằng nhau, với 5 nguồn chính. Lĩnh vực chất thải đóng góp 4 nguồn phát thải chính. Số lượng các nguồn phát thải/bể hấp thụ KNK chính được tổng hợp trong Bảng 2.4.
+P0039 [Normal] Bảng 2.4. Thống kê số lượng các nguồn phát thải/bể hấp thụ KNK chính bao gồm LULUCF năm 2022
+P0040 [Normal] Khi không bao gồm lĩnh vực LULUCF, trong năm 2022, Việt Nam có 30 nguồn phát thải và bể hấp thụ KNK chính, đóng góp 95,0% trong tổng số 132 nguồn phát thải/bể hấp thụ KNK được tính. Trong đó, nguồn phát thải khí CO2 từ đốt nhiên liệu để sản xuất điện (1A1ai) được đánh giá là lớn nhất, chiếm 25,3%. Chi tiết về đánh giá mức độ đóng góp của nguồn chính cho các nguồn phát thải và bể hấp thụ KNK chính năm 2022 được tổng hợp trong Bảng 2.5.
+P0041 [Normal] Bảng 2.5. Phân tích nguồn phát thải KNK chính không bao gồm LULUCF trong năm 2022
+P0042 [Normal] Trong số 30 nguồn phát thải/bể hấp thụ KNK chính này, có 19 nguồn phát thải/bể hấp thụ chính là khí CO2, 8 nguồn phát thải/bể hấp thụ chính là khí CH4, 02 nguồn phát thải/bể hấp thụ chính là khí N2O và 01 nguồn phát thải là khí HFCs. Số lượng các nguồn phát thải/bể hấp thụ KNK chính được tổng hợp trong Bảng 2.6.
+P0043 [Normal] Xét theo lĩnh vực, lĩnh vực năng lượng có nhiều nguồn phát thải chính nhất (16 nguồn), tiếp theo là lĩnh vực nông nghiệp có 6 nguồn phát thải chính. Lĩnh vực IPPU và chất thải có tổng số nguồn chính bằng nhau, với 4 nguồn chính. Số lượng các nguồn phát thải/bể hấp thụ KNK chính được tổng hợp trong Bảng 2.6.
+P0044 [Normal] Bảng 2.6. Thống kê số lượng các nguồn phát thải/bể hấp thụ KNK chính không bao gồm LULUCF năm 2022
+P0045 [Normal] Bên cạnh đó, quá trình đánh giá theo xu thế cho nguồn chính cũng được thực hiện cho kiểm kê quốc gia khí nhà kính bao gồm và không bao gồm các nguồn phát thải/hấp thụ thuộc lĩnh vực LULUCF. Mục đích của đánh giá xu thế là xác định các nguồn phát thải/hấp thụ có thể không đủ lớn để được xác định bằng đánh giá theo mức, nhưng xu thế của chúng đóng góp đáng kể vào xu hướng của toàn bộ kết quả kiểm kê KNK. Quá trình này được thực hiện theo hướng dẫn tại trang 4.18-4.19, Chương 4, Phần 1, IPCC 2019.
+P0046 [Normal] Kết quả đánh giá theo xu thế của kiểm kê quốc gia KNK cho năm kiểm kê 2022 so với năm 2018 được thể hiện trong Bảng 2.7 và Bảng 2.8.
+P0048 [Normal] Bảng 2.7. Kết quả đánh giá nguồn phát thải/bể hấp thụ chính theo xu thế cho năm 2022, bao gồm LULUCF
+P0049 [Normal] Bảng 2.8. Kết quả đánh giá nguồn phát thải chính theo xu thế cho năm 2022, không bao gồm LULUCF
+P0053 [Heading 3] Đánh giá độ không chắc chắn cho kiểm kê quốc gia khí nhà kính
+P0054 [Normal] Đánh giá độ không chắc chắn cho các nguồn phát thải/bể hấp thụ KNK được thực hiện theo phương pháp tiếp cận bậc 1, công thức 3.1, công thức 3.2, công thức 3.2A và công thức 3.2B trang 3.18-19, Chương 3, Phần 1, IPCC 2019.
+P0055 [Normal] Giá trị độ không chắc chắn là sự kết hợp giá trị của sai số phương pháp, sai số thống kê và độ lệch chuẩn của giá trị sử dụng. Độ không chắc chắn của SLHĐ, HSPT và các thông số, hệ số chuyển đổi được sử dụng là giá trị mặc định hoặc một giá trị trong khoảng mặc định theo các khuyến nghị của Hướng dẫn IPCC 1996 sửa đổi, GPG 2000, GPG 2003, IPCC 2006 và IPCC 2019. Một số giá trị độ không chắc chắn của các SLHĐ, HSPT và thông số đặc trưng quốc gia được áp dụng theo đánh giá của chuyên gia.
+P0056 [Normal] Việc đánh giá độ không chắc chắn giúp cải thiện cho các kỳ kiểm kê quốc gia KNK tiếp theo. Kết quả đánh giá độ không chắc chắn cho kiểm kê quốc gia KNK năm 2020 được trình bày trong Bảng 2.9.
+P0057 [Caption] Bảng 2.9. Kết quả đánh giá độ không chắc chắn theo mức cho kiểm kê quốc gia KNK
+P0058 [Normal] Đánh giá độ không chắc chắn theo xu thế được thực hiện theo hướng dẫn của IPCC 2019, sử dụng các công thức 3.2C, 3.2D, 3.2E, 3.2F, 3.2G tại trang 3.23-3.24, Chương 3, Phần 1, IPCC 2019. Việc đánh giá độ không chắc chắn theo xu thế được thực hiện cho phát thải/hấp thụ KNK có bao gồm và không bao gồm các nguồn thuộc lĩnh vực LULUCF.
+P0059 [Normal] Kết quả cho thấy, khi bao gồm LULUCF, độ không chắc chắn theo xu thế cho năm 2020-2022 lần lượt là 9,3%, 9,5% và 9,8%. Khi không bao gồm LULUCF, độ không chắc chắn theo xu hướng lần lượt là 5,9%, 6,4% và 7,0% cho giai đoạn 2020-2022.  Kết quả đánh giá độ không chắc chắn theo xu thế cho kiểm kê quốc gia KNK thể hiện trong Bảng 2.10.
+P0060 [Normal] Bảng 2.10. Kết quả đánh giá độ không chắc chắn theo xu thế cho kiểm kê quốc gia KNK
+P0062 [Heading 3] Kiểm soát chất lượng và đảm bảo chất lượng
+P0063 [List Paragraph] Kiểm soát chất lượng
+P0064 [Normal] Quy trình kiểm soát chất lượng (QC) được thực hiện theo hướng dẫn của IPCC 2006, bao gồm hoạt động QC của i) SLHĐ và HSPT; ii) Kết quả tính phát thải/hấp thụ; iii) Phân tích các nguồn chính, đánh giá độ không chắc chắn và các vấn đề liên quan khác. Kết quả QC được tổng hợp trong Bảng 2.11.
+P0065 [Caption] Bảng 2.11. Kết quả QC cho kiểm kê quốc gia khí nhà kính
+P0066 [List Paragraph] Đảm bảo chất lượng
+P0067 [Normal] Đảm bảo chất lượng (QA) kiểm kê KNK bao gồm các hoạt động trong hệ thống quốc gia kiểm kê KNK do cơ quan/chuyên gia không tham gia trực tiếp vào quá trình kiểm kê KNK thực hiện. Hoạt động QA được tiến hành từ khi chuẩn bị kiểm kê KNK cho đến khi báo cáo cuối cùng được hoàn tất.
+P0068 [Normal] Hoạt động QA bao gồm kiểm tra và đánh giá chất lượng của dữ liệu đầu vào cũng như sự phù hợp của phương pháp luận kiểm kê KNK, đảm bảo kết quả kiểm kê là những ước tính gần đúng tốt nhất về lượng phát thải/hấp thụ trong bối cảnh trình độ hiểu biết khoa học hiện tại với những số liệu sẵn có. Ngoài ra, hoạt động QA cũng hỗ trợ cho hoạt động QC.
+P0069 [Normal] Quá trình điều phối, giám sát các hoạt động QA có sự phối hợp thường xuyên, liên tục và chặt chẽ của các cơ quan quản lý nhà nước có liên quan, các viện nghiên cứu, tổ chức phi chính phủ và các chuyên gia chuyên ngành. Để xin ý kiến tham vấn cho kiểm kê quốc gia KNK (HSPT, SLHĐ, các thông số và hệ số chuyển đổi được áp dụng, phương pháp kiểm kê KNK, kết quả kiểm kê, có 08 hội thảo/cuộc họp tham vấn cho kiểm kê KNK trong các lĩnh vực AFOLU và chất thải; 05 hội thảo/cuộc họp tham vấn cho kiểm kê KNK trong các lĩnh vực năng lượng, IPPU và các cuộc trao đổi kỹ thuật giữa các nhóm thực hiện kiểm kê KNK với các chuyên gia chuyên ngành. Các ý kiến góp ý tại các hội thảo/họp tham vấn, trao đổi kỹ thuật đã được tiếp thu, chỉnh sửa trong Hồ sơ kiểm kê quốc gia KNK (NID). NID cũng được gửi cho các Bộ, ngành, cơ quan có liên quan để xin ý kiến chính thức.
+P0070 [Heading 3] Đánh giá tính hoàn chỉnh
+P0071 [Normal] Việc đánh giá tính hoàn chỉnh được thực hiện ở tất cả các tiểu lĩnh vực của các lĩnh vực năng lượng, IPPU, nông nghiệp, LULUCF và chất thải. Các nguồn phát thải/hấp thụ KNK không xảy ra, được kí hiệu là “NO”. Các nguồn phát thải không được tính, kí hiệu là “NE”, do không thu thập được SLHĐ để ước tính. Các nguồn phát thải đã được tính trong các tiểu lĩnh vực khác, được kí hiệu là “IE”. Các kí hiệu này sẽ được trình bày đầy đủ trong các bảng số liệu của mỗi lĩnh vực và giải thích lí do trong NID.
+P0072 [Heading 3] Tiềm năng nóng lên toàn cầu
+P0073 [Normal] Giá trị tiềm năng nóng lên toàn cầu (GWP) trong 100 năm áp dụng cho kiểm kê quốc gia KNK theo Báo cáo đánh giá lần thứ 5 (AR5) của IPCC công bố năm 2014, chi tiết tại Bảng 2.12.
+P0074 [Caption] Bảng 2.12. Giá trị tiềm năng nóng lên toàn cầu áp dụng cho kiểm kê quốc gia khí nhà kính
+P0076 [Heading 3] Áp dụng tính linh hoạt
+P0077 [Normal] Trong quá trình xây dựng BTR1 của Việt Nam, một số điều khoản linh hoạt được áp dụng theo Phụ lục của Quyết định 18/CMA.1, cụ thể được trình bày trong Bảng 2.13.
+P0078 [Normal] Bảng 2.13. Tính linh hoạt đối với kiểm kê quốc gia khí nhà kính
+P0080 [List Paragraph] Xu hướng phát thải khí nhà kính
+P0081 [Heading 3] Xu hướng phát thải khí nhà kính theo lĩnh vực
+P0082 [Normal] Xu hướng phát thải KNK theo lĩnh vực được trình bày trong Bảng 2.14 và Hình 2-2.
+P0083 [Caption] Bảng 2.14. Kết quả phát thải/hấp thụ KNK của Việt Nam
+P0084 [Normal] Tổng phát thải ròng KNK của Việt Nam tăng nhanh từ năm 2018 đến 2020, với lượng phát thải ròng tăng 76.199,50 nghìn tấn CO2tđ, tương ứng khoảng 20,2% so với mức phát thải ròng năm 2018. Năm 2021, tổng lượng phát thải ròng giảm xuống 425.082,35 nghìn tấn CO2tđ. Lượng phát thải ròng năm 2022 tăng không đáng kể so với mức phát thải của năm 2021, với 426.705,07 nghìn tấn CO2tđ.
+P0086 [Caption] Hình 2-2. Xu hướng phát thải khí nhà kính theo lĩnh vực.
+P0087 [List Paragraph] Các lĩnh vực khác nhau xu hướng phát thải/hấp thụ KNK khác nhau trong giai đoạn 2018-2022.
+P0088 [List Paragraph] Lĩnh vực năng lượng: Lượng phát thải KNK của lĩnh vực năng lượng tăng nhanh từ 2018 đến 2020, với mức tăng 49.985 nghìn tấn CO2tđ so với năm 2018. Sau đó, năm 2021, lượng phát thải KNK giảm nhẹ và có xu hướng tăng trở lại vào năm 2022.
+P0089 [List Paragraph] Lĩnh vực IPPU: Lượng phát thải KNK cũng tăng nhanh vào năm 2020, với 89.295,24 nghìn tấn CO2tđ. Sau đó, phát thải của lĩnh vực này tăng nhẹ vào năm 2021 và giảm dần  trong năm 2022, với lượng phát thải là 81.456,33 nghìn tấn CO2tđ.
+P0090 [List Paragraph] Lĩnh vực nông nghiệp: Lượng phát thải của lĩnh vực nông nghiệp thể hiện xu hướng giảm dần từ 2018 đến 2022. Từ 2021 đến 2021, lượng phát thải KNK của lĩnh vực giảm mạnh, từ 89.097,17 nghìn tấn CO2tđ xuống 82.787,68 nghìn tấn CO2tđ, tương ứng khoảng 7%.
+P0091 [List Paragraph] Lĩnh vực LULUCF: Giai đoạn 2018-2022, lĩnh vực LULUCF có xu hướng tăng dần lượng hấp thụ KNK, từ -46.863,43 nghìn tấn CO2tđ năm 2018 tăng đến -48.063,55 nghìn tấn CO2tđ vào năm 2022.
+P0092 [List Paragraph] Lĩnh vực chất thải: Lượng phát thải KNK của lĩnh vực chất thải tăng dần trong giai đoạn 2018-2022, từ 31.003,97 nghìn tấn CO2tđ vào năm 2018 tăng lên  38.776,75 nghìn tấn CO2tđ, tương ứng với mức tăng 25% so với năm 2018.
+P0093 [Heading 3] Xu hướng phát thải khí nhà kính theo loại khí
+P0094 [List Paragraph] Kết quả kiểm kê quốc gia KNK giai đoạn 2018-2022 cho thấy, lượng phát thải ròng CO2 tăng nhanh từ 2018 đến 2020, sau đó lượng phát thải ròng CO2 giảm dần vào năm 2021 và 2022. Lượng phát thải CH4 tăng nhẹ từ 2018 đến 2021 và giảm vào năm 2022, tuy nhiên, lượng tăng-giảm phát thải từ CH4 không đáng kể trong suốt giai đoạn 2018-2022.
+P0095 [List Paragraph] Phát thải khí N2O cũng có xu hướng tăng trong giai đoạn 2018-2020 và giảm nhanh vào 2021, với 17.309,25 nghìn tấn CO2tđ, sau đó tăng nhẹ vào năm 2022, với mức tăng khoảng 2,3% so với mức phát thải năm 2021.
+P0096 [List Paragraph] Phát thải HFCs giai đoạn 2020-2022 tăng nhanh so với lượng phát thải năm 2018, với mức tăng gấp khoảng 2 lần. Chi tiết về kết quả và xu hướng phát thải/hấp thụ KNK theo loại khí được thể hiện tại Bảng 2.15 và Hình 2-3.
+P0097 [Caption] Bảng 2.15. Kết quả phát thải/hấp thụ KNK của Việt Nam theo loại khí
+P0099 [Caption] Hình 2-3. Xu hướng phát thải khí nhà kính theo loại khí.
+P0100 [Normal] Xét về tỷ trọng các loại khí, phát thải ròng CO2 chiếm khoảng 66,0 đến 70,0% trong giai đoạn 2018-2022; tiếp theo là phát thải CH4 chiếm khoảng 23,3-27,7%. Phát thải N2O và HFCs chiếm tỷ lệ nhỏ, dưới 5% đối với N2O và dưới 3% đối với HFCs. Chi tiết tại Hình 2-4.
+P0102 [List Paragraph] Hình 2 4. Tỷ trọng phát thải KNK theo loại khí
+P0103 [List Paragraph] Phát thải khí nhà kính trong lĩnh vực năng lượng
+P0104 [Normal] Tổng lượng phát thải KNK năm 2022 trong lĩnh vực năng lượng là 272.025,14 nghìn tấn CO2tđ chiếm 63,8% tổng phát thải ròng quốc gia. Trong đó, phát thải lớn nhất từ công nghiệp năng lượng là 124.704,01 nghìn tấn CO2tđ, chiếm 45,8% tổng phát thải của lĩnh vực, chi tiết trong Bảng 2.16. Tỷ trọng phát thải KNK trong lĩnh vực năng lượng được thể hiện trong Hình 2-5.
+P0105 [Caption] Bảng 2.16. Kết quả phát thải khí nhà kính năm 2022 trong lĩnh vực năng lượng
+P0107 [Caption] Hình 2-5. Tỷ trọng phát thải KNK năm 2022 trong lĩnh vực năng lượng.
+P0108 [List Paragraph] IPPU
+P0109 [Normal] Tổng lượng phát thải KNK năm 2022 trong lĩnh vực IPPU là 81.456,33 nghìn tấn CO2tđ chiếm 19,1% tổng phát thải ròng quốc gia. Trong đó, phát thải lớn nhất từ quá trình sản xuất xi măng là 41.483,03 nghìn tấn CO2tđ, chiếm 50,9% tổng phát thải của lĩnh vực, chi tiết trong Bảng 2.17. Tỷ trọng phát thải KNK trong lĩnh vực IPPU được thể hiện trong Hình 2-6.
+P0110 [Caption] Bảng 2.17. Kết quả phát thải khí nhà kính năm 2022 trong lĩnh vực IPPU
+P0114 [Caption] Hình 2-6. Tỷ trọng phát thải KNK năm 2022 trong lĩnh vực IPPU
+P0115 [List Paragraph] Nông nghiệp
+P0116 [Normal] Tổng lượng phát thải KNK trong lĩnh vực nông nghiệp năm 2022 là 82.510,40 nghìn tấn CO2tđ chiếm 19,3% tổng phát thải ròng quốc gia. Trong đó, phát thải lớn nhất từ canh tác lúa là 44.593,21 nghìn tấn CO2tđ, chiếm 54,0% tổng phát thải của lĩnh vực, chi tiết tại Bảng 2.18 và Hình 2-7.
+P0117 [Caption] Bảng 2.18. Kết quả phát thải khí nhà kính năm 2022 trong lĩnh vực nông nghiệp
+P0120 [Caption] Hình 2-7. Lượng phát thải KNK năm 2022 trong lĩnh vực nông nghiệp
+P0121 [List Paragraph] LULUCF
+P0122 [Normal] Tổng lượng phát thải/hấp thụ KNK trong lĩnh vực LULUCF năm 2022 là  -48.064,75 nghìn tấn CO2tđ. Trong đó, lượng hấp thụ lớn nhất từ đất rừng nguyên trạng là -39840,58 nghìn tấn CO2tđ, lượng phát thải lớn nhất từ chuyển đổi các loại đất thành đất khác là 1.542,38 nghìn tấn CO2tđ, chi tiết tại Bảng 2.19 và Hình 2-8.
+P0123 [Caption] Bảng 2.19. Kết quả phát thải/hấp thụ khí nhà kính năm 2022 trong lĩnh vực LULUCF
+P0124 [Normal] Ghi chú: Giá trị âm (-) hiển thị lượng hấp thụ KNK
+P0126 [Caption] Hình 2-8. Lượng phát thải/hấp thụ KNK năm 2022 trong lĩnh vực LULUCF
+P0128 [List Paragraph] Chất thải
+P0129 [Normal] Tổng lượng phát thải KNK trong lĩnh vực chất thải năm 2022 là 37.417,89 nghìn tấn CO2tđ chiếm 9,1% tổng phát thải quốc gia. Trong đó, phát thải lớn nhất từ bãi chôn lấp chất thải rắn là 22.718,35nghìn tấn CO2tđ chiếm 60,7% tổng phát thải của lĩnh vực, chi tiết tại Bảng 2.20 và Hình 2-9.
+P0130 [Caption] Bảng 2.20. Kết quả phát thải KNK năm 2022 trong lĩnh vực chất thải
+P0134 [Caption] Hình 2-9. Tỷ trọng phát thải KNK năm 2022 trong lĩnh vực chất thải.
+P0137 [Heading 2] Kế hoạch cải thiện kiểm kê quốc gia KNK
+P0138 [Normal] Trong khuôn khổ xây dựng BTR1, Việt Nam đã tiến hành kiểm kê quốc gia KNK cho năm 2021 và 2022. Điều này đảm bảo rằng từ 2020 sẽ có kết quả kiểm kê KNK theo chuỗi thời gian hằng năm, đáp ứng yêu cầu của khung minh bạch tăng cường. Bên cạnh đó, so với các kỳ kiểm kê trước đây, kiểm kê KNK quốc gia có một số cải thiện chính như sau:
+P0139 [Normal] - Kết quả kiểm kê KNK cho lĩnh vực AFOLU được báo cáo riêng cho lĩnh vực nông nghiệp và LULUCF;
+P0140 [Normal] - Việc đánh giá nguồn phát thải/hấp thụ chính theo mức được thực hiện bao gồm và không bao gồm LULUCF;
+P0141 [Normal] - Thực hiện đánh giá các nguồn phát thải/hấp thụ chính theo xu thế, bao gồm và không bao gồm LULUCF;
+P0142 [Normal] - Thực hiện đánh giá độ không chắc chắn theo xu hướng.
+P0143 [Normal] - Xây dựng NID bao gồm kết quả kiểm kê KNK quốc gia năm 2018, 2020 đến 2022.
+P0144 [Normal] - Báo cáo kết quả kiểm kê KNK theo biểu mẫu cáo chung (CRT).
+P0145 [Normal] Trong thời gian tới, việc kiểm kê quốc gia KNK tại Việt Nam sẽ tiếp tục được cải thiện nhằm đáp ứng các yêu cầu, quy định trong nước và quốc tế, cụ thể như sau:
+P0146 [Normal] - Tiếp tục thực hiện kiểm kê quốc gia khí nhà kính theo hướng dẫn của IPCC phiên bản năm 2006 và sửa đổi, bổ sung năm 2019.
+P0147 [Normal] - Tiếp tục thực hiện kiểm kê theo chuỗi thời gian hằng năm và tính lại kiểm kê KNK cho một số năm trước đó nhằm đảm bảo tính nhất quán, so sánh được của kiểm kê KNK theo chuỗi thời gian.
+P0148 [Normal] - Tiếp tục nghiên cứu, xây dựng các HSPT đặc trưng quốc gia, ưu tiên đối với các nguồn phát thải KNK chính đã được xác định nhằm tăng cường tính chính xác của kiểm kê KNK.
+P0149 [Normal] - Tăng cường trách nhiệm của các Bộ quản lý lĩnh vực trong thực hiện kiểm kê KNK phục vụ xây dựng báo cáo kiểm kê KNK cấp quốc gia và thực hiện quy định trong nước về kiểm kê KNK.
+P0150 [Normal] - Tiếp tục tổ chức đào tạo và cử cán bộ, công chức tại cơ quan đầu mối quốc gia về biến đổi khí hậu, cơ quan đầu mối về biến đổi khí hậu tại các Bộ, cơ quan liên quan tham gia các khoá đào tạo, tập huấn nhằm nâng cao năng lực về kiểm kê KNK.
+P0154 [Heading 1] PHỤ LỤC
+P0155 [Heading 2] Phụ lục 1.  Danh mục thông số, hệ số phát thải đặc trưng quốc gia áp dụng cho kiểm kê quốc gia KNK
+P0157 [Heading 2] Phụ lục 2. Kết quả kiểm kê quốc gia khí nhà kính năm 2022
+P0158 [Heading 3] Phụ lục 2-1: Phát thải khí nhà kính lĩnh vực năng lượng năm 2022
+P0159 [Heading 3] Phụ lục 2-2: Phát thải khí nhà kính lĩnh vực IPPU năm 2022
+P0161 [Heading 3] Phụ lục 2-3: Phát thải khí nhà kính lĩnh vực nông nghiệp năm 2022
+P0164 [Heading 3] Phụ lục 2-4: Phát thải khí nhà kính lĩnh vực LULUCF năm 2022
+P0165 [Normal] Ghi chú: Giá trị âm (-) hiển thị lượng hấp thụ KNK
+P0168 [Heading 3] Phụ lục 2-5: Phát thải khí nhà kính lĩnh vực chất thải năm 2022
+P0171 [Heading 2] Phụ lục 3. Độ không chắc chắn theo xu thế của kiểm kê quốc gia khí nhà kính
+P0172 [Normal] Phụ lục 3-1. Độ không chắc chắn theo xu thế của kiểm kê quốc gia khí nhà kính bao gồm LULUCF
+P0175 [Normal] Phụ lục 3-2. Độ không chắc chắn theo xu thế của kiểm kê quốc gia khí nhà kính không bao gồm LULUCF
+
+=== TABLE 1 (54x10) ===
+R000	Mã IPCC	Nguồn phát thải	CO2	CO2	CH4	CH4	N2O	N2O	HFCs	HFCs
+R001	Mã IPCC	Nguồn phát thải	Phương pháp	HSPT	Phương pháp	HSPT	Phương pháp	HSPT	Phương pháp	HSPT
+R002	1	Năng lượng	T1	D	T1, T2	D, CS	T1	D		
+R003	1A	Các hoạt động đốt nhiên liệu	T1	D	T1	D	T1	D		
+R004	1A1	Công nghiệp năng lượng	T1	D	T1	D	T1	D		
+R005	1A2	Công nghiệp sản xuất và xây dựng	T1	D	T1	D	T1	D		
+R006	1A3	Giao thông vận tải	T1	D	T1	D	T1	D		
+R007	1A4	Lĩnh vực khác	T1	D	T1	D	T1	D		
+R008	1B	Phát tán từ nhiên liệu	T1	D	T1, T2	D, CS	T1	D		
+R009	1B1	Khai thác than	T1	D	T1, T2	D, CS	T1	D		
+R010	1B2	Khai thác dầu và khí tự nhiên	T1	D	T1	D	T1	D		
+R011	2	IPPU	T1, T2, T3	D, CS	T1	D	T1	D	T1	D
+R012	2A	Công nghiệp khoáng sản	T1, T3	D						
+R013	2A1	Quá trình sản xuất xi măng	T1	D						
+R014	2A2	Quá trình sản xuất vôi	T1	D						
+R015	2A3	Quá trình sản xuất thủy tinh	T1	D						
+R016	2A4	Các hoạt động sử dụng cacbonat khác	T3	D						
+R017	2B	Công nghiệp hóa chất	T1	D	T1	D	T1	D		
+R018	2B1	Quá trình sản xuất Amoniac	T1	D						
+R019	2B2	Quá trình sản xuất axit Nitric					T1	D		
+R020	2B5	Sản xuất Silic cacbua	T1	D	T1	D				
+R021	2C	Luyện kim	T1, T2	D, CS						
+R022	2C1	Quá trình sản xuất sắt thép	T1, T2	D, CS						
+R023	2D	Các sản phẩm phi năng lượng từ nhiên liệu và sử dụng dung môi	T1	D						
+R024	2D1	Sử dụng chất bôi trơn	T1	D						
+R025	2D2	Sử dụng sáp paraphin	T1	D						
+R026	2F	Sử dụng sản phẩm thay thế cho các chất làm suy giảm tầng ô-dôn							T1	D
+R027	3	Nông nghiệp	T1	D	T1, T2	D, CS	T1	D		
+R028	3A	Tiêu hóa thức ăn			T1	D				
+R029	3B	Quản lý chất thải vật nuôi			T2	D, CS	T1	D		
+R030	3C	Canh tác lúa			T2	CS				
+R031	3D	Đất nông nghiệp					T1	D		
+R032	3F	Đốt phụ phẩm nông nghiệp trên cánh đồng			T1	D	T1	D		
+R033	3G	Sử dụng vôi trong canh tác	T1	D						
+R034	3H	Bón phân Ure	T1	D						
+R035	4	LULUCF	T1, T3	D, CS	T1	D	T1	D		
+R036	4A	Đất rừng	T1, T3	D, CS						
+R037	4B	Đất trồng trọt	T1, T3	D, CS						
+R038	4C	Đất cỏ	T1, T3	D, CS						
+R039	4D	Đất ngập nước	T1, T3	D, CS						
+R040	4E	Đất ở	T1, T3	D, CS						
+R041	4F	Đất khác	T1, T3	D, CS						
+R042	4(II)A	Phát thải N2O từ đất trong quá trình tiêu nước của đất rừng					T1	D		
+R043	4(IV)	Đốt sinh khối			T1	D	T1	D		
+R044	5	Chất thải	T1	D	T1, T2	D	T1	D		
+R045	4A	Bãi chôn lấp chất thải rắn			T2	D				
+R046	5A1	Bãi chôn lấp chất thải rắn được quản lý			T2	D				
+R047	5B	Xử lý chất thải rắn bằng phường pháp sinh học			T1	D	T1	D		
+R048	5C	Thiêu đốt và đốt lộ thiên chất thải	T1	D	T1	D	T1	D		
+R049	5C1	Thiêu đốt chất thải	T1	D	T1	D	T1	D		
+R050	5C2	Đốt lộ thiên chất thải	T1	D	T1	D	T1	D		
+R051	5D	Xử lý và xả thải nước thải			T1	D	T1	D		
+R052	5D1	Xử lý và xả thải nước thải sinh hoạt			T1	D	T1	D		
+R053	5D2	Xử lý và xả thải nước thải công nghiệp			T1	D	T1	D		
+
+=== TABLE 2 (5x2) ===
+R000	Ghi chú:	Ghi chú:
+R001	Phương pháp	HSPT
+R002	T1: Tier 1 (Bậc 1)	D: Giá trị mặc định của IPCC
+R003	T2: Tier 2 (Bậc 2)	CS: Giá trị đặc trưng quốc gia
+R004	T3: Tier 3 (Bậc 3)	
+
+=== TABLE 3 (17x2) ===
+R000	Loại dữ liệu	Nguồn
+R001	1. Lĩnh vực năng lượng	1. Lĩnh vực năng lượng
+R002	SLHĐ	Bảng cân bằng năng lượng Việt Nam, Viện Năng lượng, Bộ CT
+R003	HSPT	HSPT CH4 trong khai thác than hầm lò của Việt Nam, Quyết định số 2626/QĐ-BTNMT / Các giá trị mặc định của IPCC 2006, IPCC 2019
+R004	Các thông số khác	Hệ số quy đổi năng lượng của các loại than, dầu, khí và sinh khối, Viện Năng lượng, Bộ CT / Các giá trị mặc định của IPCC 2006
+R005	2. Lĩnh vực IPPU	2. Lĩnh vực IPPU
+R006	SLHĐ	Niên giám thống kê / Sản lượng vôi, sản lượng thủy tinh, Bộ Xây dựng / Sản lượng axit nitric, Cục hóa chất, Bộ Công Thương / Sản lượng cacbua silic, Công ty Cổ phần Tân Hà Kiều / Sản lượng thép, Niên giám thống kê của Hiệp hội thép thế giới / Sản lượng HFC, Enabling Activity Report 2020; Hải quan và Cục xuất nhập khẩu / Báo cáo thường niên 2018, 2020, Công ty Cổ phần Phân đạm và Hóa chất Hà Bắc, Công ty TNHH Đạm Ninh Bình, Nhà máy Đạm Phú Mỹ, Nhà máy Đạm Cà Mau
+R007	HSPT	HSPT trong sản xuất xi măng, sản xuất thép, sản xuất thủy tinh, Quyết định số 2626/QĐ-BTNMT / Các giá trị mặc định của IPCC 2006, IPCC 2019 / HSPT của SO2, CO và NMVOC trong sản xuất amoniac lấy theo giá trị mặc định của IPCC 1996 sửa đổi
+R008	Các thông số khác	Tỷ lệ Clinker trong xi măng, Báo cáo tổng kết dự án “Chuẩn bị sẵn sàng thực hiện NAMA cho lĩnh vực xi măng”, Bộ XD, 2016 / Các giá trị mặc định của IPCC 2006
+R009	3. Lĩnh vực AFOLU	3. Lĩnh vực AFOLU
+R010	SLHĐ	Niên giám thống kê / Niên giám Thống kê của ngành NNPTNT / Báo cáo số liệu sản xuất, nhập khẩu phân đạm, Cục Trồng trọt và Bảo vệ thực vật, Bộ NNMT / Số liệu bản đồ viễn thám, Cục Viễn thám quốc gia, Bộ NNMT
+R011	HSPT	HSPT CH4 đặc trưng quốc gia cho ruộng lúa tưới ngập thường xuyên có bón phân hữu cơ, Báo cáo dự án xây dựng các HSPT quốc gia do GEF/UNEP tài trợ, Bộ TNMT, 2007 / Giá trị mặc định của IPCC 2006, IPCC 2019 / HSPT của NOx và CO do cháy rừng và đốt sinh khối lấy theo giá trị mặc định của IPCC 2006.
+R012	Các thông số khác	Tỷ lệ về các hình thức quản lý chất thải trong chăn nuôi của Việt Nam, Cục Chăn nuôi, Bộ NNPTNT, 2015 / Tỷ lệ đốt rơm rạ ngoài đồng, Báo cáo tổng kết nhiệm vụ đánh giá hiện trạng và đề xuất giải pháp quản lý chất thải trong lĩnh vực trồng trọt, Viện Môi trường Nông nghiệp, Bộ NNPTNT, 2018 / Các thông số tăng trưởng sinh khối, sinh khối trên mặt đất của các kiểu rừng và hệ số BCEFr từ khai thác gỗ sử dụng theo chuyên gia lâm nghiệp, Viện Điều tra Quy hoạch rừng, Bộ NNPTNT, 2020 / Tỷ lệ phụ phẩm nông nghiệp bị đốt cháy ngoài đồng của một số cây trồng (đậu, bông, đay…) theo giá trị mặc định của IPCC 1996 sửa đổi / Tỷ lệ phụ phẩm nông nghiệp bị đốt cháy ngoài đồng của một số cây trồng (ngô, khoai lang, sắn…) lấy theo đánh giá của chuyên gia nông nghiệp / Các giá trị mặc định của IPCC 2006, 2019
+R013	4. Lĩnh vực chất thải	4. Lĩnh vực chất thải
+R014	SLHĐ	Niên giám thống kê / Báo cáo hiện trạng môi trường quốc gia / Báo cáo hiện trạng môi trường giai đoạn 2006-2010; 2011-2015, UBND 63 tỉnh và thành phố trực thuộc Trung ương / Báo cáo tổng điều tra dinh dưỡng năm 2009 - 2010, Bộ Y tế, 2012
+R015	HSPT	Các giá trị mặc định của IPCC 2006, IPCC 2019
+R016	Các thông số khác	Tỷ lệ phát sinh chất thải rắn đô thị bình quân/người/ngày và tỷ lệ xử lý chất thải rắn trung bình tại các bãi chôn lấp, Báo cáo Diễn biến môi trường Việt Nam 2004 - Chất thải rắn, Bộ TNMT, 2004 / Tỷ lệ phát sinh chất thải rắn nông thôn bình quân/người/ngày, Báo cáo môi trường quốc gia năm 2011 - Chất thải rắn, Bộ TNMT, 2011 / Tỷ lệ xử lý nước thải theo loại hình xử lý, Báo cáo hiện trạng môi trường quốc gia năm 2017, Bộ TNMT, 2017 / Các hệ số cho hệ thống xử lý nước thải theo nguồn của khu vực thu nhập thấp và hệ thống xử lý tự hoại, không được xử lý theo đánh giá của chuyên gia chất thải / Các giá trị mặc định của IPCC 2006, IPCC 2019
+
+=== TABLE 4 (37x7) ===
+R000	TT	Mã PL	Nguồn phát thải/hấp thụ	KNK	Phát thải/Hấp thụ (gG CO2e)	Đánh giá mức độ nguồn chính (%)	Cộng dồn nguồn chính (%)
+R001	1	1A1ai	Đốt nhiên liệu để sản xuất điện	CO2	119.695,83	22,7%	22,7%
+R002	2	1A2f	Đốt nhiên liệu để sản xuất khoáng phi kim	CO2	45.845,94	8,7%	31,4%
+R003	3	3C	Canh tác lúa	CH4	44.593,21	8,5%	39,9%
+R004	4	2A1	Quá trình sản xuất xi măng	CO2	41.483,03	7,9%	47,7%
+R005	5	4A1	Đất rừng nguyên trạng	CO2	-39.840,58	7,6%	55,3%
+R006	6	1A3b	Giao thông vận tải đường bộ	CO2	37.686,43	7,2%	62,5%
+R007	7	2C1	Quá trình sản xuất sắt thép	CO2	23.962,42	4,5%	67,0%
+R008	8	5A	Phát thải từ bãi chôn lấp chất thải rắn	CH4	22.718,35	4,3%	71,3%
+R009	9	2F	Sử dụng sản phẩm thay thế cho các chất làm suy giảm tầng ô-dôn	HFCs	10.728,09	2,0%	73,3%
+R010	10	1A2a	Đốt nhiên liệu để sản xuất sắt thép	CO2	9.137,84	1,7%	75,1%
+R011	11	3A1b	Tiêu hóa thức ăn của bò thịt	CH4	9.114,18	1,7%	76,8%
+R012	12	3D1	Phát thải N2O trực tiếp của đất	N2O	8.575,55	1,6%	78,4%
+R013	13	1A4c	Năng lượng sử dụng trong nông, lâm nghiệp và thủy sản	CO2	7.463,58	1,4%	79,9%
+R014	14	1A2l	Đốt nhiên liệu trong công nghiệp dệt may và đồ da	CO2	5.875,12	1,1%	81,0%
+R015	15	1A4b	Năng lượng sử dụng trong dân dụng	CO2	5.776,89	1,1%	82,1%
+R016	16	5D1	Xử lý và xả thải nước thải sinh hoạt	CH4	5.705,29	1,1%	83,1%
+R017	17	1A2c	Đốt nhiên liệu để sản xuất hóa chất và hóa dầu	CO2	5.288,16	1,0%	84,2%
+R018	18	5D2	Xử lý và xả thải nước thải công nghiệp	CH4	4.788,53	0,9%	85,1%
+R019	19	3A4a	Tiêu hóa thức ăn của trâu	CH4	4.747,78	0,9%	86,0%
+R020	20	4A2b	Đất cỏ chuyển đổi thành đất rừng	CO2	-4.223,02	0,8%	86,8%
+R021	21	1A1b	Đốt nhiên liệu để lọc hóa dầu	CO2	4.122,98	0,8%	87,5%
+R022	22	3D2	Phát thải N2O gián tiếp của đất	N2O	4.066,47	0,8%	88,3%
+R023	23	1A2i	Đốt nhiên liệu để khai khoáng và đá	CO2	3690,12	0,7%	89,0%
+R024	24	1A3d	Giao thông vận tải đường thủy và hàng hải nội địa	CO2	3559,43	0,7%	89,7%
+R025	25	1A2m	Đốt nhiên liệu trong công nghiệp chưa phân loại	CO2	3.425,07	0,6%	90,3%
+R026	26	1A3a	Giao thông vận tải hàng không	CO2	3382,46	0,6%	91,0%
+R027	27	1A2d	Đốt nhiên liệu để sản xuất giấy, bột giấy và in ấn	CO2	2.873,09	0,5%	91,5%
+R028	28	3B3	Quản lý chất thải vật nuôi của lợn	CH4	2.840,70	0,5%	92,1%
+R029	29	1A2e	Đốt nhiên liệu để sản xuất thực phẩm, đồ uống và thuốc lá	CO2	2.545,16	0,5%	92,5%
+R030	30	4B2b	Đất cỏ chuyển đổi thành đất trồng trọt	CO2	- 2.199,16	0,4%	93,0%
+R031	31	4A2e	Đất khác chuyển đổi thành đất rừng	CO2	-2.098,10	0,4%	93,4%
+R032	32	2B1	Quá trình sản xuất Amoniac	CO2	2.089,47	0,4%	93,8%
+R033	33	5C1	Thiêu đốt chất thải	CO2	2.036,72	0,4%	94,1%
+R034	34	1B2b	Phát tán do khai thác khí tự nhiên	CH4	1.998,15	0,4%	94,5%
+R035	35	4A2a	Đất trồng trọt chuyển đổi thành đất rừng	CO2	-1.895,12	0,4%	94,9%
+R036	36	2A2	Quá trình sản xuất vôi	CO2	1.769,55	0,3%	95,2%
+
+=== TABLE 5 (7x7) ===
+R000	Mã PL	Lĩnh vực	CO2	CH4	N2O	HFCs	Tổng
+R001	Tổng số nguồn chính	Tổng số nguồn chính	25	8	2	1	36
+R002	1	Năng lượng	15	1	0	0	16
+R003	2	IPPU	4	0	0	1	5
+R004	3	Nông nghiệp	0	4	2	0	6
+R005	4	LULUCF	5	0	0	0	5
+R006	4	Chất thải	1	3	0	0	4
+
+=== TABLE 6 (31x7) ===
+R000	TT	Mã PL	Nguồn phát thải	KNK	Phát thải/Hấp thụ / (Gg CO2e)	Đánh giá mức độ nguồn chính / (%)	Cộng dồn nguồn chính  (%)
+R001	1	1A1ai	Đốt nhiên liệu để sản xuất điện	CO2	119.695,83	25,3%	25,3%
+R002	2	1A2f	Đốt nhiên liệu để sản xuất khoáng phi kim	CO2	45.845,94	9,7%	35,0%
+R003	3	3C	Canh tác lúa	CH4	44.593,21	9,4%	44,4%
+R004	4	2A1	Quá trình sản xuất xi măng	CO2	41.483,03	8,8%	53,2%
+R005	5	1A3b	Giao thông vận tải đường bộ	CO2	37.686,43	8,0%	61,1%
+R006	6	2C1	Quá trình sản xuất sắt thép	CO2	23.962,42	5,1%	66,2%
+R007	7	5A	Phát thải từ bãi chôn lấp chất thải rắn	CH4	22.718,35	4,8%	71,0%
+R008	8	2F	Sử dụng sản phẩm thay thế cho các chất làm suy giảm tầng ô-dôn	HFCs	10.728,09	2,3%	73,2%
+R009	9	1A2a	Đốt nhiên liệu để sản xuất sắt thép	CO2	9.137,84	1,9%	75,2%
+R010	10	3A1b	Tiêu hóa thức ăn của bò thịt	CH4	9.114,18	1,9%	77,1%
+R011	11	3D1	Phát thải N2O trực tiếp của đất	N2O	8.575,55	1,8%	78,9%
+R012	12	1A4c	Năng lượng sử dụng trong nông, lâm nghiệp và thủy sản	CO2	7.463,58	1,6%	80,5%
+R013	13	1A2l	Đốt nhiên liệu trong công nghiệp dệt may và đồ da	CO2	5.875,12	1,2%	81,7%
+R014	14	1A4b	Năng lượng sử dụng trong dân dụng	CO2	5.776,89	1,2%	82,9%
+R015	15	5D1	Xử lý và xả thải nước thải sinh hoạt	CH4	5.705,29	1,2%	84,1%
+R016	16	1A2c	Đốt nhiên liệu để sản xuất hóa chất và hóa dầu	CO2	5.288,16	1,1%	85,3%
+R017	17	5D2	Xử lý và xả thải nước thải công nghiệp	CH4	4.788,53	1,0%	86,3%
+R018	18	3A4a	Tiêu hóa thức ăn của trâu	CH4	4.747,78	1,0%	87,3%
+R019	19	1A1b	Đốt nhiên liệu để lọc hóa dầu	CO2	4.122,98	0,9%	88,1%
+R020	20	3D2	Phát thải N2O gián tiếp của đất	N2O	4.066,47	0,9%	89,0%
+R021	21	1A2i	Đốt nhiên liệu để khai khoáng và đá	CO2	3690,12	0,8%	89,8%
+R022	22	1A3d	Giao thông vận tải đường thủy và hàng hải nội địa	CO2	3559,43	0,8%	90,5%
+R023	23	1A2m	Đốt nhiên liệu trong công nghiệp chưa phân loại	CO2	3.425,07	0,7%	91,3%
+R024	24	1A3a	Giao thông vận tải hàng không	CO2	3382,46	0,7%	92,0%
+R025	25	1A2d	Đốt nhiên liệu để sản xuất giấy, bột giấy và in ấn	CO2	2.873,09	0,6%	92,6%
+R026	26	3B3	Quản lý chất thải vật nuôi của lợn	CH4	2.840,70	0,6%	93,2%
+R027	27	1A2e	Đốt nhiên liệu để sản xuất thực phẩm, đồ uống và thuốc lá	CO2	2.545,16	0,5%	93,7%
+R028	28	2B1	Quá trình sản xuất Amoniac	CO2	2.089,47	0,4%	94,2%
+R029	29	5C1	Thiêu đốt chất thải	CO2	2.036,72	0,4%	94,6%
+R030	30	1B2b	Phát tán do khai thác khí tự nhiên	CH4	1.998,15	0,4%	95,0%
+
+=== TABLE 7 (6x7) ===
+R000	Mã PL	Lĩnh vực	CO2	CH4	N2O	HFCs	Tổng
+R001	Tổng số nguồn chính	Tổng số nguồn chính	19	8	2	1	30
+R002	1	Năng lượng	15	1	0	0	16
+R003	2	IPPU	3	0	0	1	4
+R004	3	Nông nghiệp	0	4	2	0	6
+R005	5	Chất thải	1	3	0	0	4
+
+=== TABLE 8 (44x9) ===
+R000	TT	Mã PL	Nguồn phát thải/hấp thụ	KNK	Phát thải/ Hấp thụ 2018
+(Gg CO2tđ)	Phát thải/ Hấp thụ 2022
+(Gg CO2tđ)	Đánh giá theo xu thế	Đóng góp vào xu thế
+(%)	Cộng dồn đóng góp vào xu thế
+(%)
+R001			A	B	C	D	E	F	G
+R002	1	1A2f	Đốt nhiên liệu để sản xuất khoáng phi kim	CO2	30463,21	45.845,94	0,40	15,8%	15,8%
+R003	2	1A1ai	Đốt nhiên liệu để sản xuất điện	CO2	108.475,76	119.695,83	0,29	11,5%	27,4%
+R004	3	4A2b	Đất cỏ chuyển đổi thành đất rừng	CO2	-11076,52	-                4.223,02	0,18	7,1%	34,4%
+R005	4	2F	Sử dụng sản phẩm thay thế cho các chất làm suy giảm tầng ô-dôn	HFCs	4653,11	10.728,09	0,16	6,3%	40,7%
+R006	5	4B2a	Đất rừng chuyển đổi thành đất trồng trọt	CO2	5833,07	309,77	0,14	5,7%	46,4%
+R007	6	5A	Phát thải từ bãi chôn lấp chất thải rắn	CH4	17.590,52	22.718,35	0,13	5,3%	51,7%
+R008	7	3C	Canh tác lúa	CH4	49283,98	44.593,21	0,12	4,8%	56,5%
+R009	8	1A2a	Đốt nhiên liệu để sản xuất sắt thép	CO2	4.853,29	9.137,84	0,11	4,4%	60,9%
+R010	9	2C1	Quá trình sản xuất sắt thép	CO2	20689,37	23.962,42	0,08	3,4%	64,3%
+R011	10	2A1	Quá trình sản xuất xi măng	CO2	38834,48	41.483,03	0,07	2,7%	67,0%
+R012	11	2A2	Quá trình sản xuất vôi	CO2	3614,40	1.769,55	0,05	1,9%	68,9%
+R013	12	4A2e	Đất khác chuyển đổi thành đất rừng	CO2	-263,79	-                2.098,10	0,05	1,9%	70,8%
+R014	13	5D2	Xử lý và xả thải nước thải công nghiệp	CH4	2.969,85	4.788,53	0,05	1,9%	72,6%
+R015	14	4A2a	Đất trồng trọt chuyển đổi thành đất rừng	CO2	-336,89	-                1.895,12	0,04	1,6%	74,3%
+R016	15	1A2c	Đốt nhiên liệu để sản xuất hóa chất và hóa dầu	CO2	3774,18	5.288,16	0,04	1,6%	75,8%
+R017	16	1A3b	Giao thông vận tải đường bộ	CO2	36.204,28	37.686,43	0,04	1,5%	77,3%
+R018	17	1A2i	Đốt nhiên liệu để khai khoáng và đá	CO2	2351,31	3690,12	0,03	1,4%	78,7%
+R019	18	3B3	Quản lý chất thải vật nuôi của lợn	N2O	1319,24	96,28	0,03	1,3%	80,0%
+R020	19	4F2a	Đất rừng chuyển đổi thành đất khác	CO2	101,39	1.280,81	0,03	1,2%	81,2%
+R021	20	1A1b	Đốt nhiên liệu để lọc hóa dầu	CO2	3.024,37	4.122,98	0,03	1,1%	82,3%
+R022	21	4A1	Đất rừng nguyên trạng	CO2	-40902,61	-              39.840,58	0,03	1,1%	83,4%
+R023	22	3B3	Quản lý chất thải vật nuôi của lợn	CH4	1827,77	2.840,70	0,03	1,0%	84,5%
+R024	23	1A3a	Giao thông vận tải hàng không	CO2	2.390,54	3382,46	0,03	1,0%	85,5%
+R025	24	1A4b	Năng lượng sử dụng trong dân dụng	CH4	1.338,15	535,06	0,02	0,8%	86,3%
+R026	25	3B4g	Quản lý chất thải vật nuôi của gia cầm	CH4	1007,99	325,01	0,02	0,7%	87,0%
+R027	26	4B2b	Đất cỏ chuyển đổi thành đất trồng trọt	CO2	-1629,65	-                2.199,16	0,01	0,6%	87,6%
+R028	27	2A4	Các hoạt động sử dụng cacbonat khác	CO2	0,62	567,14	0,01	0,6%	88,2%
+R029	28	3A4a	Tiêu hóa thức ăn của trâu	CH4	5292,12	4.747,78	0,01	0,6%	88,7%
+R030	29	1A2d	Đốt nhiên liệu để sản xuất giấy, bột giấy và in ấn	CO2	2334,93	2.873,09	0,01	0,6%	89,3%
+R031	30	5C2	Đốt lộ thiên chất thải	CO2	1649,39	1.117,49	0,01	0,5%	89,8%
+R032	31	1A4b	Năng lượng sử dụng trong dân dụng	CO2	6.307,75	5.776,89	0,01	0,5%	90,4%
+R033	32	4D2ci	Đất rừng chuyển đổi thành đất ngập nước khác	CO2	651,21	132,42	0,01	0,5%	90,9%
+R034	33	1A2k	Đốt nhiên liệu trong xây dựng	CO2	1406,50	910,45	0,01	0,5%	91,4%
+R035	34	1A4c	Năng lượng sử dụng trong nông, lâm nghiệp và thủy sản	CO2	6.993,99	7.463,58	0,01	0,5%	91,9%
+R036	35	3D1	Phát thải N2O trực tiếp của đất	N2O	7880,19	8.575,55	0,02	0,7%	92,6%
+R037	36	1B2b	Phát tán do khai thác khí tự nhiên	CH4	2.398,77	1.998,15	0,01	0,4%	93,0%
+R038	37	1A2l	Đốt nhiên liệu trong công nghiệp dệt may và đồ da	CO2	5489,59	5.875,12	0,01	0,4%	93,4%
+R039	38	5D1	Xử lý và xả thải nước thải sinh hoạt	N2O	404,88	21,61	0,01	0,4%	93,8%
+R040	39	2B1	Quá trình sản xuất Amoniac	CO2	1749,28	2.089,47	0,01	0,4%	94,2%
+R041	40	5D1	Xử lý và xả thải nước thải sinh hoạt	CH4	5.372,47	5.705,29	0,01	0,3%	94,5%
+R042	41	1A2h	Đốt nhiên liệu để sản xuất máy móc và thiết bị	CO2	461,82	729,80	0,01	0,3%	94,8%
+R043	42	4C2a	Đất rừng chuyển đổi thành đất cỏ	CO2	344,99	78,16	0,01	0,3%	95,1%
+
+=== TABLE 9 (34x9) ===
+R000	TT	Mã PL	Nguồn phát thải	KNK	Phát thải 2018
+(Gg CO2tđ)	Phát thải 2022
+(Gg CO2tđ)	Đánh giá theo xu thế	Đóng góp vào xu thế
+(%)	Cộng dồn đóng góp vào xu thế
+(%)
+R001			A	B	C	D	E	F	G
+R002	1	1A2f	Đốt nhiên liệu để sản xuất khoáng phi kim	CO2	30463,21	45.845,94	0,32	20,1%	20,1%
+R003	2	1A1ai	Đốt nhiên liệu để sản xuất điện	CO2	108.475,76	119.695,83	0,23	14,7%	34,8%
+R004	4	2F	Sử dụng sản phẩm thay thế cho các chất làm suy giảm tầng ô-dôn	HFCs	4653,11	10.728,09	0,13	7,9%	42,7%
+R005	6	5A	Phát thải từ bãi chôn lấp chất thải rắn	CH4	17.590,52	22.718,35	0,11	6,7%	49,4%
+R006	7	3C	Canh tác lúa	CH4	49283,98	44.593,21	0,10	6,1%	55,5%
+R007	8	1A2a	Đốt nhiên liệu để sản xuất sắt thép	CO2	4.853,29	9.137,84	0,09	5,6%	61,1%
+R008	9	2C1	Quá trình sản xuất sắt thép	CO2	20689,37	23.962,42	0,07	4,3%	65,4%
+R009	10	2A1	Quá trình sản xuất xi măng	CO2	38834,48	41.483,03	0,06	3,5%	68,8%
+R010	11	2A2	Quá trình sản xuất vôi	CO2	3614,40	1.769,55	0,04	2,4%	71,3%
+R011	13	5D2	Xử lý và xả thải nước thải công nghiệp	CH4	2.969,85	4.788,53	0,04	2,4%	73,6%
+R012	15	1A2c	Đốt nhiên liệu để sản xuất hóa chất và hóa dầu	CO2	3774,18	5.288,16	0,03	2,0%	75,6%
+R013	16	1A3b	Giao thông vận tải đường bộ	CO2	36.204,28	37.686,43	0,03	1,9%	77,5%
+R014	17	1A2i	Đốt nhiên liệu để khai khoáng và đá	CO2	2351,31	3690,12	0,03	1,7%	79,3%
+R015	18	3B3	Quản lý chất thải vật nuôi của lợn	N2O	1319,24	96,28	0,03	1,6%	80,9%
+R016	20	1A1b	Đốt nhiên liệu để lọc hóa dầu	CO2	3.024,37	4.122,98	0,02	1,4%	82,3%
+R017	22	3B3	Quản lý chất thải vật nuôi của lợn	CH4	1827,77	2.840,70	0,02	1,3%	83,6%
+R018	23	1A3a	Giao thông vận tải hàng không	CO2	2.390,54	3382,46	0,02	1,3%	84,9%
+R019	24	1A4b	Năng lượng sử dụng trong dân dụng	CH4	1.338,15	535,06	0,02	1,0%	86,0%
+R020	25	3B4g	Quản lý chất thải vật nuôi của gia cầm	CH4	1007,99	325,01	0,01	0,9%	86,9%
+R021	27	2A4	Các hoạt động sử dụng cacbonat khác	CO2	0,62	567,14	0,01	0,7%	87,6%
+R022	28	3A4a	Tiêu hóa thức ăn của trâu	CH4	5292,12	4.747,78	0,01	0,7%	88,3%
+R023	29	1A2d	Đốt nhiên liệu để sản xuất giấy, bột giấy và in ấn	CO2	2334,93	2.873,09	0,01	0,7%	89,0%
+R024	30	5C2	Đốt lộ thiên chất thải	CO2	1649,39	1.117,49	0,01	0,7%	89,7%
+R025	31	1A4b	Năng lượng sử dụng trong dân dụng	CO2	6.307,75	5.776,89	0,01	0,7%	90,4%
+R026	33	1A2k	Đốt nhiên liệu trong xây dựng	CO2	1406,50	910,45	0,01	0,6%	91,1%
+R027	34	1A4c	Năng lượng sử dụng trong nông, lâm nghiệp và thủy sản	CO2	6.993,99	7.463,58	0,01	0,6%	91,7%
+R028	35	3D1	Phát thải N2O trực tiếp của đất	N2O	7880,19	8.575,55	0,01	0,9%	92,6%
+R029	36	1B2b	Phát tán do khai thác khí tự nhiên	CH4	2.398,77	1.998,15	0,01	0,5%	93,1%
+R030	37	1A2l	Đốt nhiên liệu trong công nghiệp dệt may và đồ da	CO2	5489,59	5.875,12	0,01	0,5%	93,6%
+R031	38	5D1	Xử lý và xả thải nước thải sinh hoạt	N2O	404,88	21,61	0,01	0,5%	94,1%
+R032	39	2B1	Quá trình sản xuất Amoniac	CO2	1749,28	2.089,47	0,01	0,4%	94,6%
+R033	40	5D1	Xử lý và xả thải nước thải sinh hoạt	CH4	5.372,47	5.705,29	0,01	0,4%	95,0%
+
+=== TABLE 10 (8x6) ===
+R000	Mã PL	Lĩnh vực	Năm	Năm	Năm	Năm
+R001	Mã PL	Lĩnh vực	2018	2020	2021	2022
+R002	Mã PL	Lĩnh vực	%	%	%	%
+R003	1	Năng lượng	5,2	5,4	5,3	5,1
+R004	2	IPPU	18,1	18,4	18,3	17,9
+R005	3	Nông nghiệp	35,2	36,2	35,8	38,0
+R006	4	LULUCF	55,7	59,1	58,2	57,8
+R007	5	Chất thải	31,4	31,2	31,8	32,9
+
+=== TABLE 11 (5x4) ===
+R000		Độ không chắc chắn theo xu thế	Độ không chắc chắn theo xu thế	Độ không chắc chắn theo xu thế
+R001		2020	2021	2022
+R002		%	%	%
+R003	Bao gồm LULUCF	9,3	9,5	9,8
+R004	Không bao gồm LULUCF	5,9	6,4	7,0
+
+=== TABLE 12 (12x3) ===
+R000	Phạm vi	Hoạt động QC	Kết quả QC
+R001	SLHĐ	Kiểm tra nguồn SLHĐ và tiêu chí để lựa chọn các SLHĐ.	Nguồn SLHĐ được sử dụng rõ ràng, đảm bảo độ tin cậy. / Đã ưu tiên sử dụng các thông tin, SLHĐ công bố trong Niên giám thống kê quốc gia, sau đó là số liệu của các cơ quan quản lý nhà nước, một số cơ quan, tổ chức ở Trung ương và địa phương; một số tài liệu nghiên cứu trong và ngoài nước.
+R002	SLHĐ	Kiểm tra các giả định liên quan đến việc thiếu SLHĐ phục vụ kiểm kê.	Các giả định theo phương pháp chuyên gia đã sử dụng là phù hợp nhất với hiện trạng số liệu hiện có.
+R003	SLHĐ	Kiểm tra quá trình nhập SLHĐ và sử dụng đơn vị đo lường vào các bảng tính, công cụ tính.	Quá trình nhập SLHĐ và sử dụng đơn vị vào các bảng tính và công cụ kiểm kê không có sai sót.
+R004	SLHĐ	Kiểm tra tính nhất quán của SLHĐ giữa các lĩnh vực kiểm kê.	SLHĐ giữa các lĩnh vực đã được kiểm tra, đảm bảo tính nhất quán giữa các lĩnh vực.
+R005	HSPT và thông số	Kiểm tra các thông số, hệ số chuyển đổi, HSPT đặc trưng quốc gia được sử dụng.	Các lựa chọn là phù hợp, minh bạch, các giá trị được trích dẫn nguồn đầy đủ và đảm bảo tính nhất quán giữa các lĩnh vực.
+R006	HSPT và thông số	Kiểm tra các thông số, HSPT sử dụng giá trị mặc định của IPCC.	Các lựa chọn là chính xác, nhất quán và phù hợp theo hướng dẫn thực hành tốt của IPCC.
+R007	Kết quả tính	Kiểm tra phương pháp luận trong tính toán phát thải/hấp thụ.	Đã tuân thủ đầy đủ theo phương pháp luận của IPCC 2006 và IPCC 2019.
+R008	Kết quả tính	Kiểm tra kết quả kiểm kê của các lĩnh vực.	Các công thức tính, giá trị GWP áp dụng theo hướng dẫn của IPCC là chính xác.
+R009	Kết quả tính	Kiểm tra tính đầy đủ, chính xác, thống nhất theo phân loại của IPCC.	Các kết quả tính phát thải/hấp thụ đã được tính chính xác, các ký hiệu về NA, NO, IE và NE là thống nhất theo hướng dẫn của IPCC 2006.
+R010	Nội dung khác	Kiểm tra kết quả phân tích nguồn chính và đánh giá độ không chắc chắn.	Các phương pháp, công thức phân tích nguồn chính và đánh giá độ không chắc chắn đã áp dụng chính xác theo hướng dẫn của IPCC.
+R011	Nội dung khác	Kiểm tra kết quả báo cáo theo biểu mẫu báo cáo của IPCC 2006, CRT.	Các bảng biểu, đồ thị hiển thị là chính xác, thống nhất và tuân thủ theo mẫu của IPCC 2006, CRT.
+
+=== TABLE 13 (21x4) ===
+R000	TT	Loại khí	Loại khí	Giá trị GWP
+R001	1	CO2		1
+R002	2	CH4		28
+R003	3	N2O		265
+R004	4	HFC-32		675
+R005	5	HFC-125		3.500
+R006	6	HFC-134a		1.430
+R007	7	HFC-143a		4.470
+R008	8	HFC-227ea		3.220
+R009	9	HFC-236fa		9.810
+R010	10	HFC-245fa		1.030
+R011	11	HFC-365mfc		794
+R012	12	HFC-404A		3.922
+R013	13	HFC-407C		1.774
+R014	14	HFC-410A		2.088
+R015	15	HFC-417A		2.346
+R016	16	HFC-448A		1.386
+R017	17	HFC-467A		1.359
+R018	18	HFC-507A		3.985
+R019	19	HFC-508B		6.808
+R020	20	HFC-513A		629
+
+=== TABLE 14 (4x3) ===
+R000	TT	Nội dung	Tham chiếu Phụ lục của Quyết định 18/CMA.1
+R001	1	Sử dụng kí hiệu “NE” cho một số nguồn phát thải/hấp thụ KNK có tỉ trọng không đáng kể trong kiểm kê quốc gia KNK	Đoạn 32
+R002	2	Dữ liệu kiểm kê KNK bao gồm năm tham chiếu trong NDC của quốc gia, và chuỗi thời gian hằng năm liên tục kể từ năm 2020	Đoạn 57
+R003	3	Năm kiểm kê KNK gần nhất cách 3 năm so với thời điểm nộp BTR1	Đoạn 58
+
+=== TABLE 15 (7x7) ===
+R000	Năm	Lĩnh vực	Lĩnh vực	Lĩnh vực	Lĩnh vực	Lĩnh vực	Tổng phát thải ròng
+R001	Năm	Năng lượng	IPPU	Nông nghiệp	LULUCF	Chất thải	Tổng phát thải ròng
+R002	Năm	kt CO2 tđ	kt CO2 tđ	kt CO2 tđ	kt CO2 tđ	kt CO2 tđ	kt CO2 tđ
+R003	2018	234.950,06	70.754,40	89.101,02	-46.863,43	31.003,97	377.271,75
+R004	2020	284.935,53	89.295,24	89.097,17	-45.753,29	35.440,60	453.471,25
+R005	2021	261.663,46	89.634,22	82.787,68	-47.521,33	38.518,32	425.082,35
+R006	2022	272.025,14	81.456,33	82.510,40	-48.063,55	38.776,75	426.705,07
+
+=== TABLE 16 (6x5) ===
+R000	Loại KNK	2018	2020	2021	2022
+R001	Loại KNK	kt CO2tđ	kt CO2tđ	kt CO2tđ	kt CO2tđ
+R002	CO2	249.013,35	317.252,88	293.215,12	293.041,71
+R003	CH4	104.336,56	105.498,68	105.319,04	105.227,02
+R004	N2O	18.882,87	20.657,36	17.309,25	17.707,05
+R005	HFCs	5.038,96	10.062,34	9.766,64	10.728,09
+
+=== TABLE 17 (11x7) ===
+R000	Mã PL	Nguồn phát thải	CO2	CH4	N2O	Tổng	Tỷ trọng
+R001	Mã PL	Nguồn phát thải	kt CO2tđ	kt CO2tđ	kt CO2tđ	kt CO2tđ	%
+R002	1	Năng lượng	264.547,60	5.757,77	1.719,76	272.025,14	100
+R003	1A	Các hoạt động đốt nhiên liệu	263.859,19	1.762,72	1.713,68	267.335,59	98,3
+R004	1A1	Công nghiệp năng lượng	123.818,81	329,46	555,74	124.704,01	45,8
+R005	1A2	Công nghiệp sản xuất và xây dựng	80.929,63	371,11	505,15	81.805,89	30,1
+R006	1A3	Giao thông vận tải	44.732,01	312,90	550,99	45.595,89	16,8
+R007	1A4	Lĩnh vực khác	14.378,75	749,26	101,80	15.229,81	5,6
+R008	1B	Phát tán từ nhiên liệu	688,41	3.995,05	6,08	4.689,54	1,7
+R009	1B1	Khai thác than	340,88	1.356,38	5,48	1.702,74	0,6
+R010	1B2	Khai thác dầu và khí tự nhiên	347,53	2.638,67	0,60	2.986,80	1,1
+
+=== TABLE 18 (18x8) ===
+R000	Mã IPCC	Nguồn phát thải	CO2	CH4	N2O	HFCs	Tổng	Tỷ trọng
+R001	Mã IPCC	Nguồn phát thải	kt CO2tđ	kt CO2tđ	kt CO2tđ	kt CO2tđ	kt CO2tđ	%
+R002	2	IPPU	70.676,96	19,49	31,80	10.728,09	81.456,33	100.00
+R003	2A	Công nghiệp khoáng sản	44.411,86	-	-	-	44.411,86	54,52
+R004	2A1	Quá trình sản xuất xi măng	41.483,03				41.483,03	50,93
+R005	2A2	Quá trình sản xuất vôi	1.769,55				1.769,55	2,17
+R006	2A3	Quá trình sản xuất thủy tinh	592,14				592,14	0,73
+R007	2A4	Các hoạt động sử dụng cacbonat khác	567,14				567,14	0,70
+R008	2B	Công nghiệp hóa chất	2.231,70	19,49	31,80	-	2.282,99	2,82
+R009	2B1	Quá trình sản xuất Amoniac	2.089,47				2.089,47	2,57
+R010	2B2	Quá trình sản xuất axit Nitric			31,80		31,80	0,04
+R011	2B5	Sản xuất Silic cacbua	157,20	19,49			176,69	0,22
+R012	2C	Luyện kim	23.962,42	-	-	-	23.962,42	29,42
+R013	2C1	Quá trình sản xuất sắt thép	23.962,42				23.962,42	29,42
+R014	2D	Các sản phẩm phi năng lượng từ nhiên liệu và sử dụng dung môi	60,53	0	0	0	60,53	0,07
+R015	2D1	Sử dụng chất bôi trơn	60,53				60,53	0,07
+R016	2D2	Sử dụng sáp paraphin	-				-	-
+R017	2F	Sử dụng sản phẩm thay thế cho các chất làm suy giảm tầng ô-dôn				9.766,64	9.766,64	13,17
+
+=== TABLE 19 (21x7) ===
+R000	Mã PL	Nguồn phát thải	CO2	CH4	N2O	Tổng phát thải	Tỷ trọng
+R001	Mã PL	Nguồn phát thải	kt CO2tđ	kt CO2tđ	kt CO2tđ	kt CO2tđ	%
+R002	3	Nông nghiệp	1.881,88	65.541,73	15.086,78	82.510,40	100%
+R003	3A	Tiêu hóa thức ăn		15.697,86		15.697,86	19,0%
+R004	3A1	Tiêu hóa thức ăn của bò		9.824,42		9.824,42	11,9%
+R005	3A2	Tiêu hóa thức ăn của cừu		15,18		15,18	0,0%
+R006	3A3	Tiêu hóa thức ăn của lợn		692,87		692,87	0,8%
+R007	3A4	Tiêu hóa thức ăn của các loại vật nuôi khác		5.165,39		5.165,39	6,3%
+R008	3B	Quản lý chất thải vật nuôi		3.850,57	2.101,23	5.951,80	7,2%
+R009	3B1	Quản lý chất thải vật nuôi của bò		513,38	474,91	988,29	1,2%
+R010	3B2	Quản lý chất thải vật nuôi của cừu		0,59	3,20	3,79	0,0%
+R011	3B3	Quản lý chất thải vật nuôi của lợn		2.840,70	96,28	2.936,98	3,6%
+R012	3B4	Quản lý chất thải vật nuôi của các loại vật nuôi khác		495,90	1.263,03	1.758,93	2,1%
+R013	3B5	Phát thải N2O gián tiếp của quản lý chất thải vật nuôi			263,80	263,80	0,3%
+R014	3C	Canh tác lúa		44.593,21		44.593,21	54,0%
+R015	3D	Đất nông nghiệp			12.642,02	12.642,02	15,3%
+R016	3D1	Phát thải N2O trực tiếp của đất			8.575,55	8.575,55	10,4%
+R017	3D2	Phát thải N2O gián tiếp của đất			4.066,47	4.066,47	4,9%
+R018	3F	Đốt phụ phẩm nông nghiệp ngoài đồng		1.400,09	343,54	1.743,63	2,1%
+R019	3G	Sử dụng vôi trong canh tác	605,88			605,88	0,7%
+R020	3H	Bón phân Ure	1.276,00			1.276,00	1,5%
+
+=== TABLE 20 (29x6) ===
+R000	Mã PL	Nguồn phát thải/ / hấp thụ	CO2	CH4	N2O	Tổng phát thải/hấp thụ
+R001	Mã PL	Nguồn phát thải/ / hấp thụ	kt CO2tđ	kt CO2tđ	kt CO2tđ	kt CO2tđ
+R002	4	LULUCF	-48.103,32	24,97	13,60	-48.064,75
+R003	4A	Đất rừng	-48.098,34			-48.098,34
+R004	4A1	Đất rừng nguyên trạng	-39.840,58			-39.840,58
+R005	4A2	Đất chuyển đổi thành đất rừng	-8.257,76			-8.257,76
+R006	4B	Đất trồng trọt	-2.353,64			-2.353,64
+R007	4B1	Đất trồng trọt nguyên trạng	-307,08			-307,08
+R008	4B2	Đất chuyển đổi thành đất trồng trọt	-2.046,57			-2.046,57
+R009	4C	Đất cỏ	123,65			123,65
+R010	4C1	Đất cỏ nguyên trạng	0,00			0,00
+R011	4C2	Đất chuyển đổi thành đất cỏ	123,65			123,65
+R012	4D	Đất ngập nước	236,25			236,25
+R013	4D1	Đất ngập nước nguyên trạng	0,00			0,00
+R014	4D2	Đất chuyển đổi thành đất ngập nước	236,25			236,25
+R015	4E	Đất ở	446,39			446,39
+R016	4E1	Đất ở nguyên trạng	0,00			0,00
+R017	4E2	Đất chuyển đổi thành đất ở	446,39			446,39
+R018	4F	Đất khác	1.542,38			1.542,38
+R019	4F1	Đất khác nguyên trạng	0,00			0,00
+R020	4F2	Đất chuyển đổi thành đất khác	1.542,38			1.542,38
+R021	4(II)	Phát thải N2O từ đất trong quá trình tiêu nước của đất			0,52	0,52
+R022	4(IV)	Đốt sinh khối		24,97	13,08	38,05
+R023	4(IV)A	Đốt sinh khối của đất rừng		0,13	0,07	0,19
+R024	4(IV)B	Đốt sinh khối của đất trồng trọt		15,60	8,17	23,77
+R025	4(IV)C	Đốt sinh khối của đất cỏ		1,52	0,80	2,31
+R026	4(IV)D	Đốt sinh khối của đất ngập nước		2,76	1,45	4,21
+R027	4(IV)E	Đốt sinh khối của đất ở		2,21	1,16	3,36
+R028	4(IV)F	Đốt sinh khối của đất khác		2,76	1,45	4,21
+
+=== TABLE 21 (14x7) ===
+R000	Mã IPCC	Nguồn phát thải	CO2	CH4	N2O	Tổng	Tỷ trọng
+R001	Mã IPCC	Nguồn phát thải	kt CO2tđ	kt CO2tđ	kt CO2tđ	kt CO2tđ	%
+R002	4	Chất thải	3.154,21	33.883,05	380,63	37.417,89	100
+R003	4A	Bãi chôn lấp chất thải rắn		22.718,35		22.718,35	60,7
+R004	4A1	Bãi chôn lấp chất thải rắn được quản lý		22.718,35		22.718,35	60,7
+R005	4A2	Bãi chôn lấp chất thải rắn không được quản lý		IE		IE	-
+R006	4A3	Bãi chôn lấp chất thải rắn không được phân loại		IE		IE	-
+R007	4B	Xử lý chất thải rắn bằng phường pháp sinh học		353,41	200,69	554,10	1,5
+R008	4C	Thiêu đốt và đốt lộ thiên chất thải	3.154,21	317,47	74,02	4.900,22	9,5
+R009	4C1	Thiêu đốt chất thải	2.036,72	0,47	30,39	2.067,58	5,5
+R010	4C2	Đốt lộ thiên chất thải	1.117,49	317,00	43,63	1.478,12	4,0
+R011	4D	Xử lý và xả thải nước thải		10.493,82	105,92	10.599,74	28,3
+R012	4D1	Xử lý và xả thải nước thải sinh hoạt		5.705,29	21,61	5.726,90	15,3
+R013	4D2	Xử lý và xả thải nước thải công nghiệp		4.788,53	84,30	4.872,84	13,0
+
+=== TABLE 22 (76x3) ===
+R000	Lĩnh vực/ Tiểu lĩnh vực	Giá trị	Đơn vị
+R001	1 Năng lượng	1 Năng lượng	1 Năng lượng
+R002	1B Phát tán từ nhiên liệu	1B Phát tán từ nhiên liệu	1B Phát tán từ nhiên liệu
+R003	HSPT CH4 đối với khai thác hầm lò	1,5789	m3/tấn
+R004	HSPT CH4 đối với khai thác lộ thiên	0,05375	m3/tấn
+R005	HSPT CH4 sau khai thác	0,1697	m3/tấn
+R006	2 IPPU	2 IPPU	2 IPPU
+R007	2C Luyện kim	2C Luyện kim	2C Luyện kim
+R008	HSPT của quá trình sản xuất sắt thép theo công nghệ BOF	2,47	tấn CO2/tấn thép thô
+R009	HSPT của quá trình sản xuất sắt thép theo công nghệ EAF	0,06	tấn CO2/tấn thép thô
+R010	3 Nông nghiệp	3 Nông nghiệp	3 Nông nghiệp
+R011	3A Tiêu hóa thức ăn và 3B Quản lý chất thải vật nuôi	3A Tiêu hóa thức ăn và 3B Quản lý chất thải vật nuôi	3A Tiêu hóa thức ăn và 3B Quản lý chất thải vật nuôi
+R012	Trọng lượng trung bình của bò sữa	550	kg
+R013	Trọng lượng trung bình của bò thịt	200	kg
+R014	Trọng lượng trung bình của trâu	238	kg
+R015	Trọng lượng trung bình của cừu	26	kg
+R016	Trọng lượng trung bình của dê	25	kg
+R017	Trọng lượng trung bình của ngựa	153	kg
+R018	Trọng lượng trung bình của lợn	85	kg
+R019	Trọng lượng trung bình của gia cầm	2	kg
+R020	Hệ số phát thải CH4 của quản lý chất thải bò sữa ở vùng khí hậu 15-25oC	12,88	kgCH4/con
+R021	Hệ số phát thải CH4 của quản lý chất thải bò thịt ở vùng khí hậu 15-25oC	5,03	kgCH4/con
+R022	Hệ số phát thải CH4 của quản lý chất thải trâu ở vùng khí hậu 15-25oC	7,36	kgCH4/con
+R023	Hệ số phát thải CH4 của quản lý chất thải cừu ở vùng khí hậu 15-25oC	0,62	kgCH4/con
+R024	Hệ số phát thải CH4 của quản lý chất thải dê ở vùng khí hậu 15-25oC	0,75	kgCH4/con
+R025	Hệ số phát thải CH4 của quản lý chất thải ngựa ở vùng khí hậu 15-25oC	6,37	kgCH4/con
+R026	Hệ số phát thải CH4 của quản lý chất thải lợn ở vùng khí hậu 15-25oC	3,18	kgCH4/con
+R027	Hệ số phát thải CH4 của quản lý chất thải gia cầm ở vùng khí hậu 15-25oC	0,12	kgCH4/con
+R028	Hệ số phát thải CH4 của quản lý chất thải bò sữa ở vùng khí hậu >25oC	9,46	kgCH4/con
+R029	Hệ số phát thải CH4 của quản lý chất thải bò thịt ở vùng khí hậu >25oC	3,69	kgCH4/con
+R030	Hệ số phát thải CH4 của quản lý chất thải trâu ở vùng khí hậu >25oC	5,41	kgCH4/con
+R031	Hệ số phát thải CH4 của quản lý chất thải cừu ở vùng khí hậu >25oC	0,46	kgCH4/con
+R032	Hệ số phát thải CH4 của quản lý chất thải dê ở vùng khí hậu >25oC	0,55	kgCH4/con
+R033	Hệ số phát thải CH4 của quản lý chất thải ngựa ở vùng khí hậu >25oC	4,68	kgCH4/con
+R034	Hệ số phát thải CH4 của quản lý chất thải lợn ở vùng khí hậu >25oC	2,34	kgCH4/con
+R035	Hệ số phát thải CH4 của quản lý chất thải gia cầm ở vùng khí hậu >25oC	0,09	kgCH4/con
+R036	3C Canh tác lúa	3C Canh tác lúa	3C Canh tác lúa
+R037	Hệ số phát thải CH4 cho ruộng lúa tưới ngập thường xuyên của vụ xuân ở miền Bắc	198,03	kg CH4/ha/vụ
+R038	Hệ số phát thải CH4 cho ruộng lúa tưới ngập thường xuyên của vụ mùa ở miền Bắc	356,72	kg CH4/ha/vụ
+R039	Hệ số phát thải CH4 cho ruộng lúa tưới ngập thường xuyên của vụ xuân ở miền Trung	218,88	kg CH4/ha/vụ
+R040	Hệ số phát thải CH4 cho ruộng lúa tưới ngập thường xuyên của vụ hè thu ở miền Trung	198,64	kg CH4/ha/vụ
+R041	Hệ số phát thải CH4 cho ruộng lúa tưới ngập thường xuyên của vụ đông xuân ở miền Nam	196,95	kg CH4/ha/vụ
+R042	Hệ số phát thải CH4 cho ruộng lúa tưới ngập thường xuyên của vụ hè thu ở miền Nam	210,87	kg CH4/ha/vụ
+R043	Hệ số phát thải CH4 cho ruộng lúa tưới ngập thường xuyên của vụ thu đông ở miền Nam	217,8	kg CH4/ha/vụ
+R044	Hệ số chuyển đổi đối với các loại và lượng chất hữu cơ được bổ sung của vụ đông xuân ở miền Bắc	1,25	-
+R045	Hệ số chuyển đổi đối với các loại và lượng chất hữu cơ được bổ sung của vụ hè thu ở miền Bắc	1,37	-
+R046	Hệ số chuyển đổi đối với các loại và lượng chất hữu cơ được bổ sung của vụ đông xuân ở miền Trung	1	-
+R047	Hệ số chuyển đổi đối với các loại và lượng chất hữu cơ được bổ sung của vụ hè thu ở miền Trung	1,04	-
+R048	Hệ số chuyển đổi đối với các loại và lượng chất hữu cơ được bổ sung của vụ mùa ở miền Trung	1,04	-
+R049	Hệ số chuyển đổi đối với các loại và lượng chất hữu cơ được bổ sung của vụ đông xuân ở miền Nam	1,14	-
+R050	Hệ số chuyển đổi đối với các loại và lượng chất hữu cơ được bổ sung của vụ hè thu ở miền Nam	1,05	-
+R051	Hệ số chuyển đổi đối với các loại và lượng chất hữu cơ được bổ sung của vụ thu đông ở miền nam	1,06	-
+R052	4 LULUCF	4 LULUCF	4 LULUCF
+R053	Tỷ lệ sinh khối dưới mặt đất so với sinh khối trên mặt đất (R) ở rừng gỗ tự nhiên	0,205	-
+R054	Tỷ lệ sinh khối dưới mặt đất so với sinh khối trên mặt đất (R) ở rừng tre nứa	0,205	-
+R055	Tỷ lệ sinh khối dưới mặt đất so với sinh khối trên mặt đất (R) ở rừng hỗn giao	0,205	-
+R056	Tỷ lệ sinh khối dưới mặt đất so với sinh khối trên mặt đất (R) ở rừng ngập mặn	0,220	-
+R057	Tỷ lệ sinh khối dưới mặt đất so với sinh khối trên mặt đất (R) ở rừng dừa	0,201	-
+R058	Tỷ lệ sinh khối dưới mặt đất so với sinh khối trên mặt đất (R) ở rừng gỗ trồng	0,205	-
+R059	Hệ số tăng trưởng sinh khối trên mặt đất (Iv) của rừng gỗ	2,00	m3/ha/năm
+R060	Hệ số tăng trưởng sinh khối trên mặt đất (Iv) cửa rừng tre nứa	0,70	m3/ha/năm
+R061	Hệ số tăng trưởng sinh khối trên mặt đất (Iv) của rừng hỗn giao	2,20	m3/ha/năm
+R062	Hệ số tăng trưởng sinh khối trên mặt đất (Iv) của rừng ngập mặn	2,50	m3/ha/năm
+R063	Hệ số tăng trưởng sinh khối trên mặt đất (Iv) của rừng dừa	3,35	m3/ha/năm
+R064	Hệ số tăng trưởng sinh khối trên mặt đất (Iv) của rừng gỗ trồng	12,00	m3/ha/năm
+R065	BCEFI của rừng dừa	0,65	t-d.m/m3
+R066	BCEFI của rừng gỗ trồng	0,55	t-d.m/m3
+R067	BCEFR của rừng gỗ trồng	1,2	t-d.m/m3
+R068	Bw (sử dụng trong công thức 2.14) của rừng gỗ trồng	42,08	t-d.m/ha
+R069	fd (sử dụng trong công thức 2.14) của rừng gỗ trồng	1	-
+R070	Thông số trước chuyển đổi từ quá trình chuyển đổi sử dụng đất của rừng gỗ tự nhiên	100,13	t-d.m/ha
+R071	Thông số trước chuyển đổi từ quá trình chuyển đổi sử dụng đất của rừng gỗ trồng	0,00	t-d.m/ha
+R072	Thông số trước chuyển đổi từ quá trình chuyển đổi sử dụng đất của rừng tre nứa	43,13	t-d.m/ha
+R073	Thông số trước chuyển đổi từ quá trình chuyển đổi sử dụng đất của rừng hỗn giao	102,72	t-d.m/ha
+R074	Thông số trước chuyển đổi từ quá trình chuyển đổi sử dụng đất của rừng ngập mặn	123,4	t-d.m/ha
+R075	Thông số trước chuyển đổi từ quá trình chuyển đổi sử dụng đất của rừng dừa	28,93	t-d.m/ha
+
+=== TABLE 23 (22x12) ===
+R000	Mã IPCC	Lĩnh vực	CO2	CH4	N2O	HFCs	PFCs	SF6	NOx	CO	NMVOCs	SO2
+R001	Mã IPCC	Lĩnh vực	kt	kt	kt	kt CO2tđ	kt CO2tđ	kt CO2tđ	kt	kt	kt	kt
+R002	1	Năng lượng	264.547,60	205,63	6,49				NE	NE	NE	NE
+R003	1A	Các hoạt động đốt nhiên liệu	263.859,19	62,95	6,47				NE	NE	NE	NE
+R004	1A1	Công nghiệp năng lượng	123.818,81	11,77	2,10				NE	NE	NE	NE
+R005	1A2	Công nghiệp sản xuất và xây dựng	80.929,63	13,25	1,91				NE	NE	NE	NE
+R006	1A3	Giao thông vận tải	44.732,01	11,17	2,08				NE	NE	NE	NE
+R007	1A4	Lĩnh vực khác	14.378,75	26,76	0,38				NE	NE	NE	NE
+R008	1A5	Không phân loại	NE	NE	NE				NE	NE	NE	NE
+R009	1B	Phát thải phát tán từ nhiên liệu	668,41	142,68	0,02				NE	NE	NE	NE
+R010	1B1	Khai thác than	380,88	48,44	0,02				NE	NE	NE	NE
+R011	1B2	Khai thác dầu và khí tự nhiên	347,53	94,24	0,00				NE	NE	NE	NE
+R012	1B3	Các nguồn phát thải phát tán khác từ sản xuất năng lượng	NE						NE	NE	NE	NE
+R013	1C	Vận chuyển và lưu trữ các-bon-nic	NE						NE	NE	NE	NE
+R014	1C1	Vận chuyển Các-bon-nic	NE						NE	NE	NE	NE
+R015	1C2	Bơm và lưu trữ Các-bon-nic	NE						NE	NE	NE	NE
+R016	1C3	Quá trình khác	NE						NE	NE	NE	NE
+R017	CHI TIẾT GHI NHỚ KHÔNG THUỘC PHÁT THẢI KNK QUỐC GIA	CHI TIẾT GHI NHỚ KHÔNG THUỘC PHÁT THẢI KNK QUỐC GIA	NE	NE						NE	NE	NE
+R018	Hầm chứa nhiên liệu quốc tế	Hầm chứa nhiên liệu quốc tế	NE	NE						NE	NE	NE
+R019	Nhiên liệu dùng cho hàng không quốc tế	Nhiên liệu dùng cho hàng không quốc tế	NE	NE						NE	NE	NE
+R020	Nhiên liệu dùng cho hàng hải quốc tế	Nhiên liệu dùng cho hàng hải quốc tế	NE	NE						NE	NE	NE
+R021	Vận hành đa mục đích	Vận hành đa mục đích	NE	NE						NE	NE	NE
+
+=== TABLE 24 (55x12) ===
+R000	Mã IPCC	Lĩnh vực	CO2	CH4	N2O	HFCs	PFCs	SF6	NOx	CO	NMVOCs	SO2
+R001	Mã IPCC	Lĩnh vực	kt	kt	kt	kt CO2tđ	kt CO2tđ	kt CO2tđ	kt	kt	kt	kt
+R002	2	IPPU	70.676,96	0,70	0,12	10.728,09						
+R003	2A	Công nghiệp khoáng sản	44.411,86									
+R004	2A1	Quá trình sản xuất xi măng	41.483,03									
+R005	2A2	Quá trình sản xuất vôi	1.769,55									
+R006	2A3	Quá trình sản xuất thủy tinh	592,14									
+R007	2A4	Quá trình khác trong sử dụng các-bon-nát	567,14									
+R008	2A5	Quá trình công nghiệp khoáng sản khác	NE									
+R009	2B	Công nghiệp hóa chất	2.246,67	0,70	0,12	NE				NE	NE	NE
+R010	2B1	Sản xuất Amoniac	2.089,47							NE	NE	NE
+R011	2B2	Sản xuất axit Nitric			0,12							
+R012	2B3	Sản xuất axit Adipic			NO							
+R013	2B4	Sản xuất axit Glyoxylic, Glyoxal và Caprolactam			NO							
+R014	2B5	Sản xuất Carbide	157,20	0,70								
+R015	2B6	Sản xuất Titan dioxit	NE									
+R016	2B7	Sản xuất Soda	NE									
+R017	2B8	Sản xuất Các-bon đen và hóa dầu	NE	NE								
+R018	2B9	Sản xuất hợp chất chứa Flo				NO						
+R019	2B10	Sản xuất công nghiệp quá chất khác	NE	NE	NE	NE	NE	NE				
+R020	2C	Luyện kim	23.962,42			NE			NE	NE	NE	NE
+R021	2C1	Sản xuất sắt thép	23.962,42	NE	NE				NE	NE	NE	NE
+R022	2C2	Sản xuất hợp kim chứa sắt	NE	NE	NE				NE	NE	NE	NE
+R023	2C3	Sản xuất nhôm	NO	NO			NO		NE	NE	NE	NE
+R024	2C4	Sản xuất magie	NE			NE	NE	NE	NE	NE	NE	NE
+R025	2C5	Sản xuất chì	NE						NE	NE	NE	NE
+R026	2C6	Sản xuất kẽm	NE						NE	NE	NE	NE
+R027	2C7	Luyện kim khác	NE	NE	NE	NE	NE	NE	NE	NE	NE	NE
+R028	2D	Sử dụng nhiên liệu cho các sản phẩm phi năng lượng và sử dụng dung môi	56,00	NE	NE				NE	NE	NE	NE
+R029	2D1	Sử dụng chất bôi trơn	56,00						NE	NE	NE	NE
+R030	2D2	Sử dụng sáp parafin	NE						NE	NE	NE	NE
+R031	2D3	Sử dụng dung môi							NE	NE	NE	NE
+R032	2D4	Sử dụng các hóa chất khác	NE	NE	NE				NE	NE	NE	NE
+R033	2E	Công nghiệp điện tử	NO	NO	NO	NO	NO	NO	NE	NE	NE	NE
+R034	2E1	Mạch tích hợp hoặc chất bán dẫn	NO		NO	NO	NO	NO	NE	NE	NE	NE
+R035	2E2	Tấm màn hình bóng bán dẫn dạng phim mỏng				NO	NO	NO	NE	NE	NE	NE
+R036	2E3	Tấm quang điện				NO	NO	NO	NE	NE	NE	NE
+R037	2E4	Chất truyền dẫn nhiệt							NE	NE	NE	NE
+R038	2E5	Công nghiệp điện tử khác	NO	NO	NO	NO	NO	NO	NE	NE	NE	NE
+R039	2F	Sử dụng sản phẩm thay thế cho các chất làm suy giảm tầng ô-dôn				10.728,09			NE	NE	NE	NE
+R040	2F1	Máy lạnh và điều hòa không khí				IE	NE		NE	NE	NE	NE
+R041	2F2	Các chất trợ nở				NE	NE		NE	NE	NE	NE
+R042	2F3	Chất chữa cháy				IE	NE		NE	NE	NE	NE
+R043	2F4	Sol khí				NE	NE		NE	NE	NE	NE
+R044	2F5	Các dung môi				NE	NE		NE	NE	NE	NE
+R045	2F6	Sản phẩm khác				NE	NE		NE	NE	NE	NE
+R046	2G	Sản xuất và sử dụng các sản phẩm công nghiệp khác				NE	NE	NE	NE	NE	NE	NE
+R047	2G1	Linh kiện điện tử					NE	NE	NE	NE	NE	NE
+R048	2G2	Các khí SF6 và PFCs từ sản phẩm khác					NE	NE	NE	NE	NE	NE
+R049	2G3	Khí N2O từ sử dụng sản phẩm							NE	NE	NE	NE
+R050	2G4	Các sản phẩm công nghiệp khác	NE	NE		NE			NE	NE	NE	NE
+R051	2H	Các quá trình công nghiệp và sử dụng sản phẩm khác							NE	NE	NE	NE
+R052	2H1	Công nghiệp giấy và bột giấy	NE	NE					NE	NE	NE	NE
+R053	2H2	Công nghiệp thực phẩm và đồ uống	NE	NE					NE	NE	NE	NE
+R054	2H3	Chưa phân loại	NE	NE	NE				NE	NE	NE	NE
+
+=== TABLE 25 (24x12) ===
+R000	Mã PL	Lĩnh vực	CO2	CH4	N2O	HFCs	PFCs	SF6	NOx	CO	NMVOCs	SO2
+R001	Mã PL	Lĩnh vực	kt	kt	kt	kt CO2tđ	kt CO2tđ	kt CO2tđ	kt	kt	kt	kt
+R002	3	Nông nghiệp	1.881,88	2.340,78	56,93				46,30	1.703,81		
+R003	3A	Tiêu hóa thức ăn		15.697,86								
+R004	3A1	Tiêu hóa thức ăn của bò		560,64					NE	NE	NE	NE
+R005	3A2	Tiêu hóa thức ăn của cừu		0,54					NE	NE	NE	NE
+R006	3A3	Tiêu hóa thức ăn của lợn		24,75					NE	NE	NE	NE
+R007	3A4	Tiêu hóa thức ăn của các loại vật nuôi khác		112,23					NE	NE	NE	NE
+R008	3B	Quản lý chất thải vật nuôi		137,52	7,93							
+R009	3B1	Quản lý chất thải vật nuôi của bò		18,84	1,79				NE	NE	NE	NE
+R010	3B2	Quản lý chất thải vật nuôi của cừu		0,02	0,01				NE	NE	NE	NE
+R011	3B3	Quản lý chất thải vật nuôi của lợn		101,45	0,36				NE	NE	NE	NE
+R012	3B4	Quản lý chất thải vật nuôi của các loại vật nuôi khác		17,71	4,77				NE	NE	NE	NE
+R013	3B5	Phát thải N2O gián tiếp của quản lý chất thải vật nuôi			1,00				NE	NE	NE	NE
+R014	3C	Canh tác lúa		1.592,61								
+R015	3D	Đất nông nghiệp			47,71							
+R016	3D1	Phát thải N2O trực tiếp của đất			32,36				NE	NE	NE	NE
+R017	3D2	Phát thải N2O gián tiếp của đất			15,35				NE	NE	NE	NE
+R018	3E	Đốt có kiểm soát các vùng đồng cỏ savan.	NE	NE	NE							
+R019	3F	Đốt phụ phẩm nông nghiệp ngoài đồng		50,00	1,30				46,30	1.703,81		
+R020	3G	Sử dụng vôi trong canh tác										
+R021	3H	Bón phân Ure	605,88									
+R022	3I	Bón các loại phân khác có chứa carbon	1.276,00									
+R023	3J	Nguồn phát thải khác	NE	NE	NE							
+
+=== TABLE 26 (33x12) ===
+R000	Mã PL	Lĩnh vực	CO2	CH4	N2O	HFCs	PFCs	SF6	NOx	CO	NMVOCs	SO2
+R001	Mã PL	Lĩnh vực	kt	kt	kt	kt CO2tđ	kt CO2tđ	kt CO2tđ	kt	kt	kt	kt
+R002	4	LULUCF	-48.103,32	0,89	0,05				0,52	20,3		
+R003	4A	Đất rừng	-48.098,34									
+R004	4A1	Đất rừng nguyên trạng	-39.840,58						NE	NE	NE	
+R005	4A2	Đất chuyển đổi thành đất rừng	-8.257,76						NE	NE	NE	
+R006	4B	Đất trồng trọt	-2.353,64									
+R007	4B1	Đất trồng trọt nguyên trạng	-307,08						NE	NE	NE	
+R008	4B2	Đất chuyển đổi thành đất trồng trọt	-2.046,57						NE	NE	NE	
+R009	4C	Đất cỏ	123,65									
+R010	4C1	Đất cỏ nguyên trạng	0,00						NE	NE	NE	
+R011	4C2	Đất chuyển đổi thành đất cỏ	123,65						NE	NE	NE	
+R012	4D	Đất ngập nước	236,25									
+R013	4D1	Đất ngập nước nguyên trạng	0,00						NE	NE	NE	
+R014	4D2	Đất chuyển đổi thành đất ngập nước	236,25						NE	NE	NE	
+R015	4E	Đất ở	446,39									
+R016	4E1	Đất ở nguyên trạng	0,00						NE	NE	NE	
+R017	4E2	Đất chuyển đổi thành đất ở	446,39						NE	NE	NE	
+R018	4F	Đất khác	1.542,38									
+R019	4F1	Đất khác nguyên trạng	0,00						NE	NE	NE	
+R020	4F2	Đất chuyển đổi thành đất khác	1.542,38						NE	NE	NE	
+R021	4(I)	Phát thải N₂O trực tiếp và gián tiếp từ các nguồn bổ sung nitơ (N) vào đất được quản lý			IE							
+R022	4(II)	Phát thải N2O từ đất trong quá trình tiêu nước của đất			0,00							
+R023	4(III)	Phát thải nitơ oxit (N₂O) trực tiếp và gián tiếp từ quá trình khoáng hóa/cố định nitơ (N) liên quan đến việc mất hoặc tăng chất hữu cơ trong đất, phát sinh do thay đổi mục đích sử dụng đất hoặc thay đổi biện pháp quản lý đối với đất khoáng			NE							
+R024	4(IV)	Đốt sinh khối		0,89	0,05							
+R025	4(IV)A	Đốt sinh khối của đất rừng		0,00	0,00				0,00	0,10	NE	NE
+R026	4(IV)B	Đốt sinh khối của đất trồng trọt		0,56	0,03				0,36	12,68	NE	NE
+R027	4(IV)C	Đốt sinh khối của đất cỏ		0,05	0,00				0,04	1,23	NE	NE
+R028	4(IV)D	Đốt sinh khối của đất ngập nước		0,10	0,01				0,06	2,25	NE	NE
+R029	4(IV)E	Đốt sinh khối của đất ở		0,08	0,00				0,05	1,79	NE	NE
+R030	4(IV)F	Đốt sinh khối của đất khác		0,10	0,01				0,06	2,25	NE	NE
+R031	4G	Sản phẩm gỗ khai thác		IE	IE				NE	NE	NE	NE
+R032	4H	Các nguồn phát thải/hấp thụ khác	NE	NE	NE				NE	NE	NE	NE
+
+=== TABLE 27 (15x12) ===
+R000	Mã IPCC	Lĩnh vực	CO2	CH4	N2O	HFC	HPC	SF6	NOx	CO	NMVOCs	SO2
+R001	Mã IPCC	Lĩnh vực	kt	kt	kt	kt CO2tđ	kt CO2tđ	kt CO2tđ	kt	kt	kt	kt
+R002	5	Chất thải	3.154,21	1.210,11	1,44							
+R003	5A	Bãi chôn lấp chất thải rắn		811,37								
+R004	5A1	Bãi chôn lấp chất thải rắn được quản lý		811.37								
+R005	5A2	Bãi chôn lấp chất thải rắn không được quản lý		IE								
+R006	5A3	Bãi chôn lấp chất thải rắn không được phân loại		IE								
+R007	5B	Xử lý chất thải rắn bằng phường pháp sinh học		12,62	0,76							
+R008	5C	Thiêu đốt và đốt lộ thiên chất thải	3.154,21	11,34	0,28							
+R009	5C1	Thiêu đốt chất thải	2.036,72	0,02	0,12							
+R010	5C2	Đốt lộ thiên chất thải	1.117,49	11,32	0,16							
+R011	5D	Xử lý và xả thải nước thải		374,78	0,40							
+R012	5D1	Xử lý và xả thải nước thải sinh hoạt		203,76	0,08							
+R013	5D2	Xử lý và xả thải nước thải công nghiệp		171,02	0,32							
+R014	5E	Phương pháp xử lý chất thải khác	NE	NE	NE				NE	NE	NE	NE
+
+=== TABLE 28 (171x15) ===
+R000		Mã PL	Nguồn phát thải/hấp thụ	KNK	Phát thải/Hấp thụ năm 2018
+(Gg CO2tđ)	Phát thải/Hấp thụ năm 2022
+(Gg CO2tđ)	Độ KCC cúa SLHĐ	Độ KCC của HSPT/ Thông số	Độ KCC của Phát thải/ Hấp thụ	Phần đóng góp vào phương sai của mỗi nguồn phát thải/hấp thụ năm 2022	Độ nhạy loại A	Độ nhạy loại B	Độ KCC theo xu thế của HSPT/Thông số	Độ KCC theo xu thế của SLHĐ	Độ KCC theo xu thế của phát thải quốc gia
+R001			A	B	C	D	E	F	G	H	I	J	K	L	M
+R002	1	1A1ai	Đốt nhiên liệu để sản xuất điện	CO2	108.475,76	119.695,83	7,5%	7,0%	10,3%	0,0008	-0,0055	0,32	0,00	0,03	0,00
+R003	2	1A1ai	Đốt nhiên liệu để sản xuất điện	CH4	65,23	82,43	7,5%	100,0%	100,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R004	3	1A1ai	Đốt nhiên liệu để sản xuất điện	N2O	419,89	500,93	7,5%	505,0%	505,1%	0,0000	0,0001	0,00	0,00	0,00	0,00
+R005	4	1A1b	Đốt nhiên liệu để lọc hóa dầu	CO2	3.024,37	4.122,98	7,5%	7,0%	10,3%	0,0000	0,0019	0,01	0,00	0,00	0,00
+R006	5	1A1b	Đốt nhiên liệu để lọc hóa dầu	CH4	3,47	4,72	7,5%	100,0%	100,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R007	6	1A1b	Đốt nhiên liệu để lọc hóa dầu	N2O	6,56	8,94	7,5%	505,0%	505,1%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R008	7	1A1ci	Đốt làm than củi	CH4	224,33	242,30	7,5%	100,0%	100,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R009	8	1A1ci	Đốt làm than củi	N2O	42,46	45,86	7,5%	505,0%	505,1%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R010	9	1A2a	Đốt nhiên liệu để sản xuất sắt thép	CO2	4.853,29	9.137,84	7,5%	7,0%	10,3%	0,0000	0,0097	0,02	0,00	0,00	0,00
+R011	10	1A2a	Đốt nhiên liệu để sản xuất sắt thép	CH4	11,52	18,32	7,5%	100,0%	100,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R012	11	1A2a	Đốt nhiên liệu để sản xuất sắt thép	N2O	16,30	27,48	7,5%	505,0%	505,1%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R013	12	1A2c	Đốt nhiên liệu để sản xuất hóa chất và hóa dầu	CO2	3774,18	5.288,16	17,5%	7,0%	18,8%	0,0000	0,0028	0,01	0,00	0,00	0,00
+R014	13	1A2c	Đốt nhiên liệu để sản xuất hóa chất và hóa dầu	CH4	8,68	11,73	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R015	14	1A2c	Đốt nhiên liệu để sản xuất hóa chất và hóa dầu	N2O	12,24	16,68	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R016	15	1A2d	Đốt nhiên liệu để sản xuất giấy, bột giấy và in ấn	CO2	2334,93	2.873,09	17,5%	7,0%	18,8%	0,0000	0,0007	0,01	0,00	0,00	0,00
+R017	16	1A2d	Đốt nhiên liệu để sản xuất giấy, bột giấy và in ấn	CH4	6,51	7,91	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R018	17	1A2d	Đốt nhiên liệu để sản xuất giấy, bột giấy và in ấn	N2O	9,26	11,28	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R019	18	1A2e	Đốt nhiên liệu để sản xuất thực phẩm, đồ uống và thuốc lá	CO2	2475,81	2.545,16	17,5%	7,0%	18,8%	0,0000	-0,0006	0,01	0,00	0,00	0,00
+R020	19	1A2e	Đốt nhiên liệu để sản xuất thực phẩm, đồ uống và thuốc lá	CH4	72,20	88,94	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R021	20	1A2e	Đốt nhiên liệu để sản xuất thực phẩm, đồ uống và thuốc lá	N2O	92,23	113,45	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R022	21	1A2f	Đốt nhiên liệu để sản xuất khoáng phi kim	CO2	30463,21	45.845,94	17,5%	7,0%	18,8%	0,0004	0,0307	0,12	0,00	0,03	0,00
+R023	22	1A2f	Đốt nhiên liệu để sản xuất khoáng phi kim	CH4	98,69	143,44	17,5%	100,0%	101,5%	0,0000	0,0001	0,00	0,00	0,00	0,00
+R024	23	1A2f	Đốt nhiên liệu để sản xuất khoáng phi kim	N2O	138,03	201,58	17,5%	505,0%	505,3%	0,0000	0,0001	0,00	0,00	0,00	0,00
+R025	24	1A2g	Đốt nhiên liệu để sản xuất thiết bị giao thông vận tải	CO2	259,01	410,00	17,5%	7,0%	18,8%	0,0000	0,0003	0,00	0,00	0,00	0,00
+R026	25	1A2g	Đốt nhiên liệu để sản xuất thiết bị giao thông vận tải	CH4	0,17	0,32	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R027	26	1A2g	Đốt nhiên liệu để sản xuất thiết bị giao thông vận tải	N2O	0,25	0,51	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R028	27	1A2h	Đốt nhiên liệu để sản xuất máy móc và thiết bị	CO2	461,82	729,80	17,5%	7,0%	18,8%	0,0000	0,0006	0,00	0,00	0,00	0,00
+R029	28	1A2h	Đốt nhiên liệu để sản xuất máy móc và thiết bị	CH4	0,31	0,57	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R030	29	1A2h	Đốt nhiên liệu để sản xuất máy móc và thiết bị	N2O	0,44	0,91	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R031	30	1A2i	Đốt nhiên liệu để khai khoáng và đá	CO2	2351,31	3690,12	17,5%	7,0%	18,8%	0,0000	0,0028	0,01	0,00	0,00	0,00
+R032	31	1A2i	Đốt nhiên liệu để khai khoáng và đá	CH4	5,27	6,76	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R033	32	1A2i	Đốt nhiên liệu để khai khoáng và đá	N2O	7,93	10,77	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R034	33	1A2j	Đốt nhiên liệu để sản xuất gỗ và các sản phẩm từ gỗ	CO2	71,39	198,88	17,5%	7,0%	18,8%	0,0000	0,0003	0,00	0,00	0,00	0,00
+R035	34	1A2j	Đốt nhiên liệu để sản xuất gỗ và các sản phẩm từ gỗ	CH4	19,60	29,37	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R036	35	1A2j	Đốt nhiên liệu để sản xuất gỗ và các sản phẩm từ gỗ	N2O	24,78	37,19	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R037	36	1A2k	Đốt nhiên liệu trong xây dựng	CO2	1406,50	910,45	17,5%	7,0%	18,8%	0,0000	-0,0018	0,00	0,00	0,00	0,00
+R038	37	1A2k	Đốt nhiên liệu trong xây dựng	CH4	1,78	1,11	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R039	38	1A2k	Đốt nhiên liệu trong xây dựng	N2O	3,21	2,02	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R040	39	1A2l	Đốt nhiên liệu trong công nghiệp dệt may và đồ da	CO2	5489,59	5.875,12	17,5%	7,0%	18,8%	0,0000	-0,0008	0,02	0,00	0,00	0,00
+R041	40	1A2l	Đốt nhiên liệu trong công nghiệp dệt may và đồ da	CH4	43,23	53,31	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R042	41	1A2l	Đốt nhiên liệu trong công nghiệp dệt may và đồ da	N2O	57,01	69,95	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R043	42	1A2m	Đốt nhiên liệu trong công nghiệp chưa phân loại	CO2	3440,15	3.425,07	17,5%	7,0%	18,8%	0,0000	-0,0012	0,01	0,00	0,00	0,00
+R044	43	1A2m	Đốt nhiên liệu trong công nghiệp chưa phân loại	CH4	9,56	9,34	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R045	44	1A2m	Đốt nhiên liệu trong công nghiệp chưa phân loại	N2O	13,59	13,33	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R046	45	1A3a	Giao thông vận tải hàng không	CO2	2.390,54	3382,46	5,0%	2,5%	5,6%	0,0000	0,0018	0,01	0,00	0,00	0,00
+R047	46	1A3a	Giao thông vận tải hàng không	CH4	0,47	0,66	5,0%	50,0%	50,2%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R048	47	1A3a	Giao thông vận tải hàng không	N2O	17,72	25,07	5,0%	75,0%	75,2%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R049	48	1A3b	Giao thông vận tải đường bộ	CO2	36.204,28	37.686,43	2,5%	3,5%	4,3%	0,0000	-0,0078	0,10	0,00	0,00	0,00
+R050	49	1A3b	Giao thông vận tải đường bộ	CH4	284,23	302,77	2,5%	20,0%	20,2%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R051	50	1A3b	Giao thông vận tải đường bộ	N2O	472,16	490,16	2,5%	25,0%	25,1%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R052	51	1A3c	Giao thông vận tải đường sắt	CO2	136,93	103,70	5,0%	5,0%	7,1%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R053	52	1A3c	Giao thông vận tải đường sắt	CH4	0,21	0,16	5,0%	20,0%	20,6%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R054	53	1A3c	Giao thông vận tải đường sắt	N2O	14,00	10,61	5,0%	25,0%	25,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R055	54	1A3d	Giao thông vận tải đường thủy và hàng hải nội địa	CO2	3.787,52	3559,43	25,0%	1,5%	25,0%	0,0000	-0,0018	0,01	0,00	0,00	0,00
+R056	55	1A3d	Giao thông vận tải đường thủy và hàng hải nội địa	CH4	9,94	9,30	25,0%	25,0%	35,4%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R057	56	1A3d	Giao thông vận tải đường thủy và hàng hải nội địa	N2O	26,87	25,15	25,0%	100,0%	103,1%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R058	57	1A4a	Năng lượng sử dụng trong thương mại và dịch vụ	CO2	1.253,09	1.138,27	20,0%	7,0%	21,2%	0,0000	-0,0007	0,00	0,00	0,00	0,00
+R059	58	1A4a	Năng lượng sử dụng trong thương mại và dịch vụ	CH4	23,18	24,22	20,0%	120,0%	121,7%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R060	59	1A4a	Năng lượng sử dụng trong thương mại và dịch vụ	N2O	2,36	1,66	20,0%	505,0%	505,4%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R061	60	1A4b	Năng lượng sử dụng trong dân dụng	CO2	6.307,75	5.776,89	20,0%	7,0%	21,2%	0,0000	-0,0034	0,02	0,00	0,00	0,00
+R062	61	1A4b	Năng lượng sử dụng trong dân dụng	CH4	1.338,15	535,06	20,0%	120,0%	121,7%	0,0000	-0,0026	0,00	0,00	0,00	0,00
+R063	62	1A4b	Năng lượng sử dụng trong dân dụng	N2O	154,77	63,66	20,0%	505,0%	505,4%	0,0000	-0,0003	0,00	0,00	0,00	0,00
+R064	63	1A4c	Năng lượng sử dụng trong nông, lâm nghiệp và thủy sản	CO2	6.993,99	7.463,58	20,0%	7,0%	21,2%	0,0000	-0,0010	0,02	0,00	0,01	0,00
+R065	64	1A4c	Năng lượng sử dụng trong nông, lâm nghiệp và thủy sản	CH4	149,54	189,98	20,0%	120,0%	121,7%	0,0000	0,0001	0,00	0,00	0,00	0,00
+R066	65	1A4c	Năng lượng sử dụng trong nông, lâm nghiệp và thủy sản	N2O	30,59	36,48	20,0%	505,0%	505,4%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R067	66	1B1ai	Phát tán do khai thác than hầm lò	CO2	269,58	324,73	2,5%	50,0%	50,1%	0,0000	0,0001	0,00	0,00	0,00	0,00
+R068	67	1B1ai	Phát tán do khai thác than hầm lò	CH4	814,58	981,25	3,6%	39,2%	39,4%	0,0000	0,0002	0,00	0,00	0,00	0,00
+R069	68	1B1aii	Phát tán do khai thác than lộ thiên	CO2	13,40	16,14	2,5%	100,0%	100,0%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R070	69	1B1aii	Phát tán do khai thác than lộ thiên	CH4	69,39	83,59	4,6%	92,3%	92,4%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R071	70	1B1c	Phát tán do chuyển hóa nhiên liệu (Sản xuất than và than sinh học)	CH4	269,91	291,54	2,5%	60,5%	60,6%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R072	71	1B1c	Phát tán do chuyển hóa nhiên liệu (Sản xuất than và than sinh học)	N2O	5,07	5,48	2,5%	81,5%	81,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R073	72	1B2a	Phát tán do khai thác dầu	CO2	119,07	132,98	11,3%	40,3%	41,8%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R074	73	1B2a	Phát tán do khai thác dầu	CH4	837,82	640,52	9,2%	327,2%	327,3%	0,0000	-0,0008	0,00	0,00	0,00	0,00
+R075	74	1B2a	Phát tán do khai thác dầu	N2O	0,33	0,42	12,5%	600,0%	600,1%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R076	75	1B2b	Phát tán do khai thác khí tự nhiên	CO2	257,57	214,56	11,6%	115,9%	116,5%	0,0000	-0,0002	0,00	0,00	0,00	0,00
+R077	76	1B2b	Phát tán do khai thác khí tự nhiên	CH4	2.398,77	1.998,15	11,8%	117,6%	118,2%	0,0000	-0,0018	0,01	0,00	0,00	0,00
+R078	77	1B2b	Phát tán do khai thác khí tự nhiên	N2O	0,22	0,18	12,5%	600,0%	600,1%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R079	78	2A1	Quá trình sản xuất xi măng	CO2	38834,48	41.483,03	15,0%	30,0%	33,5%	0,0011	-0,0056	0,11	0,00	0,02	0,00
+R080	79	2A2	Quá trình sản xuất vôi	CO2	3614,40	1.769,55	15,0%	2,0%	15,1%	0,0000	-0,0060	0,00	0,00	0,00	0,00
+R081	80	2A3	Quá trình sản xuất thủy tinh	CO2	626,06	592,14	5,0%	42,4%	42,7%	0,0000	-0,0003	0,00	0,00	0,00	0,00
+R082	81	2A4	Các hoạt động sử dụng cacbonat khác	CO2	0,62	567,14	10,0%	2,5%	10,3%	0,0000	0,0015	0,00	0,00	0,00	0,00
+R083	82	2B1	Quá trình sản xuất Amoniac	CO2	1749,28	2.089,47	4,0%	28,3%	28,6%	0,0000	0,0003	0,01	0,00	0,00	0,00
+R084	83	2B2	Quá trình sản xuất axít Nitric	N2O	29,68	31,80	2,0%	25,0%	25,1%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R085	84	2B5	Sản xuất Silic cacbua	CO2	157,20	157,20	2,5%	5,0%	5,6%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R086	85	2B5	Sản xuất Silic cacbua	CH4	19,49	19,49	2,5%	5,0%	5,6%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R087	86	2C1	Quá trình sản xuất sắt thép	CO2	20689,37	23.962,42	8,9%	22,3%	24,1%	0,0002	0,0019	0,06	0,00	0,01	0,00
+R088	87	2D1	Sử dụng chất bôi trơn	CO2	175,84	56,00	15,0%	50,0%	52,2%	0,0000	-0,0004	0,00	0,00	0,00	0,00
+R089	88	2D2	Sử dụng sáp paraphin	CO2	204,88	-	15,0%	100,0%	101,1%	0,0000	-0,0006	0,00	0,00	0,00	0,00
+R090	89	2F	Sử dụng sản phẩm thay thế cho các chất làm suy giảm tầng ô-dôn	HFCs	4653,11	10.728,09	9,6%	12,8%	16,1%	0,0000	0,0145	0,03	0,00	0,00	0,00
+R091	90	3A1a	Tiêu hóa thức ăn của bò sữa	CH4	642,93	710,24	12,0%	40,0%	41,8%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R092	91	3A1b	Tiêu hóa thức ăn của bò thịt	CH4	9118,60	9.114,18	12,0%	40,0%	41,8%	0,0001	-0,0030	0,02	0,00	0,00	0,00
+R093	92	3A2	Tiêu hóa thức ăn của cừu	CH4	21,00	15,18	12,0%	40,0%	41,8%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R094	93	3A3	Tiêu hóa thức ăn của lợn	CH4	835,26	692,87	12,0%	40,0%	41,8%	0,0000	-0,0006	0,00	0,00	0,00	0,00
+R095	94	3A4a	Tiêu hóa thức ăn của trâu	CH4	5292,12	4.747,78	12,0%	40,0%	41,8%	0,0000	-0,0032	0,01	0,00	0,00	0,00
+R096	95	3A4d	Tiêu hóa thức ăn của dê	CH4	375,75	393,14	12,0%	40,0%	41,8%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R097	96	3A4e	Tiêu hóa thức ăn của ngựa	CH4	26,95	24,47	12,0%	40,0%	41,8%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R098	97	3B1a	Quản lý chất thải vật nuôi của bò sữa	CH4	87,41	28,13	12,0%	16,0%	20,0%	0,0000	-0,0002	0,00	0,00	0,00	0,00
+R099	98	3B1a	Quản lý chất thải vật nuôi của bò sữa	N2O	94,27	47,78	20,8%	198,4%	199,5%	0,0000	-0,0002	0,00	0,00	0,00	0,00
+R100	99	3B1b	Quản lý chất thải vật nuôi của bò thịt	CH4	532,09	485,26	12,0%	16,0%	20,0%	0,0000	-0,0003	0,00	0,00	0,00	0,00
+R101	100	3B1b	Quản lý chất thải vật nuôi của bò thịt	N2O	508,01	427,13	20,8%	198,4%	199,5%	0,0000	-0,0004	0,00	0,00	0,00	0,00
+R102	101	3B2	Quản lý chất thải vật nuôi của cừu	CH4	2,57	0,59	12,0%	30,0%	32,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R103	102	3B2	Quản lý chất thải vật nuôi của cừu	N2O	5,65	3,20	20,8%	198,4%	199,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R104	103	3B3	Quản lý chất thải vật nuôi của lợn	CH4	1827,77	2.840,70	12,0%	30,0%	32,3%	0,0000	0,0021	0,01	0,00	0,00	0,00
+R105	104	3B3	Quản lý chất thải vật nuôi của lợn	N2O	1319,24	96,28	20,8%	198,4%	199,5%	0,0000	-0,0037	0,00	-0,01	0,00	0,00
+R106	105	3B4a	Quản lý chất thải vật nuôi của trâu	CH4	286,89	149,34	12,0%	30,0%	32,3%	0,0000	-0,0005	0,00	0,00	0,00	0,00
+R107	106	3B4a	Quản lý chất thải vật nuôi của trâu	N2O	234,63	194,97	20,8%	198,4%	199,5%	0,0000	-0,0002	0,00	0,00	0,00	0,00
+R108	107	3B4d	Quản lý chất thải vật nuôi của dê	CH4	40,08	18,79	12,0%	30,0%	32,3%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R109	108	3B4d	Quản lý chất thải vật nuôi của dê	N2O	113,87	93,30	20,8%	198,4%	199,5%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R110	109	3B4e	Quản lý chất thải vật nuôi của ngựa	CH4	5,13	2,76	12,0%	30,0%	32,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R111	110	3B4e	Quản lý chất thải vật nuôi của ngựa	N2O	4,66	3,19	20,8%	198,4%	199,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R112	111	3B4g	Quản lý chất thải vật nuôi của gia cầm	CH4	1007,99	325,01	12,0%	30,0%	32,3%	0,0000	-0,0021	0,00	0,00	0,00	0,00
+R113	112	3B4g	Quản lý chất thải vật nuôi của gia cầm	N2O	1187,92	971,57	20,8%	198,4%	199,5%	0,0000	-0,0010	0,00	0,00	0,00	0,00
+R114	113	3B5	Phát thải N2O gián tiếp của quản lý chất thải vật nuôi	N2O	259,97	263,80	12,0%	109,7%	110,4%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R115	114	3C	Canh tác lúa	CH4	49283,98	44.593,21	30,0%	55,6%	63,2%	0,0044	-0,0283	0,12	-0,02	0,05	0,00
+R116	115	3D1	Phát thải N2O trực tiếp của đất	N2O	8278,19	8.575,55	50,0%	125,8%	135,4%	0,0007	-0,0019	0,02	0,00	0,02	0,00
+R117	116	3D2	Phát thải N2O gián tiếp của đất	N2O	4017,45	4.066,47	50,0%	152,5%	160,5%	0,0002	-0,0012	0,01	0,00	0,01	0,00
+R118	117	3F	Đốt phụ phẩm nông nghiệp ngoài đồng	CH4	1400,09	1.400,09	51,0%	70,7%	87,2%	0,0000	-0,0005	0,00	0,00	0,00	0,00
+R119	118	3F	Đốt phụ phẩm nông nghiệp ngoài đồng	N2O	343,54	343,54	51,0%	70,7%	87,2%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R120	119	3G	Sử dụng vôi trong canh tác	CO2	605,88	605,88	42,4%	70,7%	82,4%	0,0000	-0,0002	0,00	0,00	0,00	0,00
+R121	120	3H	Bón phân Ure	CO2	1378,67	1.276,00	17,3%	37,1%	40,9%	0,0000	-0,0007	0,00	0,00	0,00	0,00
+R122	121	4A1	Đất rừng nguyên trạng	CO2	-40902,61	-        39.840,58	31,7%	68,4%	75,4%	0,0050	0,0161	0,11	0,01	0,05	0,00
+R123	122	4A2a	Đất trồng trọt chuyển đổi thành đất rừng	CO2	-336,89	-          1.895,12	15,0%	90,1%	91,4%	0,0000	-0,0040	0,01	0,00	0,00	0,00
+R124	123	4A2b	Đất cỏ chuyển đổi thành đất rừng	CO2	-11076,52	-          4.223,02	15,0%	90,1%	91,4%	0,0001	0,0217	0,01	0,02	0,00	0,00
+R125	124	4A2c	Đất ngập nước chuyển đổi thành đất rừng	CO2	-22,69	-               40,69	15,0%	50,0%	52,2%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R126	125	4A2d	Đất ở chuyển đổi thành đất rừng	CO2	-132,05	-                 0,10	15,0%	50,0%	52,2%	0,0000	0,0004	0,00	0,00	0,00	0,00
+R127	126	4A2e	Đất khác chuyển đổi thành đất rừng	CO2	-263,79	-          2.098,10	15,0%	50,0%	52,2%	0,0000	-0,0048	0,01	0,00	0,00	0,00
+R128	127	4B1	Đất trồng trọt nguyên trạng	CO2	225,17	-             307,08	14,1%	117,2%	118,0%	0,0000	-0,0015	0,00	0,00	0,00	0,00
+R129	128	4B2a	Đất rừng chuyển đổi thành đất trồng trọt	CO2	5833,07	309,77	14,1%	156,0%	156,7%	0,0000	-0,0165	0,00	-0,03	0,00	0,00
+R130	129	4B2b	Đất cỏ chuyển đổi thành đất trồng trọt	CO2	-1629,65	-          2.199,16	15,0%	139,2%	140,0%	0,0001	-0,0010	0,01	0,00	0,00	0,00
+R131	130	4B2c	Đất ngập nước chuyển đổi thành đất trồng trọt	CO2	-275,30	-               97,45	15,0%	117,3%	118,2%	0,0000	0,0006	0,00	0,00	0,00	0,00
+R132	131	4B2d	Đất ở chuyển đổi thành đất trồng trọt	CO2	-43,16	-                 0,02	15,0%	117,3%	118,2%	0,0000	0,0001	0,00	0,00	0,00	0,00
+R133	132	4B2e	Đất khác chuyển đổi thành đất trồng trọt	CO2	-160,01	-               59,72	15,0%	117,3%	118,2%	0,0000	0,0003	0,00	0,00	0,00	0,00
+R134	133	4C2a	Đất rừng chuyển đổi thành đất cỏ	CO2	344,99	78,16	15,0%	127,5%	128,4%	0,0000	-0,0008	0,00	0,00	0,00	0,00
+R135	134	4C2b	Đất trồng trọt chuyển đổi thành đất cỏ	CO2	5,63	46,93	15,0%	139,2%	140,0%	0,0000	0,0001	0,00	0,00	0,00	0,00
+R136	135	4C2c	Đất ngập nước chuyển đổi thành đất cỏ	CO2	-0,19	-                 0,17	15,0%	117,3%	118,2%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R137	136	4C2d	Đất ở chuyển đổi thành đất cỏ	CO2	-0,28	-	15,0%	117,3%	118,2%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R138	137	4C2e	Đất khác chuyển đổi thành đất cỏ	CO2	-1,99	-                 1,26	15,0%	117,3%	118,2%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R139	138	4D2ci	Đất rừng chuyển đổi thành đất ngập nước khác	CO2	651,21	132,42	15,0%	50,0%	52,2%	0,0000	-0,0016	0,00	0,00	0,00	0,00
+R140	139	4D2cii	Đất trồng trọt chuyển đổi thành đất ngập nước khác	CO2	128,20	78,90	15,0%	75,0%	76,5%	0,0000	-0,0002	0,00	0,00	0,00	0,00
+R141	140	4D2ciii	Đất cỏ chuyển đổi thành đất ngập nước khác	CO2	9,45	24,93	15,0%	75,0%	76,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R142	141	4E2a	Đất rừng chuyển đổi thành đất ở	CO2	113,98	125,20	18,0%	103,0%	104,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R143	142	4E2b	Đất trồng trọt chuyển đổi thành đất ở	CO2	157,71	240,20	15,0%	75,0%	76,5%	0,0000	0,0002	0,00	0,00	0,00	0,00
+R144	143	4E2c	Đất cỏ chuyển đổi thành đất ở	CO2	9,63	80,99	15,0%	75,0%	76,5%	0,0000	0,0002	0,00	0,00	0,00	0,00
+R145	144	4F2a	Đất rừng chuyển đổi thành đất khác	CO2	101,39	1.280,81	15,0%	50,0%	52,2%	0,0000	0,0031	0,00	0,00	0,00	0,00
+R146	145	4F2b	Đất trồng trọt chuyển đổi thành đất khác	CO2	14,91	146,62	15,0%	75,0%	76,5%	0,0000	0,0003	0,00	0,00	0,00	0,00
+R147	146	4F2c	Đất cỏ chuyển đổi thành đất khác	CO2	10,74	114,95	15,0%	75,0%	76,5%	0,0000	0,0003	0,00	0,00	0,00	0,00
+R148	147	4(II)A	Phát thải N2O từ đất trong quá trình tiêu nước của đất rừng	N2O	110,01	1,00	50,0%	125,8%	135,4%	0,0000	-0,0003	0,00	0,00	0,00	0,00
+R149	148	4(IV)A	Đốt sinh khối từ đất rừng	CH4	2,25	0,13	10,0%	33,8%	35,2%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R150	149	4(IV)A	Đốt sinh khối từ đất rừng	N2O	1,18	0,07	10,0%	16,6%	19,4%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R151	150	4(IV)B	Đốt sinh khối từ đất trồng trọt	CH4	122,82	93,46	37,0%	15,0%	39,9%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R152	151	4(IV)B	Đốt sinh khối từ đất trồng trọt	N2O	64,30	48,93	22,4%	14,6%	26,7%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R153	152	4(IV)C	Đốt sinh khối từ đất cỏ	CH4	8,21	14,60	34,5%	14,6%	37,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R154	153	4(IV)C	Đốt sinh khối từ đất cỏ	N2O	4,94	8,28	24,8%	15,7%	29,4%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R155	154	4(IV)F	Đốt sinh khối từ các loại đất khác	CH4	15,88	15,30	61,2%	51,0%	79,7%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R156	155	4(IV)F	Đốt sinh khối từ các loại đất khác	N2O	8,48	8,01	53,6%	51,0%	74,0%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R157	156	5A	Phát thải từ bãi chôn lấp chất thải rắn	CH4	17.590,52	22.718,35	17,3%	20,6%	26,8%	0,0002	0,0078	0,06	0,00	0,01	0,00
+R158	157	5B	Phát thải từ xử lý chất thải rắn bằng phường pháp sinh học	CH4	264,20	353,41	40,0%	4,0%	40,2%	0,0000	0,0001	0,00	0,00	0,00	0,00
+R159	158	5B	Phát thải từ xử lý chất thải rắn bằng phường pháp sinh học	N2O	150,03	200,69	40,0%	60,0%	72,1%	0,0000	0,0001	0,00	0,00	0,00	0,00
+R160	159	5C1	Thiêu đốt chất thải	CO2	1.992,64	2.036,72	50,0%	40,0%	64,0%	0,0000	-0,0005	0,01	0,00	0,00	0,00
+R161	160	5C1	Thiêu đốt chất thải	CH4	0,40	0,47	50,0%	80,0%	94,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R162	161	5C1	Thiêu đốt chất thải	N2O	26,01	30,39	50,0%	80,0%	94,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R163	162	5C2	Đốt lộ thiên chất thải	CO2	1649,39	1.117,49	50,0%	43,3%	66,1%	0,0000	-0,0019	0,00	0,00	0,00	0,00
+R164	163	5C2	Đốt lộ thiên chất thải	CH4	435,90	317,00	50,0%	85,0%	98,6%	0,0000	-0,0005	0,00	0,00	0,00	0,00
+R165	164	5C2	Đốt lộ thiên chất thải	N2O	61,90	43,63	50,0%	85,0%	98,6%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R166	165	5D1	Xử lý và xả thải nước thải sinh hoạt	CH4	5.372,47	5.705,29	19,5%	13,2%	23,6%	0,0000	-0,0009	0,02	0,00	0,00	0,00
+R167	166	5D1	Xử lý và xả thải nước thải sinh hoạt	N2O	404,88	21,61	142,5%	10,0%	142,8%	0,0000	-0,0011	0,00	0,00	0,00	0,00
+R168	167	5D2	Xử lý và xả thải nước thải công nghiệp	CH4	2.969,85	4.788,53	32,0%	32,4%	45,5%	0,0000	0,0038	0,01	0,00	0,01	0,00
+R169	168	5D2	Xử lý và xả thải nước thải công nghiệp	CH4	85,78	84,30	32,0%	32,4%	45,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R170														Độ KCC theo xu thế	9,8%
+
+=== TABLE 29 (136x15) ===
+R000		Mã PL	Nguồn phát thải/hấp thụ	KNK	Phát thải/Hấp thụ năm 2018
+(Gg CO2tđ)	Phát thải/Hấp thụ năm 2022
+(Gg CO2tđ)	Độ KCC cúa SLHĐ	Độ KCC của HSPT/ Thông số	Độ KCC của Phát thải/ Hấp thụ	Phần đóng góp vào phương sai của mỗi nguồn phát thải/hấp thụ năm 2022	Độ nhạy loại A	Độ nhạy loại B	Độ KCC theo xu thế của HSPT/Thông số	Độ KCC theo xu thế của SLHĐ	Độ KCC theo xu thế của phát thải quốc gia
+R001			A	B	C	D	E	F	G	H	I	J	K	L	M
+R002	1	1A1ai	Đốt nhiên liệu để sản xuất điện	CO2	108.475,76	119.695,83	7,5%	7,0%	10,3%	0,0008	-0,0055	0,32	0,00	0,03	0,00
+R003	2	1A1ai	Đốt nhiên liệu để sản xuất điện	CH4	65,23	82,43	7,5%	100,0%	100,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R004	3	1A1ai	Đốt nhiên liệu để sản xuất điện	N2O	419,89	500,93	7,5%	505,0%	505,1%	0,0000	0,0001	0,00	0,00	0,00	0,00
+R005	4	1A1b	Đốt nhiên liệu để lọc hóa dầu	CO2	3.024,37	4.122,98	7,5%	7,0%	10,3%	0,0000	0,0019	0,01	0,00	0,00	0,00
+R006	5	1A1b	Đốt nhiên liệu để lọc hóa dầu	CH4	3,47	4,72	7,5%	100,0%	100,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R007	6	1A1b	Đốt nhiên liệu để lọc hóa dầu	N2O	6,56	8,94	7,5%	505,0%	505,1%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R008	7	1A1ci	Đốt làm than củi	CH4	224,33	242,30	7,5%	100,0%	100,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R009	8	1A1ci	Đốt làm than củi	N2O	42,46	45,86	7,5%	505,0%	505,1%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R010	9	1A2a	Đốt nhiên liệu để sản xuất sắt thép	CO2	4.853,29	9.137,84	7,5%	7,0%	10,3%	0,0000	0,0097	0,02	0,00	0,00	0,00
+R011	10	1A2a	Đốt nhiên liệu để sản xuất sắt thép	CH4	11,52	18,32	7,5%	100,0%	100,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R012	11	1A2a	Đốt nhiên liệu để sản xuất sắt thép	N2O	16,30	27,48	7,5%	505,0%	505,1%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R013	12	1A2c	Đốt nhiên liệu để sản xuất hóa chất và hóa dầu	CO2	3774,18	5.288,16	17,5%	7,0%	18,8%	0,0000	0,0028	0,01	0,00	0,00	0,00
+R014	13	1A2c	Đốt nhiên liệu để sản xuất hóa chất và hóa dầu	CH4	8,68	11,73	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R015	14	1A2c	Đốt nhiên liệu để sản xuất hóa chất và hóa dầu	N2O	12,24	16,68	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R016	15	1A2d	Đốt nhiên liệu để sản xuất giấy, bột giấy và in ấn	CO2	2334,93	2.873,09	17,5%	7,0%	18,8%	0,0000	0,0007	0,01	0,00	0,00	0,00
+R017	16	1A2d	Đốt nhiên liệu để sản xuất giấy, bột giấy và in ấn	CH4	6,51	7,91	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R018	17	1A2d	Đốt nhiên liệu để sản xuất giấy, bột giấy và in ấn	N2O	9,26	11,28	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R019	18	1A2e	Đốt nhiên liệu để sản xuất thực phẩm, đồ uống và thuốc lá	CO2	2475,81	2.545,16	17,5%	7,0%	18,8%	0,0000	-0,0006	0,01	0,00	0,00	0,00
+R020	19	1A2e	Đốt nhiên liệu để sản xuất thực phẩm, đồ uống và thuốc lá	CH4	72,20	88,94	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R021	20	1A2e	Đốt nhiên liệu để sản xuất thực phẩm, đồ uống và thuốc lá	N2O	92,23	113,45	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R022	21	1A2f	Đốt nhiên liệu để sản xuất khoáng phi kim	CO2	30463,21	45.845,94	17,5%	7,0%	18,8%	0,0004	0,0307	0,12	0,00	0,03	0,00
+R023	22	1A2f	Đốt nhiên liệu để sản xuất khoáng phi kim	CH4	98,69	143,44	17,5%	100,0%	101,5%	0,0000	0,0001	0,00	0,00	0,00	0,00
+R024	23	1A2f	Đốt nhiên liệu để sản xuất khoáng phi kim	N2O	138,03	201,58	17,5%	505,0%	505,3%	0,0000	0,0001	0,00	0,00	0,00	0,00
+R025	24	1A2g	Đốt nhiên liệu để sản xuất thiết bị giao thông vận tải	CO2	259,01	410,00	17,5%	7,0%	18,8%	0,0000	0,0003	0,00	0,00	0,00	0,00
+R026	25	1A2g	Đốt nhiên liệu để sản xuất thiết bị giao thông vận tải	CH4	0,17	0,32	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R027	26	1A2g	Đốt nhiên liệu để sản xuất thiết bị giao thông vận tải	N2O	0,25	0,51	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R028	27	1A2h	Đốt nhiên liệu để sản xuất máy móc và thiết bị	CO2	461,82	729,80	17,5%	7,0%	18,8%	0,0000	0,0006	0,00	0,00	0,00	0,00
+R029	28	1A2h	Đốt nhiên liệu để sản xuất máy móc và thiết bị	CH4	0,31	0,57	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R030	29	1A2h	Đốt nhiên liệu để sản xuất máy móc và thiết bị	N2O	0,44	0,91	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R031	30	1A2i	Đốt nhiên liệu để khai khoáng và đá	CO2	2351,31	3690,12	17,5%	7,0%	18,8%	0,0000	0,0028	0,01	0,00	0,00	0,00
+R032	31	1A2i	Đốt nhiên liệu để khai khoáng và đá	CH4	5,27	6,76	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R033	32	1A2i	Đốt nhiên liệu để khai khoáng và đá	N2O	7,93	10,77	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R034	33	1A2j	Đốt nhiên liệu để sản xuất gỗ và các sản phẩm từ gỗ	CO2	71,39	198,88	17,5%	7,0%	18,8%	0,0000	0,0003	0,00	0,00	0,00	0,00
+R035	34	1A2j	Đốt nhiên liệu để sản xuất gỗ và các sản phẩm từ gỗ	CH4	19,60	29,37	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R036	35	1A2j	Đốt nhiên liệu để sản xuất gỗ và các sản phẩm từ gỗ	N2O	24,78	37,19	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R037	36	1A2k	Đốt nhiên liệu trong xây dựng	CO2	1406,50	910,45	17,5%	7,0%	18,8%	0,0000	-0,0018	0,00	0,00	0,00	0,00
+R038	37	1A2k	Đốt nhiên liệu trong xây dựng	CH4	1,78	1,11	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R039	38	1A2k	Đốt nhiên liệu trong xây dựng	N2O	3,21	2,02	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R040	39	1A2l	Đốt nhiên liệu trong công nghiệp dệt may và đồ da	CO2	5489,59	5.875,12	17,5%	7,0%	18,8%	0,0000	-0,0008	0,02	0,00	0,00	0,00
+R041	40	1A2l	Đốt nhiên liệu trong công nghiệp dệt may và đồ da	CH4	43,23	53,31	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R042	41	1A2l	Đốt nhiên liệu trong công nghiệp dệt may và đồ da	N2O	57,01	69,95	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R043	42	1A2m	Đốt nhiên liệu trong công nghiệp chưa phân loại	CO2	3440,15	3.425,07	17,5%	7,0%	18,8%	0,0000	-0,0012	0,01	0,00	0,00	0,00
+R044	43	1A2m	Đốt nhiên liệu trong công nghiệp chưa phân loại	CH4	9,56	9,34	17,5%	100,0%	101,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R045	44	1A2m	Đốt nhiên liệu trong công nghiệp chưa phân loại	N2O	13,59	13,33	17,5%	505,0%	505,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R046	45	1A3a	Giao thông vận tải hàng không	CO2	2.390,54	3382,46	5,0%	2,5%	5,6%	0,0000	0,0018	0,01	0,00	0,00	0,00
+R047	46	1A3a	Giao thông vận tải hàng không	CH4	0,47	0,66	5,0%	50,0%	50,2%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R048	47	1A3a	Giao thông vận tải hàng không	N2O	17,72	25,07	5,0%	75,0%	75,2%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R049	48	1A3b	Giao thông vận tải đường bộ	CO2	36.204,28	37.686,43	2,5%	3,5%	4,3%	0,0000	-0,0078	0,10	0,00	0,00	0,00
+R050	49	1A3b	Giao thông vận tải đường bộ	CH4	284,23	302,77	2,5%	20,0%	20,2%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R051	50	1A3b	Giao thông vận tải đường bộ	N2O	472,16	490,16	2,5%	25,0%	25,1%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R052	51	1A3c	Giao thông vận tải đường sắt	CO2	136,93	103,70	5,0%	5,0%	7,1%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R053	52	1A3c	Giao thông vận tải đường sắt	CH4	0,21	0,16	5,0%	20,0%	20,6%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R054	53	1A3c	Giao thông vận tải đường sắt	N2O	14,00	10,61	5,0%	25,0%	25,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R055	54	1A3d	Giao thông vận tải đường thủy và hàng hải nội địa	CO2	3.787,52	3559,43	25,0%	1,5%	25,0%	0,0000	-0,0018	0,01	0,00	0,00	0,00
+R056	55	1A3d	Giao thông vận tải đường thủy và hàng hải nội địa	CH4	9,94	9,30	25,0%	25,0%	35,4%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R057	56	1A3d	Giao thông vận tải đường thủy và hàng hải nội địa	N2O	26,87	25,15	25,0%	100,0%	103,1%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R058	57	1A4a	Năng lượng sử dụng trong thương mại và dịch vụ	CO2	1.253,09	1.138,27	20,0%	7,0%	21,2%	0,0000	-0,0007	0,00	0,00	0,00	0,00
+R059	58	1A4a	Năng lượng sử dụng trong thương mại và dịch vụ	CH4	23,18	24,22	20,0%	120,0%	121,7%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R060	59	1A4a	Năng lượng sử dụng trong thương mại và dịch vụ	N2O	2,36	1,66	20,0%	505,0%	505,4%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R061	60	1A4b	Năng lượng sử dụng trong dân dụng	CO2	6.307,75	5.776,89	20,0%	7,0%	21,2%	0,0000	-0,0034	0,02	0,00	0,00	0,00
+R062	61	1A4b	Năng lượng sử dụng trong dân dụng	CH4	1.338,15	535,06	20,0%	120,0%	121,7%	0,0000	-0,0026	0,00	0,00	0,00	0,00
+R063	62	1A4b	Năng lượng sử dụng trong dân dụng	N2O	154,77	63,66	20,0%	505,0%	505,4%	0,0000	-0,0003	0,00	0,00	0,00	0,00
+R064	63	1A4c	Năng lượng sử dụng trong nông, lâm nghiệp và thủy sản	CO2	6.993,99	7.463,58	20,0%	7,0%	21,2%	0,0000	-0,0010	0,02	0,00	0,01	0,00
+R065	64	1A4c	Năng lượng sử dụng trong nông, lâm nghiệp và thủy sản	CH4	149,54	189,98	20,0%	120,0%	121,7%	0,0000	0,0001	0,00	0,00	0,00	0,00
+R066	65	1A4c	Năng lượng sử dụng trong nông, lâm nghiệp và thủy sản	N2O	30,59	36,48	20,0%	505,0%	505,4%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R067	66	1B1ai	Phát tán do khai thác than hầm lò	CO2	269,58	324,73	2,5%	50,0%	50,1%	0,0000	0,0001	0,00	0,00	0,00	0,00
+R068	67	1B1ai	Phát tán do khai thác than hầm lò	CH4	814,58	981,25	3,6%	39,2%	39,4%	0,0000	0,0002	0,00	0,00	0,00	0,00
+R069	68	1B1aii	Phát tán do khai thác than lộ thiên	CO2	13,40	16,14	2,5%	100,0%	100,0%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R070	69	1B1aii	Phát tán do khai thác than lộ thiên	CH4	69,39	83,59	4,6%	92,3%	92,4%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R071	70	1B1c	Phát tán do chuyển hóa nhiên liệu (Sản xuất than và than sinh học)	CH4	269,91	291,54	2,5%	60,5%	60,6%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R072	71	1B1c	Phát tán do chuyển hóa nhiên liệu (Sản xuất than và than sinh học)	N2O	5,07	5,48	2,5%	81,5%	81,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R073	72	1B2a	Phát tán do khai thác dầu	CO2	119,07	132,98	11,3%	40,3%	41,8%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R074	73	1B2a	Phát tán do khai thác dầu	CH4	837,82	640,52	9,2%	327,2%	327,3%	0,0000	-0,0008	0,00	0,00	0,00	0,00
+R075	74	1B2a	Phát tán do khai thác dầu	N2O	0,33	0,42	12,5%	600,0%	600,1%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R076	75	1B2b	Phát tán do khai thác khí tự nhiên	CO2	257,57	214,56	11,6%	115,9%	116,5%	0,0000	-0,0002	0,00	0,00	0,00	0,00
+R077	76	1B2b	Phát tán do khai thác khí tự nhiên	CH4	2.398,77	1.998,15	11,8%	117,6%	118,2%	0,0000	-0,0018	0,01	0,00	0,00	0,00
+R078	77	1B2b	Phát tán do khai thác khí tự nhiên	N2O	0,22	0,18	12,5%	600,0%	600,1%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R079	78	2A1	Quá trình sản xuất xi măng	CO2	38834,48	41.483,03	15,0%	30,0%	33,5%	0,0011	-0,0056	0,11	0,00	0,02	0,00
+R080	79	2A2	Quá trình sản xuất vôi	CO2	3614,40	1.769,55	15,0%	2,0%	15,1%	0,0000	-0,0060	0,00	0,00	0,00	0,00
+R081	80	2A3	Quá trình sản xuất thủy tinh	CO2	626,06	592,14	5,0%	42,4%	42,7%	0,0000	-0,0003	0,00	0,00	0,00	0,00
+R082	81	2A4	Các hoạt động sử dụng cacbonat khác	CO2	0,62	567,14	10,0%	2,5%	10,3%	0,0000	0,0015	0,00	0,00	0,00	0,00
+R083	82	2B1	Quá trình sản xuất Amoniac	CO2	1749,28	2.089,47	4,0%	28,3%	28,6%	0,0000	0,0003	0,01	0,00	0,00	0,00
+R084	83	2B2	Quá trình sản xuất axít Nitric	N2O	29,68	31,80	2,0%	25,0%	25,1%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R085	84	2B5	Sản xuất Silic cacbua	CO2	157,20	157,20	2,5%	5,0%	5,6%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R086	85	2B5	Sản xuất Silic cacbua	CH4	19,49	19,49	2,5%	5,0%	5,6%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R087	86	2C1	Quá trình sản xuất sắt thép	CO2	20689,37	23.962,42	8,9%	22,3%	24,1%	0,0002	0,0019	0,06	0,00	0,01	0,00
+R088	87	2D1	Sử dụng chất bôi trơn	CO2	175,84	56,00	15,0%	50,0%	52,2%	0,0000	-0,0004	0,00	0,00	0,00	0,00
+R089	88	2D2	Sử dụng sáp paraphin	CO2	204,88	-	15,0%	100,0%	101,1%	0,0000	-0,0006	0,00	0,00	0,00	0,00
+R090	89	2F	Sử dụng sản phẩm thay thế cho các chất làm suy giảm tầng ô-dôn	HFCs	4653,11	10.728,09	9,6%	12,8%	16,1%	0,0000	0,0145	0,03	0,00	0,00	0,00
+R091	90	3A1a	Tiêu hóa thức ăn của bò sữa	CH4	642,93	710,24	12,0%	40,0%	41,8%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R092	91	3A1b	Tiêu hóa thức ăn của bò thịt	CH4	9118,60	9.114,18	12,0%	40,0%	41,8%	0,0001	-0,0030	0,02	0,00	0,00	0,00
+R093	92	3A2	Tiêu hóa thức ăn của cừu	CH4	21,00	15,18	12,0%	40,0%	41,8%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R094	93	3A3	Tiêu hóa thức ăn của lợn	CH4	835,26	692,87	12,0%	40,0%	41,8%	0,0000	-0,0006	0,00	0,00	0,00	0,00
+R095	94	3A4a	Tiêu hóa thức ăn của trâu	CH4	5292,12	4.747,78	12,0%	40,0%	41,8%	0,0000	-0,0032	0,01	0,00	0,00	0,00
+R096	95	3A4d	Tiêu hóa thức ăn của dê	CH4	375,75	393,14	12,0%	40,0%	41,8%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R097	96	3A4e	Tiêu hóa thức ăn của ngựa	CH4	26,95	24,47	12,0%	40,0%	41,8%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R098	97	3B1a	Quản lý chất thải vật nuôi của bò sữa	CH4	87,41	28,13	12,0%	16,0%	20,0%	0,0000	-0,0002	0,00	0,00	0,00	0,00
+R099	98	3B1a	Quản lý chất thải vật nuôi của bò sữa	N2O	94,27	47,78	20,8%	198,4%	199,5%	0,0000	-0,0002	0,00	0,00	0,00	0,00
+R100	99	3B1b	Quản lý chất thải vật nuôi của bò thịt	CH4	532,09	485,26	12,0%	16,0%	20,0%	0,0000	-0,0003	0,00	0,00	0,00	0,00
+R101	100	3B1b	Quản lý chất thải vật nuôi của bò thịt	N2O	508,01	427,13	20,8%	198,4%	199,5%	0,0000	-0,0004	0,00	0,00	0,00	0,00
+R102	101	3B2	Quản lý chất thải vật nuôi của cừu	CH4	2,57	0,59	12,0%	30,0%	32,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R103	102	3B2	Quản lý chất thải vật nuôi của cừu	N2O	5,65	3,20	20,8%	198,4%	199,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R104	103	3B3	Quản lý chất thải vật nuôi của lợn	CH4	1827,77	2.840,70	12,0%	30,0%	32,3%	0,0000	0,0021	0,01	0,00	0,00	0,00
+R105	104	3B3	Quản lý chất thải vật nuôi của lợn	N2O	1319,24	96,28	20,8%	198,4%	199,5%	0,0000	-0,0037	0,00	-0,01	0,00	0,00
+R106	105	3B4a	Quản lý chất thải vật nuôi của trâu	CH4	286,89	149,34	12,0%	30,0%	32,3%	0,0000	-0,0005	0,00	0,00	0,00	0,00
+R107	106	3B4a	Quản lý chất thải vật nuôi của trâu	N2O	234,63	194,97	20,8%	198,4%	199,5%	0,0000	-0,0002	0,00	0,00	0,00	0,00
+R108	107	3B4d	Quản lý chất thải vật nuôi của dê	CH4	40,08	18,79	12,0%	30,0%	32,3%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R109	108	3B4d	Quản lý chất thải vật nuôi của dê	N2O	113,87	93,30	20,8%	198,4%	199,5%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R110	109	3B4e	Quản lý chất thải vật nuôi của ngựa	CH4	5,13	2,76	12,0%	30,0%	32,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R111	110	3B4e	Quản lý chất thải vật nuôi của ngựa	N2O	4,66	3,19	20,8%	198,4%	199,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R112	111	3B4g	Quản lý chất thải vật nuôi của gia cầm	CH4	1007,99	325,01	12,0%	30,0%	32,3%	0,0000	-0,0021	0,00	0,00	0,00	0,00
+R113	112	3B4g	Quản lý chất thải vật nuôi của gia cầm	N2O	1187,92	971,57	20,8%	198,4%	199,5%	0,0000	-0,0010	0,00	0,00	0,00	0,00
+R114	113	3B5	Phát thải N2O gián tiếp của quản lý chất thải vật nuôi	N2O	259,97	263,80	12,0%	109,7%	110,4%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R115	114	3C	Canh tác lúa	CH4	49283,98	44.593,21	30,0%	55,6%	63,2%	0,0044	-0,0283	0,12	-0,02	0,05	0,00
+R116	115	3D1	Phát thải N2O trực tiếp của đất	N2O	8278,19	8.575,55	50,0%	125,8%	135,4%	0,0007	-0,0019	0,02	0,00	0,02	0,00
+R117	116	3D2	Phát thải N2O gián tiếp của đất	N2O	4017,45	4.066,47	50,0%	152,5%	160,5%	0,0002	-0,0012	0,01	0,00	0,01	0,00
+R118	117	3F	Đốt phụ phẩm nông nghiệp ngoài đồng	CH4	1400,09	1.400,09	51,0%	70,7%	87,2%	0,0000	-0,0005	0,00	0,00	0,00	0,00
+R119	118	3F	Đốt phụ phẩm nông nghiệp ngoài đồng	N2O	343,54	343,54	51,0%	70,7%	87,2%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R120	119	3G	Sử dụng vôi trong canh tác	CO2	605,88	605,88	42,4%	70,7%	82,4%	0,0000	-0,0002	0,00	0,00	0,00	0,00
+R121	120	3H	Bón phân Ure	CO2	1378,67	1.276,00	17,3%	37,1%	40,9%	0,0000	-0,0007	0,00	0,00	0,00	0,00
+R122	121	5A	Phát thải từ bãi chôn lấp chất thải rắn	CH4	17.590,52	22.718,35	17,3%	20,6%	26,8%	0,0002	0,0078	0,06	0,00	0,01	0,00
+R123	122	5B	Phát thải từ xử lý chất thải rắn bằng phường pháp sinh học	CH4	264,20	353,41	40,0%	4,0%	40,2%	0,0000	0,0001	0,00	0,00	0,00	0,00
+R124	123	5B	Phát thải từ xử lý chất thải rắn bằng phường pháp sinh học	N2O	150,03	200,69	40,0%	60,0%	72,1%	0,0000	0,0001	0,00	0,00	0,00	0,00
+R125	124	5C1	Thiêu đốt chất thải	CO2	1.992,64	2.036,72	50,0%	40,0%	64,0%	0,0000	-0,0005	0,01	0,00	0,00	0,00
+R126	125	5C1	Thiêu đốt chất thải	CH4	0,40	0,47	50,0%	80,0%	94,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R127	126	5C1	Thiêu đốt chất thải	N2O	26,01	30,39	50,0%	80,0%	94,3%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R128	127	5C2	Đốt lộ thiên chất thải	CO2	1649,39	1.117,49	50,0%	43,3%	66,1%	0,0000	-0,0019	0,00	0,00	0,00	0,00
+R129	128	5C2	Đốt lộ thiên chất thải	CH4	435,90	317,00	50,0%	85,0%	98,6%	0,0000	-0,0005	0,00	0,00	0,00	0,00
+R130	129	5C2	Đốt lộ thiên chất thải	N2O	61,90	43,63	50,0%	85,0%	98,6%	0,0000	-0,0001	0,00	0,00	0,00	0,00
+R131	130	5D1	Xử lý và xả thải nước thải sinh hoạt	CH4	5.372,47	5.705,29	19,5%	13,2%	23,6%	0,0000	-0,0009	0,02	0,00	0,00	0,00
+R132	131	5D1	Xử lý và xả thải nước thải sinh hoạt	N2O	404,88	21,61	142,5%	10,0%	142,8%	0,0000	-0,0011	0,00	0,00	0,00	0,00
+R133	132	5D2	Xử lý và xả thải nước thải công nghiệp	CH4	2.969,85	4.788,53	32,0%	32,4%	45,5%	0,0000	0,0038	0,01	0,00	0,01	0,00
+R134	133	5D2	Xử lý và xả thải nước thải công nghiệp	CH4	85,78	84,30	32,0%	32,4%	45,5%	0,0000	0,0000	0,00	0,00	0,00	0,00
+R135														Độ KCC theo xu thế	7,0%
+
+=== STYLE COUNTS ===
+Normal	102
+List Paragraph	29
+Caption	20
+Heading 3	16
+Heading 2	7
+Heading 1	2
+Bang Hue	2
+
+=== DIRECT FONT COUNTS (characters) ===
+('', 14.0, False, False)	17214
+('', None, False, False)	2407
+('', 14.0, True, False)	851
+('', None, False, True)	200
+('', 14.0, True, True)	190
+('', 14.0, False, True)	38

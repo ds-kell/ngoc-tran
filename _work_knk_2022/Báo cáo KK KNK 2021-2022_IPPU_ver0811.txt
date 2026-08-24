@@ -1,0 +1,657 @@
+SOURCE: D:\NgocTran\phase1\bao cao chuyen de\Báo cáo KK KNK 2021-2022_IPPU_ver0811.docx
+PARAGRAPHS=363 TABLES=36 SECTIONS=2
+
+P0000 [Normal] BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG
+P0001 [Normal] CỤC KHÍ TƯỢNG THỦY VĂN VÀ BIẾN ĐỔI KHÍ HẬU
+P0002 [Normal] Dự án: “Việt Nam: Xây dựng Báo cáo cập nhật hai năm một lần
+P0003 [Normal] lần thứ ba cho UNFCCC”
+P0007 [Normal] BÁO CÁO
+P0008 [Normal] KIỂM KÊ PHÁT THẢI KHÍ NHÀ KÍNH NĂM CHO LĨNH VỰC CÁC QUÁ TRÌNH CÔNG NGHIỆP VÀ SỬ DỤNG SẢN PHẨM (IPPU) TẠI VIỆT NAM
+P0027 [Normal] Hà Nội – 2023
+P0029 [Normal] MỤC LỤC
+P0031 [Heading 1] DANH MỤC TỪ VIẾT TẮT
+P0034 [Heading 1] DANH MỤC CÔNG THỨC HÓA HỌC
+P0036 [Heading 1] DANH MỤC BẢNG
+P0038 [Heading 2] Giới thiệu chung
+P0039 [Hue] Phát thải khí nhà kính (KNK) trong lĩnh vực các quá trình công nghiệp được đánh giá từ các hoạt động sản xuất công nghiệp không bao gồm quá trình sử dụng năng lượng. Các nguồn phát thải chính trong lĩnh vực này được tạo ra từ các quá trình sản xuất công nghiệp, cụ thể là quá trình chuyển đổi về hóa học hay vật lý của các loại nguyên liệu thô.
+P0040 [Normal] Trong báo cáo kiểm kê khí nhà kính quốc gia năm 2021, 2022  phát thải khí nhà kính trong lĩnh vực các quá trình công nghiệp được tính toán cho các  hoạt động:
+P0041 [List Paragraph] Lĩnh vực sản xuất vật liệu xây dựng bao gồm: sản xuất xi măng (CO2), sản xuất vôi (CO2), sản xuất thủy tinh, các hoạt động sử dụng cacbonat khác
+P0042 [List Paragraph] Lĩnh vực công nghiệp hóa chất bao gồm: sản xuất amoniac (CO2), sản xuất axit nitric và sản xuất Silic cacbua
+P0043 [List Paragraph] Lĩnh vực luyện kim bao gồm: sản xuất thép
+P0044 [List Paragraph] Lĩnh vực sử dụng các sản phẩm thay thế cho các chất làm suy giảm tầng ô-dôn
+P0045 [List Paragraph] Phát thải từ sản xuất và sử dụng các sản phẩm khác bao gồm sử dụng chất bôi trơn và sử dụng sáp paraphin.
+P0046 [Normal] Năm 2021 tổng lượng phát thải KNK từ lĩnh vực các quá trình công nghiệp đạt nghìn tấn CO2tđ . Trong đó, năm 2021 phát thải lớn nhất từ sản xuất xi măng là 43.674,17 nghìn tấn CO2tđ, chiếm %, kết quả trình bày trong Bảng 4.1, Hình 4.1, chi tiết trong Phụ lục 2-2.
+P0047 [Caption] Bảng 4. 1. Kết quả phát thải khí nhà kính năm 2021 trong lĩnh vực IPPU
+P0051 [Caption] Hình 4.1. Tỷ trọng phát thải KNK năm 2021 trong lĩnh vực IPPU.
+P0052 [Hue] Tổng lượng phát thải KNK năm 2022 từ lĩnh vực IPPU là nghìn tấn CO2tđ. Trong đó, phát thải lớn nhất từ sản xuất xi măng là  41.483,03 nghìn tấn CO2tđ, chiếm %, kết quả trình bày trong Bảng 4.1, Hình 4.1 và Phụ lục 2-2.
+P0053 [Caption] Bảng 4. 2. Kết quả phát thải khí nhà kính năm 2022 trong lĩnh vực IPPU
+P0057 [Caption] Hình 4.2. Tỷ trọng phát thải KNK năm 2022 trong lĩnh vực IPPU.
+P0059 [Heading 2] Mô tả nguồn phát thải
+P0060 [Heading 3] Công nghiệp khoáng sản (2A)
+P0061 [Heading 4] Quá trình sản xuất xi măng (2A1)
+P0062 [Hue] Xi măng là một ngành công nghiệp quan trọng có lịch sử phát triển lâu dài tại Việt Nam. Tổng Công ty Xi măng Việt Nam được thành lập vào năm 1994 có tiền thân là Hiệp hội các Xí nghiệp Xi măng được thành lập vào năm 1979.
+P0063 [Normal] Phát thải CO2 sinh ra trong quá trình sản xuất clinker, đó là một hợp chất trung gian trong quá trình sản xuất xi măng. Trong quá trình sản xuất clinker, đá vôi với 95% thành phần chủ yếu là canxi cacbonat (CaCO3) được gia nhiệt (nung vôi) để tạo ra vôi (CaO) và các sản phẩm phụ là CO2. CaO sau đó được cho phản ứng với silic, nhôm và oxit sắt trong nguyên liệu thô để sản xuất ra clinker (chủ yếu là canxi silicat ngậm nước) và phản ứng này không sinh ra thêm CO2.
+P0064 [Normal] CH4 và N2O mặc dù có phát thải trong quá trình sản xuất xi măng, tuy nhiên theo những kết quả nghiên cứu hiện tại chúng chỉ chiếm một lượng rất nhỏ so với CO2 nên có thể bỏ qua việc tính toán đối với hai chất này.
+P0065 [abcd] a. Phương pháp luận
+P0066 [Hue] Theo sơ đồ cây ra quyết định trong IPCC 2006, trong điều kiện có đầy đủ số liệu về sản lượng clinker sản xuất và một số hệ số phát thải đặc trưng quốc gia, phương pháp Bậc 2 theo IPCC 2006 là phương pháp sử dụng số liệu sản lượng clinker để tính toán và là phương pháp thích hợp nhất bởi vì phát thải CO2 chỉ xảy ra trong quá trình sản xuất clinker.
+P0067 [Hue] Áp dụng phương pháp bậc 1, theo công thức 2.1, trang 2.8, Chương 2, Phần 3, IPCC 2006.
+P0068 [abcd] b. Số liệu hoạt động
+P0069 [Hue] SLHĐ về sản lượng xi măng năm 2021 và 2022 được sử dụng theo số liệu , chi tiết trong Bảng 4.3.
+P0074 [Bang Hue] Bảng 4.3. Số liệu xi măng sản xuất
+P0075 [Hue] Tỉ lệ clinker trung bình trong xi măng của Việt Nam  dựa trên các số liệu của Bộ Xây dựng trong khuôn khổ dự án NAMA xi măng.
+P0076 [Hue] Dựa trên dữ liệu về sản lượng xi măng sản xuất, áp dụng tỷ lệ trên tính toán được sản lượng clinker  cụ thể được trình bày chi tiết trong Bảng 4.4
+P0077 [Bang Hue] Bảng 4. 4: Số liệu clinker sản xuất
+P0079 [abcd] c. Hệ số phát thải
+P0080 [Hue] Hệ số phát thải được tham khảo từ Quyết định 2626/QĐ-BTNMT ngày 10/10/2022 của Bộ tài nguyên và Môi trường về Danh mục hệ số phát thải phục vụ kiểm kê khí nhà kính, chi tiết trong Bảng 4.4.
+P0081 [Bang Hue] Bảng 4.5. Hệ số phát thải mặc định của quá trình sản xuất xi măng
+P0083 [abcd] d. Kết quả phát thải
+P0084 [Hue] Phát thải CO2 năm 2021 trong sản xuất xi măng được tính như sau:
+P0085 [Normal] Phát thải CO2 = 0,525 * (nghìn tấn) =   (nghìn tấn)
+P0086 [Normal] Phát thải CO2 năm 2022 trong sản xuất xi măng được tính như sau:
+P0087 [Normal] Phát thải CO2 = 0,525 *  (nghìn tấn) =  (nghìn tấn)
+P0089 [Heading 4] Quá trình sản xuất vôi (2A2)
+P0090 [Hue] Sản xuất vôi sống sinh ra CaO thông qua sự phân hủy nhiệt (phương pháp nung) của CaCO3 trong đá vôi để sản xuất CaO, hoặc thông qua sự phân hủy của đôlômit (CaCO3MgCO3) để sản xuất vôi sống đôlômit (CaO.MgO). Để tính phát thải từ quá trình sản xuất vôi cần xác định lượng CaO và CaO.MgO được sinh ra từ sản xuất vôi.
+P0091 [abcd] a. Phương pháp luận
+P0092 [Hue] Do không có số liệu về bụi lò vôi, nên tính phát thải từ quá trình sản xuất vôi sống năm 2021 và 2022 sẽ áp dụng phương pháp bậc 1.
+P0093 [abcd] b. Số liệu hoạt động
+P0094 [Hue] Số liệu về sản lượng vôi năm 2021 được trích dẫn theo Thống cáo 139/TC-BXD “Về việc công bố thông tin thống kê ngành Xây dựng phổ biến chính thức năm 2021 và 6 tháng đầu năm 2022”. Sản lượng năm 2022 được lấy từ Thông cáo 109/TC-BXD “Về việc công bố thông tin thống kê ngành Xây dựng phổ biến chính thức năm 2022 và 6 tháng đầu năm 2023” của Bộ Xây dựng, chi tiết tại Bảng 4.5.
+P0095 [Bang Hue] Bảng 4.6. Sản lượng vôi năm 2021, 2022
+P0096 [abcd] c. Hệ số phát thải
+P0097 [Normal] Do không có thông tin về tỷ lệ hàm lượng của CaO và CaO.MgO, công thức tính toán HSPT mặc định được sử dụng theo Bảng 2.4 trong Quyển 3, IPCC 2006 (trang 2.22). Với HSPT của nguyên liệu sản xuất vôi sống có độ canxi cao (% CaO: 93-98, % MgO: 0,3-2,5) và HSPT của nguyên liệu sản xuất vôi sống đôlômit (% CaO: 55-57; % MgO: 38-41) sẽ được lấy theo Quyết định 2626/QĐ-BTNMT ngày 10/10/2022 của Bộ tài nguyên và Môi trường về Danh mục hệ số phát thải phục vụ kiểm kê khí nhà kính.
+P0098 [Normal] Hệ số phát thải của các loại vôi được xác định theo các công thức sau:
+P0099 [Normal] EFlime = 0,85 * EFhigh calcium lime + 0,15 * EFdolomite lime
+P0100 [Normal] = 0,85 * 0,75 + 0,15 * 0,77
+P0101 [Normal] = 0,6375 + 0,1155
+P0102 [Normal] = 0,75 tấn CO2/tấn vôi
+P0103 [Normal] Trong đó:
+P0104 [Normal] EFlime = hệ số phát thải trung bình của vôi
+P0105 [Normal] EFhigh calcium lime = hệ số phát thải của vôi sống có độ canxi cao
+P0106 [Normal] EFdolomite lime = hệ số phát thải của vôi sống đôlômit
+P0107 [abcd] d. Kết quả phát thải/hấp thụ
+P0108 [Hue] Phát thải CO2 năm 2021 trong sản xuất vôi được tính như sau:
+P0109 [Normal] Phát thải CO2 =  2..000 * 0,75 : 1000= (nghìn tấn)
+P0110 [Normal] Phát thải CO2 năm 2022 trong sản xuất vôi được tính như sau:
+P0111 [Normal] Phát thải CO2 =  2.350.000 * 0,75 : 1000 = (nghìn tấn)
+P0112 [Heading 4] Quá trình sản xuất thủy tinh (2A3)
+P0113 [Hue] Nguyên liệu dùng để sản xuất thuỷ tinh góp phần chính phát thải CO2 trong quá trình nóng chảy là đá vôi (CaCO3), dolomite CaMg(CO3)2 và Sô đa (Na2CO3). Trường hợp các vật liệu này được khai thác như cacbonat khoáng chất để sử dụng trong ngành công nghiệp thủy tinh, chúng đại diện cho sản xuất CO2 sơ cấp và nên được đưa vào ước tính phát thải. Trong trường hợp các vật liệu cacbonat được tạo ra thông qua quá trình cacbonat hydroxit, chúng sẽ không dẫn đến phát thải CO2 thực và không nên đưa vào ước tính phát thải. Có một lượng nhỏ CO2 phát thải ra từ nguyên liệu thô của thủy tinh là bari cacbonat (BaCO3), tro (3CaO2P2O5+xCaCO3), kali cacbonat (K2CO3) và stronti cacbonat (SrCO3). Thêm vào đó, bột than an-tra-xít hoặc một số vật liệu hữu cơ khác có thể được thêm vào để tạo ra các điều kiện cho phản ứng khử trong thủy tinh nóng chảy, và sẽ kết hợp với oxy có sẵn trong dung dịch thủy tinh để tạo ra CO2.
+P0114 [abcd] a. Phương pháp luận
+P0115 [Hue] Áp dụng phương pháp bậc 1, công thức 2.10, trang 2.28, Chương 2, Phần 3, IPCC 2006.
+P0116 [abcd] b. Số liệu hoạt động
+P0117 [Hue] Số liệu về sản lượng thủy tinh năm 2021 , chi tiết tại Bảng 4.7
+P0118 [Bang Hue] Bảng 4. 7. Thống kê sản lượng thủy tinh năm 2021, 2022
+P0119 [abcd] c. Hệ số phát thải
+P0120 [Hue] HSPT mặc định được sử dụng để ước tính phát thải KNK trong hoạt động sản xuất kính là 0,21 tấnCO2/tấn sản phẩm kính nổi (Bảng 2.6, trang 2.30, Chương 2, Phần 3, IPCC 2006. Chỉ áp dụng hệ số phát thải theo loại sản phẩm kinh nổi, các loại kính khác không được áp dụng. Giả định khối lượng kính quy đổi sẽ lấy theo loại kính 5 mm (5 ly):  kg/m2 được quy định tại Quyết định số 1329/QĐ – BXD ngày 19/12/2016 của Bộ Xây dựng: Công bố định mức sử dụng vật liệu trong xây dựng
+P0121 [abcd] d. Kết quả phát thải
+P0122 [Normal] - Phát thải CO2 từ sản xuất kính xây dựng năm 2018:
+P0123 [Normal] * 12,5 * 0,21*(1-0,1) = (nghìn tấn)
+P0124 [Normal] - Phát thải CO2 từ sản xuất kính xây dựng năm 2020 là
+P0125 [Normal] 2 * 12,5 * 0,21*(1-0,1) = (nghìn tấn)
+P0126 [Heading 4] Các hoạt động sử dụng Các-bo-nát khác (2A4)
+P0127 [Heading 5] Sử dụng đá vôi và đôlomit
+P0128 [Hue] Đá vôi (CaCO3) và đôlômit CaMg(CO3)2 là các nguyên liệu cơ bản được sử dụng trong các ngành công nghiệp luyện kim, sản xuất kính, nông nghiệp, xây dựng và xử lý ô nhiễm môi trường. Trong công nghiệp, các nguyên liệu này thường được nung nóng ở nhiệt độ cao, từ đó CO2 được sinh ra. Tuy nhiên, do chưa thu thập được SLHĐ nên chưa tính được phát thải từ việc sử dụng đá vôi và đôlômit.
+P0129 [Heading 5] Sản xuất và sử dụng Natri các-bo-nat khan
+P0130 [Hue] Sô đa (Na2CO3) khan được sử dụng làm nguyên liệu cho các ngành công nghiệp sản xuất kính, xà phòng và chất tẩy rửa, giấy và bột giấy và xử lý nước. CO2 có thể được sinh ra trong cả quá trình sử dụng và sản xuất sô đa khan, tùy thuộc vào quá trình công nghệ được sử dụng để sản xuất. Đến nay Sô đa khan vẫn chưa được sản xuất ở Việt Nam và do không thu thập được thông tin về sản lượng Sô đa khan được sử dụng, nên chưa tính được phát thải từ quá trình này.
+P0131 [Heading 5] Sử dụng Các-bo-nát trong sản xuất gốm sứ
+P0132 [Hue] Sản xuất gốm sứ bao gồm sản xuất gạch và ngói, sản phẩm chịu lửa, sản phẩm đất sét mở rộng, gạch ốp tường và sàn, bàn trang trí (gốm sứ gia dụng), thiết bị vệ sinh và gốm kỹ thuật. Phát thải liên quan đến quy trình sản xuất gốm sứ là kết quả của việc nung cacbonat trong đất sét, cũng như việc bổ sung các chất phụ gia. Trong trường hợp sản xuất gốm sứ truyền thống, gốm sứ sau đó được sấy khô và tráng men trước khi nung trong lò. Sau khi nung, một số đồ gốm có thể trải qua quá trình xử lý bổ sung để đạt được chất lượng mong muốn. Khí CO2 phát sinh từ quá trình nung nguyên liệu thô (đặc biệt là đất sét, đá phiến, đá vôi và dolomit) và sử dụng đá vôi làm chất phụ trợ.
+P0133 [Hue] Phương pháp luận
+P0134 [Hue] Phát thải KNK trong sản xuất gốm sứ được tính toán theo hướng dẫn của IPCC 2006 phương pháp bậc 1.
+P0135 [Hue] CO2 Emissions = MC * Ef
+P0136 [Hue] Trong đó:
+P0137 [Hue] Mc: Khối lượng cacbonat dùng cho sản xuất gốm sứ
+P0138 [Hue] Ef: Hệ số phát thải do sử dụng cacbonat để sản xuất gốm sứ
+P0139 [Hue] Số liệu hoạt động
+P0140 [Hue] Theo thống kê của Viện vật liệu xây dựng, sản lượng sản phẩm gạch gốm ốp lát sản xuất năm 2021 và 2022 được trình bày trong bảng dưới đây.
+P0141 [Caption] 8Sản lượng gạch gốm ốp lát năm 2021 và 2022
+P0145 [Hue] . Ngoài ra, theo Tiêu chuẩn Việt Nam TCVN 4353:1986 về đất sét để sản xuất gạch ngói nung và gạch gốm ốp lát, tỷ lệ cacbonat không được phép vượt quá 6%. Nên ta có khối lượng nguyên liệu (đất sét) và lượng cacbonat sử dụng trong sản xuất gạch như bảng dưới đây.
+P0146 [Caption] 9Khối lượng đất sét sử dụng cho sản xuất gạch gốm ốp lát năm 2021 và 2022
+P0147 [abcd] Hệ số phát thải
+P0148 [Hue] Theo Bảng 2.1, Chương 2, Phần 3, IPCC 2006 hệ số phát thải CO2 trên 1 tấn cacbonat là 0,43971 tấn CO2/tấn cacbonat.
+P0149 [abcd] Kết quả phát thải
+P0150 [Hue] Lượng phát thải CO2 do sản xuất gạch gốm ốp lát năm 2021 là:
+P0151 [Hue] * 0,43971= , (nghìn tấn )
+P0152 [Hue] Lượng phát thải CO2 do sản xuất gạch gốm ốp lát năm 2022 là:
+P0153 [Hue] * 0,43971=  (nghìn tấn )
+P0154 [Heading 5] Sử dụng tro Sô-đa (Soda Ash)
+P0155 [Hue] Tro sô-đa được sử dụng trong nhiều ứng dụng, bao gồm sản xuất thủy tinh, xà phòng và chất tẩy rửa, khử lưu huỳnh bằng khí thải, hóa chất, bột giấy và giấy và các sản phẩm tiêu dùng phổ biến khác. Sản xuất và tiêu thụ tro sô-đa (bao gồm cả Na2CO3) phát thải khí CO2. Phát thải từ sử dụng tro sô-đa được tính một phần trong quá trình sản xuất thủy tinh (2A3), trong khi phát thải từ việc sử dụng tro sô-đa còn có thể được tính trong các quá trình công nghiệp khoáng sản khác (2A5) và có thể được tính trong các quá trình công nghiệp và sử dụng sản phẩm khác (2H). Tương tự, khi tro sô-đa được sử dụng trong các loại nguồn khác như hóa chất, khí thải sẽ được báo cáo trong tiểu lĩnh vực đó. Do không có số liệu về tổng sản lượng tro sô-đa được sử dụng ở Việt Nam nên chưa tính được phát thải từ tiểu lĩnh vực các hoạt động sử dụng các-bo-nát khác (2A4), ngoại trừ một phần đã tính tại các tiểu vực 2A3.
+P0156 [Heading 5] Sử dụng cacbonat trong sản xuất gạch nung
+P0157 [Hue] Phát thải liên quan đến quy trình sản xuất gạch là kết quả của việc nung cacbonat trong đất sét. Tương tự như quá trình sản xuất xi măng và vôi, cacbonat được đun nóng đến nhiệt độ cao trong lò nung, tạo ra oxit và CO2.
+P0158 [abcd] a. Phương pháp luận
+P0159 [Hue] Phát thải KNK trong sản xuất gạch nung được tính toán theo hướng dẫn của IPCC 2006 phương pháp bậc 1.
+P0160 [Hue] CO2 Emissions = MC * Ef
+P0161 [Hue] Trong đó:
+P0162 [Hue] Mc: Khối lượng cacbonat dùng cho sản xuất gạch
+P0163 [Hue] Ef: Hệ số phát thải do sử dụng cacbonat để sản xuất gạch
+P0164 [abcd] b. Số liệu hoạt động
+P0165 [Hue] Theo thống kê của Tổng cục thống kê, sản lượng gạch sản xuất của năm 2021 và 2022 theo bảng dưới đây.
+P0166 [Bang Hue] Bảng 4.10. Sản lượng gạch sản xuất năm 2021 và năm 2022
+P0167 [Hue] . Ngoài ra, theo Tiêu chuẩn Việt Nam TCVN 4353:1986 về đất sét để sản xuất gạch ngói nung, tỷ lệ cacbonat không được phép vượt quá 6%. Nên ta có khối lượng nguyên liệu (đất sét) và lượng cacbonat sử dụng trong sản xuất gạch như bảng dưới đây.
+P0168 [Caption] Bảng 4.11. Khối lượng đất sét sử dụng cho sản xuất gạch nung
+P0169 [abcd] c. Hệ số phát thải
+P0170 [Hue] Theo Bảng 2.1, Chương 2, Phần 3, IPCC 2006 hệ số phát thải CO2 trên 1 tấn cacbonat là 0,43971 tấn CO2/tấn cacbonat.
+P0171 [abcd] d. Kết quả phát thải
+P0172 [Hue] Lượng phát thải CO2 do sản xuất gạch nung năm 2021 là:
+P0173 [Hue] * 0,43971= (nghìn tấn )
+P0174 [Hue] Lượng phát thải CO2 do sản xuất gạch nung năm 2022 là:
+P0175 [Hue] * 0,43971= (nghìn tấn )
+P0176 [Heading 5] Các quá trình công nghiệp khoáng sản khác (2A5)
+P0177 [Normal] Do chưa thu thập được SLHĐ nên chưa tính được phát thải từ các quá trình công nghiệp khoáng sản khác.
+P0178 [Heading 3] Công nghiệp hóa chất (2B)
+P0179 [Heading 4] Quá trình sản xuất Amoniac (2B1)
+P0180 [Hue] Sản xuất amoniac (NH3) là một trong những ngành công nghiệp hóa chất chính và là nguồn nguyên liệu chính để sản xuất các hợp chất Nitơ. Khí NH3 được sử dụng trong nhiều ứng dụng khác nhau như sản xuất phân bón, gia nhiệt, nghiền giấy, sản xuất axit nitric và hợp chất nitrat. NH3 khan được sản xuất bằng phản ứng có xúc tác làm thay đổi cấu trúc khí tự nhiên hoặc các nhiên liệu hóa thạch khác gây phát thải khí CO2.
+P0181 [abcd] a. Phương pháp luận
+P0182 [Hue] Phát thải KNK từ quá trình sản xuất NH3 được tính theo phương pháp bậc 1, sử dụng công thức 3.1, trang 3.12, Chương 3, Phần 3, IPCC 2006.
+P0183 [abcd] b. Số liệu hoạt động
+P0184 [Normal] Số liệu về sản lượng Amoniac và sản lượng U-rê sản xuất năm 2021, 2022 được Tổng hợp từ các Báo cáo thường niên của các doanh nghiệp. Chi tiết như sau:
+P0185 [Bang Hue] Bảng 4.12. Sản lượng Amoniac năm 2021 và 2022
+P0187 [Bang Hue] Bảng 4.13. Sản lượng U-rê sản xuất năm 2021, 2022
+P0189 [Bang Hue] Bảng 4.14. Sản lượng Amoniac và U-rê theo loại nhiên liệu năm 2021 và 2022
+P0191 [abcd] c. Hệ số phát thải
+P0192 [Normal] Các hệ số phát thải của quá trình sản xuất NH3 được sử dụng giá trị mặc định theo IPCC 2006 và IPCC 1996 sửa đổi, chi tiết trong Bảng 4.7, 4.8 và 4.9.
+P0193 [Bang Hue] Bảng 4.15. Hệ số tiêu thụ nhiên liệu theo từng loại công nghệ sản xuất NH3
+P0195 [Bang Hue] Bảng 4.16. Hệ số hàm lượng các-bon trong nhiên liệu
+P0197 [Bang Hue] Bảng 4.17. Hệ số phát thải các tiền khí nhà kính từ hoạt động sản xuất NH3
+P0198 [abcd] d. Kết quả phát thải
+P0199 [Normal] Dựa vào các số liệu hoạt động và hệ số phát thải, lượng CO2 phát sinh trong quá trình sản xuất Amoniac được ước tính như sau.
+P0201 [Bang Hue] Bảng 4.18. Lượng CO2 phát sinh từ sản xuất Amoniac năm 2021 và 2022
+P0203 [Bang Hue] Bảng 4.19. Tổng phát thải từ quá trình sản xuất Amoniac năm 2021 và 2022
+P0204 [Normal] Một phần CO2 phát sinh được sử dụng để sản xuất U-rê, do đó, lượng phát thải CO2 ra khí quyển sẽ là lượng CO2 còn lại sau khi đã sử dụng.
+P0205 [Bang Hue] Bảng 4.20. Phát thải CO2 ra khí quyển của hoạt động sản xuất Amoniac năm 2021 và 2022
+P0212 [Bang Hue] Bảng 4.21. Phát thải tiền khí nhà kính ra khí quyển của hoạt động sản xuất Amoniac năm 2021 và 2022
+P0214 [Heading 4] Quá trình sản xuất axit Nitric (2B2)
+P0215 [Hue] Trong các kỳ kiểm kê trước đây, phát thải từ sản xuất axit nitric được ghi là “NO” trong báo cáo kiểm kê này, do tính đến thời điểm tháng 11 năm 2016, nhà máy Amon nitrat (nhà máy sản xuất axit nitric đầu tiên của nước ta) mới cho ra những tấn sản phẩm đầu tiên (Số liệu từ tập đoàn than khoáng sản Việt Nam).
+P0216 [abcd] a. Phương pháp luận
+P0217 [Hue] Áp dụng phương pháp  bậc 1, công thức 3.5, trang 3.21, Chương 3, Phần 3, IPCC 2006.
+P0218 [abcd] b. Số liệu hoạt động
+P0219 [Hue] Theo số liệu khảo sát từ Cục hóa chất, Bộ Công Thương (2020) thì sản lượng thực tế của 02 nhà máy (Nhà máy Z195 và Nhà máy Micco) tương ứng là 12.000 tấn và 1.000 tấn.
+P0220 [Bang Hue] Bảng 4.22. Sản lượng axit nitric giai đoạn 2012 – 2020
+P0222 [abcd] c. Hệ số phát thải
+P0223 [Hue] HSPT đối với quá trình sản xuất HNO3 với công nghệ áp suất trung bình theo của Bảng 3.3, trang 3.9, Chương3, Phần 3, IPCC 2019 là 8 kg N2O/tấn HNO3.
+P0224 [abcd] d. Kết quả phát thải
+P0225 [Hue] Lượng phát thải KNK tại năm 2021 từ ngành sản xuất axit nitric như sau:
+P0226 [Normal] N2O phát thải = 8*(12.000 + 2.000) = 112.000 kg N2O = 112 tấn N2O
+P0227 [Normal] CO2 phát thải = N2O phát thải * GWPN2O(AR5) = 112 tấn * 265 = 29.680 tấn = 29,68 nghìn tấn CO2tđ
+P0228 [Normal] Phát thải KNK năm 2022 từ ngành sản xuất axit nitric là:
+P0229 [Normal] N2O phát thải = 8*(12.000 + 3.000) = 120.000 kg N2O = 120 tấn N2O
+P0230 [Normal] CO2 phát thải = N2O phát thải * GWPN2O(AR5) 120 tấn * 265 = 31.800 tấn = 31,80 nghìn tấn CO2tđ
+P0231 [Heading 4] Sản xuất axit adipic (2B3)
+P0232 [Normal] Theo như báo cáo của chuyên gia tư vấn đề cập ở trên, hiện nay Việt Nam vẫn chưa có hoạt động sản xuất axit adipic. Do vậy, phát thải khí nhà kính từ hoạt động này được ghi là “NO” trong báo cáo kiểm kê này.
+P0233 [Heading 4] Sản xuất cacbua (Phát thải CO2)- 2B5: Canxi cacbua
+P0234 [Normal] Canxi cacbua được tạo ra bằng cách nung nóng canxi cacbonat và sau đó khử CaO bằng cacbon (ví dụ như cốc dầu mỏ). Cả hai bước này đều phát thải CO2 (quá trình đầu tiên giống như quá trình sản xuất vôi).
+P0235 [Normal] Cũng lưu ý rằng CaO (vôi) có thể được sản xuất tại nhà máy khác ngoài nhà máy sản xuất cacbua. Trong trường hợp này, lượng phát thải từ bước tạo CaO được ghi nhận theo phát thải từ quá trình sản xuất vôi (2A2).
+P0236 [Normal] Khi canxi cacbua được sử dụng, quá trình này cũng tạo ra CO2.
+P0237 [Normal] CaCO3 → CaO + CO2 (Quá trình giống với quá trình trong sản xuất vôi)
+P0238 [Normal] CaO + 3C → CaC2 + CO (→ CO2) (Quá trình sử dụng vôi để sản xuất canxi cacbua)
+P0239 [Normal] CaC2 + 2H2O → Ca(OH)2 + C2H2 → 2CO2 (Quá trình sử dụng canxi cacbua)
+P0240 [Normal] Do không có số liệu chính thống nên không tính toán được phát thải từ sản xuất và sử dụng canxi cacbua. Do vậy, phát thải KNK từ hoạt động này được ghi là “NE” trong báo cáo kiểm kê này.
+P0241 [Heading 4] Sản xuất cacbua silic (2B5): Silic cacbua
+P0242 [Normal] Trong quá trình sản xuất cacbua silic, CO2 là một sản phẩm phụ được sinh ra từ phản ứng giữa thạch anh và cacbon. Than cốc dầu mỏ được sử dụng là nguồn cung cấp cacbon. Cacbua silic được sản xuất theo các phản ứng như sau:
+P0243 [Normal] SiO2 + 2C → Si + 2CO
+P0244 [Normal] Si + C → SiC
+P0245 [Normal] Công thức mô tả phản ứng tổng thể như sau:
+P0246 [Normal] SiO2 + 3C → SiC + 2CO (+ O2 → 2CO2)
+P0247 [Normal] Trong quá trình sản xuất, cát silic và cacbon được trộn theo tỷ lệ mol xấp xỉ 1:3. Trong đó, một phần cacbon, khoảng 35% được chứa trong sản phẩm và phần còn lại được chuyển thành CO2 trong lượng oxy dư thừa và thải ra khí quyển dưới dạng sản phẩm phụ của quá trình.
+P0248 [Normal] Cốc dầu mỏ được sử dụng trong quá trình này có thể chứa các hợp chất dễ bay hơi, sẽ tạo thành khí mê-tan. Một số khí mê-tan sẽ thoát ra khí quyển, đặc biệt là trong quá trình khởi động
+P0249 [abcd] a. Phương pháp luận
+P0250 [Normal] Phát thải KNK từ hoạt động sản xuất cacbua silic được tính toán theo phương pháp Bậc 1 theo công thức 3.11, trang 3.41, Chương 3, Phần 3, IPCC 2006.
+P0251 [abcd] b. Số liệu hoạt động
+P0252 [Normal] Hiện nay, tại Việt Nam có duy nhất công ty Cổ phần Tân Hà Kiều có sản xuất cacbua silic với công suất hàng năm là 60 nghìn tấn cacbua silic.
+P0253 [abcd] c. Hệ số phát thải
+P0254 [Normal] Do chưa có HSPT riêng cho Việt Nam trong hoạt động sản xuất cacbua silic, nên các HSPT sẽ được sử dụng theo các giá trị tại Bảng 3.7, trang 3.44, Chương 3, Phần 3, IPCC 2006.
+P0255 [Bang Hue] Bảng 4.23. Hệ số phát thải từ quá trình sản xuất cacbua silic
+P0256 [abcd] d. Kết quả phát thải
+P0257 [Normal] Kết quả tính toán phát thải từ quá trình sản xuất cacbua silic cho năm 2018, 2020 như sau:
+P0258 [Caption] Bảng 4.24. Kết quả phát thải KNK từ quá trình sản xuất cacbua silic năm 2021, 2022
+P0260 [Heading 3] Luyện kim (2C)
+P0261 [Heading 4] Quá trình sản xuất sắt thép (2C1)
+P0262 [Hue] Sắt (Fe) chưa luyện được sản xuất bằng cách khử quặng oxit sắt phần lớn trong các lò cao (blast-furnace), thường sử dụng các-bon trong than cốc hoặc than củi đồng thời làm nhiên liệu và chất khử. Trong hầu hết các lò luyện sắt, quá trình này được hỗ trợ bằng việc sử dụng các dòng cacbonat (đá vôi). Quá trình sản xuất sắt, thép gây phát thải chủ yếu là khí CO2. Khí N2O có phát thải trong quá trình sản xuất sắt thép, tuy nhiên lượng phát thải rất nhỏ và có thể bỏ qua trong quá trình tính và IPCC 2006 không hướng dẫn ước tính phát thải N2O từ quá trình sản xuất sắt thép.
+P0263 [abcd] a. Phương pháp luận
+P0264 [Hue] Với hiện trạng SLHĐ có là tổng sản lượng sắt thép thô được sản xuất trong năm 2016, phương pháp bậc 2 được áp dụng cho tính toán phát thải CO2 và CH4, theo công thức 4.4, trang 4.21, Chương 4, Phần 3, IPCC 2006.
+P0265 [abcd] b. Số liệu hoạt động
+P0266 [Hue] Số liệu về sản lượng sắt thép được sản xuất trong năm 2021 và 2022 theo từng công nghệ được thu thập từ thống kê sản lượng ngành thép năm 2021, 2022 (Báo cáo thống kê hàng năm ngành sắt thép cho năm 2021 và 2022). Sản lượng thép thô theo từng công nghệ: công nghệ BOF công nghệ EAF, công nghệ IF trong 2 năm như sau:
+P0267 [Caption] Bảng 4.25. Sản lượng thép thô theo công nghệ năm 2021, 2022
+P0268 [abcd] c. Hệ số phát thải
+P0269 [Normal] Hiện tại ở Việt Nam có các công nghệ sản xuất thép là công nghệ lò cơ bản (Basic Oxygen Furnace-BOF) lò hồ quang điện (Electric Arc Furnace-EAF) và lò nung cảm ứng (Induction Furnace-IF). Mỗi một công nghệ sản xuất thép có một hệ số phát thải riêng, được tham khảo theo Quyết định 2626/QĐ-BTNMT về danh mục hệ số phát thải phục vụ kiểm kê khí nhà kính và Hướng dẫn của IPCC 2006, cụ thể là:
+P0274 [Bang Hue] Bảng 4.26. Hệ số phát thải của quá trình sản xuất sắt thép
+P0275 [abcd] d. Kết quả phát thải
+P0276 [Normal] Phát thải KNK và các khí tiền KNK từ quá trình sản xuất sắt, thép năm 2021 và 2022 được trình bày trong Bảng 4.25.
+P0277 [Bang Hue] Bảng 4.27. Kết quả phát thải  từ quá trình sản xuất sắt, thép năm 2021 và 2022
+P0278 [Heading 4] Quá trình sản xuất nhôm (2C3)
+P0279 [Hue] Quá trình sản xuất phôi nhôm (Al) chủ yếu được thực hiện bằng quá trình điện phân nóng chảy có xúc tác cryolit (công nghệ Hall-Heroult). Hai công nghệ chính trong sản xuất nhôm hiện nay là: công nghệ Prebaked và công nghệ Soderbarg. Hai quá trình phát thải chính trong hoạt động sản xuất nhôm gồm phát thải CO2 từ quá trình tiêu thụ C trên anot của lò điện phân và phát thải PFCs (CF4 và C2H6) trong quá trình điện phân (phản ứng giữa anot và chất xúc tác cryolit).
+P0280 [Hue] Quá trình luyện nhôm từ Al2O3 đến Al chưa được thực hiện tại Việt Nam và gần như quá trình sản xuất Al2O3 không gây phát thải theo hướng dẫn của IPCC.
+P0281 [Heading 3] Sử dụng nhiên liệu cho các sản phẩm phi năng lượng và sử dụng dung môi (2D)
+P0282 [Heading 4] Sử dụng chất bôi trơn (2D1)
+P0283 [Normal] Chất bôi trơn chủ yếu được sử dụng trong các ứng dụng công nghiệp và giao thông vận tải. Chất bôi trơn được sản xuất tại các nhà máy lọc dầu thông qua quá trình tách dầu thô hoặc tại các cơ sở hóa dầu. Chúng có thể được chia thành (a) dầu động cơ và dầu công nghiệp, và (b) mỡ bôi trơn, khác nhau về đặc tính vật lý (ví dụ: độ nhớt), ứng dụng thương mại và tác động môi trường.
+P0284 [abcd] a. Phương pháp luận
+P0285 [Normal] Việc sử dụng chất bôi trơn trong động cơ chủ yếu nhằm mục đích bôi trơn và do đó, các khí thải liên quan được coi là phát thải không từ đốt cháy và được báo cáo trong lĩnh vực IPPU. Rất khó để xác định phần nào của chất bôi trơn được tiêu thụ trong máy móc và phương tiện thực sự được đốt cháy và do đó trực tiếp dẫn đến phát thải CO2, và phần nào không được oxy hóa hoàn toàn dẫn đến phát thải hợp chất hữu cơ dễ bay hơi không metan (non-methane volatile organic compounds – NMVOC) và CO. Vì lý do này, lượng phát thải NMVOC và CO này rất hiếm khi được các quốc gia báo cáo trong bản kiểm kê phát thải. Do đó, để tính lượng khí thải CO2, tổng lượng dầu nhờn bị mất trong quá trình sử dụng được giả định là đã được đốt cháy hoàn toàn và lượng khí thải này được báo cáo trực tiếp dưới dạng khí thải CO2.
+P0286 [Normal] Theo hướng dẫn trong IPCC 2006, có hai phương pháp luận để xác định lượng khí thải từ việc sử dụng chất bôi trơn. Cả Bậc 1 và Bậc 2 về cơ bản đều dựa trên cùng một phương pháp phân tích, đó là áp dụng các hệ số phát thải cho dữ liệu hoạt động về lượng tiêu thụ dầu nhờn ở một quốc gia (tính theo đơn vị năng lượng, ví dụ: TJ). Phương pháp Bậc 2 yêu cầu dữ liệu về lượng của các loại chất bôi trơn khác nhau, kết hợp với hệ số Oxy hóa trong quá trình sử dụng (Oxidised During Use - ODU) của từng loại cụ thể đối với dữ liệu hoạt động, tốt nhất là theo quốc gia cụ thể, trong khi phương pháp Bậc 1 dựa vào việc áp dụng một hệ số ODU mặc định cho tổng dữ liệu hoạt động của chất bôi trơn. Với số liệu thu thập thì Bậc 1 phù hợp để sử dụng cho tính toán theo công thức 5.2, trang 5.7, Chương 5, Phần 3, IPCC 2006.
+P0287 [abcd] b. Số liệu hoạt động
+P0288 [Normal] Số liệu về lượng tiêu thụ dầu nhờn được sử dụng từ nguồn Báo cáo thống kê năng lượng năm 2021 và 2022. Số liệu cụ thể cho năm 2021, 2022 như sau:
+P0289 [Caption] Bảng 4.28. Số liệu về tiêu thụ dầu nhờn
+P0290 [abcd] c. Hệ số phát thải
+P0291 [Normal] Hệ số phát thải bao gồm hệ số hàm lượng carbon cụ thể (tấn C/TJ) nhân với hệ số ODU, sau đó nhân tiếp với 44/12 (tỷ lệ khối lượng CO2/C) sẽ ra hệ số phát thải (được biểu thị bằng tấn CO2/TJ). Đối với chất bôi trơn, hệ số hàm lượng cacbon mặc định là 20,0 kg C/GJ trên cơ sở Giá trị nhiệt thấp. Giả định rằng việc sử dụng là quá trình đốt cháy dẫn đến oxy hóa 100% thành CO2, không lưu trữ carbon lâu dài ở dạng tro hoặc cặn sau đốt cháy. Một phần nhỏ hơn nữa của mỡ bôi trơn bị oxy hóa trong quá trình sử dụng. Khi dữ liệu có sẵn hạn chế, sử dụng các hệ số ODU mặc định cho dầu (20%).
+P0292 [abcd] d. Kết quả phát thải
+P0293 [Normal] Kết quả tính toán phát thải cho năm 2021, 2022 như sau
+P0294 [Caption] Bảng 4.29. Kết quả phát thải CO2 của quá trình sử dụng dầu nhờn năm 2021 và 2022
+P0296 [Heading 4] Sử dụng sáp paraphin (2D2)
+P0297 [Normal] Danh mục này bao gồm các sản phẩm như dầu hỏa, sáp parafin và các loại sáp khác, kể cả ozokerite (hỗn hợp của hydrocacbon bão hòa, ở thể rắn ở nhiệt độ môi trường). Sáp paraffin được tách ra khỏi dầu thô trong quá trình sản xuất dầu bôi trơn nhẹ (chưng cất). Sáp paraffin được phân loại theo hàm lượng dầu và mức độ tinh chế.
+P0298 [abcd] a. Phương pháp luận
+P0299 [Normal] Sáp được sử dụng trong một số ứng dụng khác nhau. Sáp paraffin được sử dụng trong các ứng dụng như: nến, hộp sóng, lớp phủ giấy, định cỡ bảng, sản xuất thực phẩm, chất đánh bóng sáp, chất hoạt động bề mặt (như được sử dụng trong chất tẩy rửa) và nhiều chất khác. Khí thải từ việc sử dụng sáp phát sinh chủ yếu khi sáp hoặc dẫn xuất của parafin được đốt cháy trong quá trình sử dụng (ví dụ: nến).
+P0300 [Normal] Theo hướng dẫn trong IPCC 2006, có hai phương pháp luận để xác định lượng khí thải từ việc sử dụng sáp paraphin. Cả Bậc 1 và Bậc 2 về cơ bản đều dựa trên cùng một phương pháp phân tích, đó là áp dụng các hệ số phát thải cho dữ liệu hoạt động về lượng tiêu thụ sáp paraphin ở một quốc gia (tính theo đơn vị năng lượng, ví dụ: TJ). Phương pháp Bậc 2 yêu cầu dữ liệu hệ số Oxy hóa trong quá trình sử dụng (Oxidised During Use - ODU) của quốc gia, trong khi phương pháp Bậc 1 dựa vào việc áp dụng một hệ số ODU mặc định cho tổng dữ liệu hoạt động của sử dụng paraphin. Với số liệu thu thập thì Bậc 1 phù hợp để sử dụng cho tính toán theo công thức 5.1, trang 5.11, Chương 5, Phần 3, IPCC 2006.
+P0301 [abcd] b. Số liệu hoạt động
+P0302 [Normal] Số liệu về lượng tiêu thụ parafin được sử dụng từ nguồn Tổng cục thống kê. Số liệu cụ thể cho năm 20 202 như sau:
+P0303 [Caption] Bảng 4.30. Số liệu về sử dụng Parafin
+P0304 [abcd] c. Hệ số phát thải
+P0305 [Normal] Hệ số phát thải bao gồm hệ số hàm lượng carbon cụ thể (tấn C/TJ) nhân với hệ số ODU, sau đó nhân tiếp với 44/12 (tỷ lệ khối lượng CO2/C) sẽ ra hệ số phát thải (được biểu thị bằng tấn CO2/TJ). Đối với sáp paraphin, hệ số hàm lượng carbon mặc định là 20,0 kg C/GJ trên cơ sở Giá trị nhiệt thấp. Khi dữ liệu có sẵn hạn chế, sử dụng các hệ số ODU mặc định cho sáp paraphin (20%).
+P0306 [abcd] d. Kết quả phát thải
+P0307 [Normal] Kết quả tính toán phát thải cho năm 2021, 2022 như sau:
+P0308 [Caption] Bảng 4.31. Phát thải do sử dụng paraffin
+P0309 [Heading 3] Công nghiệp điện tử (2E)
+P0310 [Normal] Do không có thông tin và chưa thu thập được SLHĐ nên chưa tính được phát thải KNK từ các quá trình công nghiệp điện tử (2E1, 2E2, 2E3, 2E4 và 2E5).
+P0311 [Heading 3] Sử dụng sản phẩm thay thế cho các chất làm suy giảm tầng ô-dôn (2F)
+P0312 [Hue] Một phần, fluorinated hydrocarbon (HFCs), perfluorinated hydrocarbon (PFCs), và sulphur hexafluoride (SF6) đang được sử dụng như là các chất thay thế cho các chất làm suy giảm ôzôn (ODS) đang được loại bỏ theo Nghị định thư Montreal. Trong thực tế, phát thải các chất PFC, HFCs và SF6 sẽ được chú ý do tác động của chúng đối với hiệu ứng ấm lên toàn cầu. Tiêu thụ của các chất này bao gồm:
+P0313 [Hue] - Làm lạnh và điều hòa nhiệt độ
+P0314 [Hue] - Thiết bị dập lửa và chống cháy nổ
+P0315 [Hue] - Bình xịt
+P0316 [Hue] - Dung môi làm sạch
+P0317 [Hue] - Thổi bong bóng (foam blowing)
+P0318 [Hue] Các ứng dụng khác (HFCs và PFCs có thể được sử dụng trong các thiết bị khử trùng, cho ứng dụng làm phồng thuốc lá, và làm dung môi trong sản xuất chất kết dính, sơn và mực).
+P0319 [Hue] Ứng dụng cơ bản của SF6 bao gồm:
+P0320 [Hue] - Máy ngắt và máy cắt mạch vòng cách điện bằng khí
+P0321 [Hue] - Thiết bị dập lửa và chống cháy nổ
+P0322 [Hue] - Các ứng dụng khác (một môi trường cách điện, thiết bị phát hiện rò rỉ, và trong các ứng dụng điện tử khác nhau, ...)
+P0323 [Hue] Từ năm 2010, tiêu thụ các chất halon và CFCs phải được loại bỏ hoàn toàn ở các nước đang phát triển bao gồm Việt Nam theo Nghị định thư Montreal. Những năm gần đây, việc tiêu thụ HFC và PFC tăng dần để thay thế các chất làm suy giảm tầng ô-zôn (ODS).
+P0324 [Hue] HFCs có tên đầy đủ là Hydroflourcarbon là những môi chất chứa Flour được sử dụng nhiều trong sản xuất và ứng dụng làm môi chất lạnh trong các thiết bị làm lạnh. HFCs không gây thủng tầng ô-zôn do đó đây là môi chất hiện đang được khuyến khích để thay thế cho các hợp chất CFCs và HCFCs trong công nghiệp lạnh. Việt Nam chưa sản xuất được HFCs nên phát thải chỉ hình thành trong quá trình sử dụng hóa chất này.
+P0325 [Heading 4] Quá trình sử dụng chất chữa cháy (2F3)
+P0326 [abcd] a. Phương pháp luận
+P0327 [Normal] Phát thải KNK từ việc sử dụng các hợp chất HFCs được Văn phòng ô-zôn quốc gia thu thập và tính toán. Phương pháp tính toán được dựa trên công thức:
+P0328 [Normal] EHFC =
+P0329 [Normal] Trong đó: EHFC = phát thải khí nhà kính của các chất HFCs, tấn CO2tđ;
+P0330 [Normal] Mi = lượng HFC loại i tiêu thụ trong năm, tấn
+P0331 [Normal] EFi = GWP của HFC loại i
+P0332 [abcd] b. Số liệu hoạt động
+P0333 [Hue] Số liệu được sử dụng để tính toán phát thải đối với các hợp chất HFCs trong năm 2021, 2022 được thể hiện trong bảng sau.
+P0334 [Caption] Bảng 4.32. Lượng HFC tiêu thụ trong năm (tấn)
+P0336 [abcd] c. Hệ số phát thải
+P0337 [Hue] Bản thân mỗi chất HFC là một nguồn phát thải với giá trị GWP khác nhau, bảng dưới đây gồm giá trị GWP của các chất HFC.
+P0338 [Caption] Bảng 4.33. Hệ số GWP100 của các chất HFC
+P0340 [abcd] d. Kết quả phát thải
+P0341 [Normal] Phát thải từ sử dụng HFC được ước tính trong bảng sau dựa trên việc nhân kết quả phát thải trong việc sử dụng HFC với giá trị tiềm năng nóng lên toàn cầu để tính ra lượng phát thải CO2tđ.
+P0345 [Caption] Bảng 4.34. Kết quả phát thải ước tính cho sử dụng HFC (nghìn tấn CO2tđ)
+P0347 [Heading 4] Quá trình sử dụng sol khí (2F4), các dung môi (2F5) và các sản phẩm khác (2F6)
+P0348 [Normal] Do không có thông tin và chưa thu thập được SLHĐ nên chưa tính được phát thải KNK từ các quá trình sử dụng sol khí (2F4), các dung môi (2F5) và các sản phẩm khác (2F6).
+P0349 [Heading 3] Sản xuất và sử dụng các sản phẩm công nghiệp khác (2G)
+P0350 [Normal] Do không có thông tin và chưa thu thập được SLHĐ nên chưa tính được phát thải KNK từ các tiểu lĩnh vực từ 2G1 đến 2G4.
+P0351 [Heading 3] Các quá trình công nghiệp và sử dụng sản phẩm khác (2H)
+P0352 [Normal] Do không có thông tin và chưa thu thập được SLHĐ nên chưa tính được phát thải KNK từ các tiểu lĩnh vực từ 2H1 đến 2H3.
+P0353 [Heading 1] Kết luận và kiến nghị
+P0354 [Normal] Các cải thiện so với kỳ kiểm kê KNK quốc gia kỳ trước
+P0355 [Hue] Kiểm kê quốc gia KNK năm 2021 và 2022 trong lĩnh vực IPPU đã có những cải thiện so với các kỳ kiểm kê trước về số liệu hoạt động cũng như phương pháp luận sử dụng, cụ thể như sau:
+P0356 [Hue] - Áp dụng HSPT đặc trưng quốc gia trong sản xuất sắt thép; sản xuất vôi; sản xuất thủy tinh
+P0357 [Hue] - Thu thập số liệu và ước tính phát thải KNK từ quá trình sử dụng cacbonat trong sản xuất gạch nung;
+P0358 [Hue] - Một số tiểu lĩnh vực đã thu thập và sử dụng số liệu hoạt động từ dưới lên với mức độ chi tiết đến từng cơ sở sản xuất: sản xuất amoniac, sản xuất axit nitric;
+P0359 [Hue] - Thu thập số liệu và ước tính phát thải KNK từ quá trình sản xuất Silic cacbua
+P0360 [Normal] Khó khăn, tồn tại và khuyến nghị
+P0361 [Normal] Nghiên cứu, xây dựng HSPT đặc trưng quốc gia để tăng tính chính xác cho kết quả kiểm kê KNK và thu thập SLHĐ cho các tiểu lĩnh vực chưa được tính.
+
+=== TABLE 1 (15x2) ===
+R000	BAU	Kịch bản phát triển thông thường
+R001	BOF	Công nghệ lò cơ bản
+R002	EAF	Công nghệ lò hồ quang điện
+R003	EEI	Thông tin xuất khẩu điện tử
+R004	EF	Hệ số phát thải
+R005	GWP	Tiềm năng nóng lên toàn cầu
+R006	IF	Công nghệ lò nung cảm ứng
+R007	IPPU	Quá trình công nghiệp và sử dụng sản phẩm
+R008	KNK	Khí nhà kính
+R009	NE	Không được tính
+R010	NMVOC	Các hợp chất hữu cơ dễ bay hơi không mêtan
+R011	NO	Không xảy ra
+R012	ODS	Các chất làm suy giảm ôzôn
+R013	ODU	Hệ số oxi hóa trong quá trình sử dụng
+R014	UNIDO	Tổ chức Phát triển Công nghiệp Liên Hợp Quốc
+
+=== TABLE 2 (19x2) ===
+R000	Al2O3	Nhôm oxide
+R001	BaCO3	Bari cacbonat
+R002	CaCO3	Canxi cacbonat
+R003	CaCO3.MgCO3	Đôlômit
+R004	CaO	Vôi
+R005	CaO.MgO	Vôi sống đôlômit
+R006	CH4	Mêtan
+R007	CO	Cacbon monoxide
+R008	CO2	Cacbon dioxide
+R009	HFCs	Fluorinated hydrocarbon
+R010	K2CO3	Kali cacbonat
+R011	N2O	Dinitơ monoxide
+R012	Na2CO3	Tro
+R013	NMVOCs	Các hợp chất hữu cơ dễ bay hơi không mêtan
+R014	NOx	Các hợp chất oxit nitơ
+R015	PFCs	Perfluorinated hydrocarbon
+R016	SF6	Sulphur hexafluoride
+R017	SO2	Lưu huỳnh dioxide
+R018	SrCO3	Stronti cacbonat
+
+=== TABLE 3 (35x8) ===
+R000	Mã IPCC	Nguồn phát thải	CO2	CH4	N2O	HFCs	Tổng	Tỷ trọng
+R001	Mã IPCC	Nguồn phát thải	Nghìn tấn CO2tđ	Nghìn tấn CO2tđ	Nghìn tấn CO2tđ	Nghìn tấn CO2tđ	Nghìn tấn CO2tđ	%
+R002	2	IPPU	79.816,30	19,49	31,80	9.766,64	89.634,22	100.00
+R003	2A	Công nghiệp khoáng sản	46.687,98	0	0	0	46.687,98	52,09
+R004	2A1	Quá trình sản xuất xi măng	43.674,17				43.674,17	48,72
+R005	2A2	Quá trình sản xuất vôi	1.734,16				1.734,16	1,93
+R006	2A3	Quá trình sản xuất thủy tinh	577,40				577,40	0,64
+R007	2A4	Các hoạt động sử dụng cacbonat khác	702,25				702,25	0,78
+R008	2A5	Các quá trình công nghiệp khoáng sản khác	NE	NE	NE	NE	NE	NE
+R009	2B	Công nghiệp hóa chất	2.203,97	19,488	31,8	0	2.255,26	2,32
+R010	2B1	Quá trình sản xuất Amoniac	2.046,77				2.046,77	2,28
+R011	2B2	Quá trình sản xuất axit Nitric			31,80		31,80	0,04
+R012	2B3	Sản xuất axit adipic	NO	NO	NO	NO	NO	NO
+R013	2B5	Sản xuất Silic cacbua	157,20	19,49			176,69	
+R014	2B6	Sản xuất titanium dioxide	NO	NO	NO	NO	NO	NO
+R015	2B7	Sản xuất Soda Ash	NO	NO	NO	NO	NO	NO
+R016	2B8	Hóa dầu và sản xuất muội than	NO	NO	NO	NO	NO	NO
+R017	2B9	Sản xuất hóa chất huỳnh quang	NO	NO	NO	NO	NO	NO
+R018	2B10	Sản xuất công nghiệp hóa chất khác	NE					
+R019	2B10	Sản xuất công nghiệp hóa chất khác	NE	NE	NE	NE	NE	NE
+R020	2C	Luyện kim	30.863,82	0	0	0	30.863,82	34,43
+R021	2C1	Quá trình sản xuất sắt thép	30.863,82				30.863,82	34,43
+R022	2C2	Sản xuất hợp kim chứa sắt	NO	NO	NO	NO	NO	NO
+R023	2C3	Sản xuất nhôm	NO	NO	NO	NO	NO	NO
+R024	2C4	Sản xuất magnesium	NO	NO	NO	NO	NO	NO
+R025	2C5	Sản xuất chì	NO	NO	NO	NO	NO	NO
+R026	2C6	Sản xuất kẽm	NO	NO	NO	NO	NO	NO
+R027	2D	Các sản phẩm phi năng lượng từ nhiên liệu và sử dụng dung môi	60,53	0	0	0	60,53	0.54
+R028	2D1	Sử dụng chất bôi trơn	60,53				60,53	0,07
+R029	2D2	Sử dụng sáp paraphin	-				-	-
+R030	2D3	Sử dụng dung môi	NO	NO	NO	NO	NO	NO
+R031	2D4	Sử dụng các hóa chất khác	NE	NE	NE	NE	NE	NE
+R032	2E	Công nghiệp điện tử	NO	NO	NO	NO	NO	NO
+R033	2F	Sử dụng sản phẩm thay thế cho các chất làm suy giảm tầng ô-dôn				9.766,64	9.766,64	10,90
+R034	2G	Sản xuất và sử dụng các sản xuất các khác	NE	NE	NE	NE	NE	NE
+
+=== TABLE 4 (35x8) ===
+R000	Mã IPCC	Nguồn phát thải	CO2	CH4	N2O	HFCs	Tổng	Tỷ trọng
+R001	Mã IPCC	Nguồn phát thải	Nghìn tấn CO2tđ	Nghìn tấn CO2tđ	Nghìn tấn CO2tđ	Nghìn tấn CO2tđ	Nghìn tấn CO2tđ	%
+R002	2	IPPU	70.676,96	19,49	31,80	10.728,09	81.456,33	100.00
+R003	2A	Công nghiệp khoáng sản	44.411,86	-	-	-	44.411,86	54,52
+R004	2A1	Quá trình sản xuất xi măng	41.483,03				41.483,03	50,93
+R005	2A2	Quá trình sản xuất vôi	1.769,55				1.769,55	2,17
+R006	2A3	Quá trình sản xuất thủy tinh	592,14				592,14	0,73
+R007	2A4	Các hoạt động sử dụng cacbonat khác	567,14				567,14	0,70
+R008	2A5	Các quá trình công nghiệp khoáng sản khác	NE	NE	NE	NE	NE	NE
+R009	2B	Công nghiệp hóa chất	2.246,67	19,49	31,80	-	2.297,96	2,60
+R010	2B1	Quá trình sản xuất Amoniac	2.089,47				2.089,47	2,57
+R011	2B2	Quá trình sản xuất axit Nitric			31,80		31,80	0,04
+R012	2B3	Sản xuất axit adipic	NO	NO	NO	NO	NO	NO
+R013	2B5	Sản xuất Silic cacbua	157,20	19,49			176,69	
+R014	2B6	Sản xuất titanium dioxide	NO	NO	NO	NO	NO	NO
+R015	2B7	Sản xuất Soda Ash	NO	NO	NO	NO	NO	NO
+R016	2B8	Hóa dầu và sản xuất muội than	NO	NO	NO	NO	NO	NO
+R017	2B9	Sản xuất hóa chất huỳnh quang	NO	NO	NO	NO	NO	NO
+R018	2B10	Sản xuất công nghiệp hóa chất khác	NE					
+R019	2B10	Sản xuất công nghiệp hóa chất khác	NE	NE	NE	NE	NE	NE
+R020	2C	Luyện kim	23.962,42	-	-	-	23.962,42	29,42
+R021	2C1	Quá trình sản xuất sắt thép	23.962,42				23.962,42	29,42
+R022	2C2	Sản xuất hợp kim chứa sắt	NO	NO	NO	NO	NO	NO
+R023	2C3	Sản xuất nhôm	NO	NO	NO	NO	NO	NO
+R024	2C4	Sản xuất magnesium	NO	NO	NO	NO	NO	NO
+R025	2C5	Sản xuất chì	NO	NO	NO	NO	NO	NO
+R026	2C6	Sản xuất kẽm	NO	NO	NO	NO	NO	NO
+R027	2D	Các sản phẩm phi năng lượng từ nhiên liệu và sử dụng dung môi	56,00	-	-	-	56,00	0,07
+R028	2D1	Sử dụng chất bôi trơn	56,00				56,00	0,07
+R029	2D2	Sử dụng sáp paraphin	-				-	-
+R030	2D3	Sử dụng dung môi	NO	NO	NO	NO	NO	NO
+R031	2D4	Sử dụng các hóa chất khác	NE	NE	NE	NE	NE	NE
+R032	2E	Công nghiệp điện tử	NO	NO	NO	NO	NO	NO
+R033	2F	Sử dụng sản phẩm thay thế cho các chất làm suy giảm tầng ô-dôn				10.728,09	10.728,09	13,17
+R034	2G	Sản xuất và sử dụng các sản xuất các khác	NE	NE	NE	NE	NE	NE
+
+=== TABLE 5 (4x2) ===
+R000		Sản lượng xi măng
+R001		(Đơn vị: 1.000 tấn)
+R002	2021	
+R003	2022	
+
+=== TABLE 6 (4x2) ===
+R000		Sản lượng clinker
+R001		(Đơn vị: 1.000 tấn)
+R002	2021	
+R003	2022	
+
+=== TABLE 7 (5x4) ===
+R000	Hệ số	Giá trị	Đơn vị	Nguồn
+R001	Hệ số tỷ lệ	0,785	Tấn CO2/tấn CaO	Tỷ lệ khối lượng phân tử giữa CO2 và CaO
+R002	Hàm lượng CaO/clinker	0,65	Tấn CaO/tấn clinker	Quyết định 2626/QĐ-BTNMT 2022 Danh mục hệ số phát thải phục vụ kiểm kê KNK
+R003	Hệ số hiệu chỉnh CKD	1,02		Quyết định 2626/QĐ-BTNMT 2022 Danh mục hệ số phát thải phục vụ kiểm kê KNK
+R004	EFcl	0,525	Tấn CO2/tấn clinker	Quyết định 2626/QĐ-BTNMT 2022 Danh mục hệ số phát thải phục vụ kiểm kê KNK
+
+=== TABLE 8 (2x3) ===
+R000	Năm	2021	2022
+R001	Sản lượng vôi có độ canxi cao / (tấn)	2..000	2.350.000
+
+=== TABLE 9 (2x3) ===
+R000	Đơn vị tính	2021	2022
+R001	Triệu m2	2	2
+
+=== TABLE 10 (2x3) ===
+R000	Đơn vị	Sản lượng 2021	Sản lượng 2022
+R001	Triệu m2		
+
+=== TABLE 11 (3x3) ===
+R000	Đơn vị (nghìn tấn)	Sản lượng 2021	Sản lượng 2022
+R001	Khối lượng nguyên liệu (đất sét)		
+R002	Lượng cacbonat (6%)		
+
+=== TABLE 12 (2x3) ===
+R000	Đơn vị	Sản lượng 2021	Sản lượng 2022
+R001	Triệu viên	12.801,00	11.085,00
+
+=== TABLE 13 (3x3) ===
+R000	Đơn vị (nghìn tấn)	Sản lượng 2021	Sản lượng 2022
+R001	Khối lượng nguyên liệu (đất sét)		
+R002	Lượng cacbonat (6%)		
+
+=== TABLE 14 (3x2) ===
+R000	Năm	Sản lượng Amoniac (tấn)
+R001	2021	
+R002	2022	
+
+=== TABLE 15 (4x5) ===
+R000	Năm	Sản lượng U-rê (tấn)	Sản lượng U-rê (tấn)	Sản lượng U-rê (tấn)	Sản lượng U-rê (tấn)
+R001	Năm	Hà Bắc	Ninh Bình	Phú Mỹ	Cà Mau
+R002	2021				
+R003	2022				
+
+=== TABLE 16 (3x4) ===
+R000	Năm	Amoniac sản xuất từ than (partial oxidation) tấn	Amoniac sản xuất từ khí tự nhiên (steam reforming) tấn	Tổng sản lượng U-rê (tấn)
+R001	2021			
+R002	2022			
+
+=== TABLE 17 (4x4) ===
+R000	Công nghệ	Loại nhiên liệu	FR	Nguồn
+R001	Công nghệ	Loại nhiên liệu	GJ/tấn NH3	Nguồn
+R002	Ôxy hóa một phần	Than	42,5	Bảng 3.1, trang 3.15, Chương 3, Phần 3, IPCC 2006
+R003	Chế biến khí	Khí tự nhiên	37,5	Bảng 3.1, trang 3.15, Chương 3, Phần 3, IPCC 2006
+
+=== TABLE 18 (4x5) ===
+R000	Công nghệ	Loại nhiên liệu	CCF	COF	Nguồn
+R001	Công nghệ	Loại nhiên liệu	kg C/GJ	COF	Nguồn
+R002	Ôxy hóa một phần	Than	21	1	Bảng 1.3, trang 1.21-22 và Bảng 1.4, trang 1.23-24, Chương 1, Phần 2, IPCC 2006
+R003	Chế biến khí	Khí tự nhiên	15,3	1	Bảng 1.3, trang 1.21-22 và Bảng 1.4, trang 1.23-24, Chương 1, Phần 2, IPCC 2006
+
+=== TABLE 19 (3x5) ===
+R000		NMVOC	CO	SO2	Nguồn
+R001		kg/tấn sản phẩm	kg/tấn sản phẩm	kg/tấn sản phẩm	Nguồn
+R002	HSPT	4,7	7,9	0,03	Bảng 2-6, trang 2.17, Chương 2, Phần 3, IPCC 1996 sửa đổi
+
+=== TABLE 20 (8x6) ===
+R000	Năm	Sản lượng Amoniac (A)	Nhiên liệu tiêu thụ cho sản xuất Amoniac (B)	Hàm lượng các-bon trong nhiên liệu (C)	Hệ số ô-xi hóa các-bon trong nhiên liệu (D)	CO2 phát sinh (E)
+R001		(tấn)	(GJ/tấn)	(kg C/GJ)	(%)	(nghìn tấn CO2)
+R002	Amoniac sản xuất từ than (partial oxidation)	Amoniac sản xuất từ than (partial oxidation)	Amoniac sản xuất từ than (partial oxidation)	Amoniac sản xuất từ than (partial oxidation)	Amoniac sản xuất từ than (partial oxidation)	E = A * B * C * D * 44/12/10^6
+R003	2021		42,5	21	1	
+R004	2022		42,5	21	1	
+R005	Amoniac sản xuất từ khí (steam reforming)	Amoniac sản xuất từ khí (steam reforming)	Amoniac sản xuất từ khí (steam reforming)	Amoniac sản xuất từ khí (steam reforming)	Amoniac sản xuất từ khí (steam reforming)	-
+R006	2021		37,5	15,3	1	
+R007	2022		37,5	15,3	1	
+
+=== TABLE 21 (4x3) ===
+R000	Tổng phát thải từ quá trình sản xuất amoniac / (nghìn tấn CO2)	2021	2022
+R001	Amoniac sản xuất từ than (partial oxidation)		
+R002	Amoniac sản xuất từ khí (steam reforming)		
+R003	Tổng		
+
+=== TABLE 22 (4x4) ===
+R000	Năm	Sản lượng U-rê (tấn) / (G)	CO2 sử dụng cho sản xuất U-rê / (nghìn tấn CO2) / (H)	CO2 phát thải / (nghìn tấn CO2) / (I)
+R001			H = G * 44/60/103	I = E   - H
+R002	2021			
+R003	2022			
+
+=== TABLE 23 (5x3) ===
+R000	Tổng phát thải	2021	2022
+R001	CO2		
+R002	MMVOC	7,3	7,
+R003	CO	1	
+R004	SO2		0,05
+
+=== TABLE 24 (4x10) ===
+R000	Năm	2012	2013	2014	2015	2016	2017	2018	2019	2020
+R001	Tổng công suất thiết kế / (nghìn tấn)	25	25	25	185	185	185	185	185	185
+R002	Công suất thực tế, Nhà máy / Z195 / (nghìn tấn)	12	12	12	12	12	12	12	12	12
+R003	Công suất thực tế, nhà máy Micco / (nghìn tấn)	-	-	-	-	1	2	2	2,5	3
+
+=== TABLE 25 (3x3) ===
+R000		Hệ số phát thải	Đơn vị
+R001	Hệ số phát thải CO2	2.62	Tấn CO2/tấn cacbua silic
+R002	Hệ số phát thải CH4	11.6	Kg CH4/tấn cacbua silic
+
+=== TABLE 26 (6x7) ===
+R000	Năm	Sản lượng cacbua silic	Phát thải CO2	Phát thải CO2	Phát thải CH4	Phát thải CH4	Tổng phát thải
+R001	Năm	Sản lượng cacbua silic	Hệ số phát thải CO2	Phát thải CO2	Hệ số phát thải CH4	Phát thải CH4	Phát thải CO2tđ
+R002	Năm	AD	EFCO2	ECO2 = AD*EFCO2/103	EFCH4	ECH4 = AD*EFCH4/106	E=ECO2+ECH4*28
+R003	Năm	tấn	Tấn CO2/tấn SiC	nghìn tấn CO2	kg CH4/tấn SiC	nghìn tấn CO2	nghìn tấn CO2tđ
+R004	2021	60.000	2,62	157,2	11,6	0,696	176,69
+R005	2022	60.000	2,62	157,2	11,6	0,696	176,69
+
+=== TABLE 27 (4x3) ===
+R000	Sản lượng (nghìn tấn)	Năm 20	Năm 202
+R001	Thép thô sản xuất theo công nghệ BOF		
+R002	Thép thô sản xuất theo công nghệ EAF		
+R003			
+
+=== TABLE 28 (4x3) ===
+R000	Công nghệ sản xuất sắt thép	Hệ số phát thải / (tấn CO2/tấn thép thô)	Nguồn
+R001	Công nghệ BOF	2,47	Quyết định 2626/QĐ-BTNMT
+R002	Công nghệ EAF	0,06	Quyết định 2626/QĐ-BTNMT
+R003			
+
+=== TABLE 29 (5x3) ===
+R000	Phát thải KNK (nghìn tấn)	2021	2022
+R001	Công nghệ BOF		
+R002	Công nghệ EAF		
+R003			
+R004	Tổng		
+
+=== TABLE 30 (2x3) ===
+R000	Năm	2021	2022
+R001	Dầu nhờn (TJ)	4.127,18	3.818,49
+
+=== TABLE 31 (2x3) ===
+R000	Năm	2021	2022
+R001	Phát thải CO2 (nghìn tấn)	60,53	56,00
+
+=== TABLE 32 (2x3) ===
+R000	Năm	2021	2022
+R001	Sáp paraphin (TJ)		
+
+=== TABLE 33 (2x3) ===
+R000	Năm	2021	2022
+R001	Phát thải CO2 (nghìn tấn)		
+
+=== TABLE 34 (20x3) ===
+R000	HFCs	2021	2022
+R001	HFC-23	1.590	550
+R002	HFC-32	1.140.150	867.365
+R003	HFC-125	8.300	4.800
+R004	HFC-134a	1.729.420	2.157.680
+R005	HFC-143a	5.400	-
+R006	HFC-227ea	120.860	220.992
+R007	HFC-236fa	10	-
+R008	HFC-245fa	2.290	5.150
+R009	HFC-365mfc	2.400	7.202
+R010	HFC-404A	495.070	708.093
+R011	HFC-407C	320.700	118.820
+R012	HFC-410A	1.578.470	1.381.970
+R013	HFC-417A	2.265	900
+R014	HFC-448A	452	34.200
+R015	HFC-467A	5.000	-
+R016	HFC-507A	58.680	96.840
+R017	HFC-508B	40	100
+R018	HFC-513A	695	-
+R019	Tổng	5.471.792	5.604.662
+
+=== TABLE 35 (19x2) ===
+R000	HFCs	GWP
+R001	HFC-23	14.800
+R002	HFC-32	675
+R003	HFC-125	3.500
+R004	HFC-134a	1.430
+R005	HFC-143a	4.470
+R006	HFC-227ea	3.220
+R007	HFC-236fa	9.810
+R008	HFC-245fa	1.030
+R009	HFC-365mfc	794
+R010	HFC-404A	3.922
+R011	HFC-407C	1.774
+R012	HFC-410A	2.088
+R013	HFC-417A	2.346
+R014	HFC-448A	1.386
+R015	HFC-467A	1.359
+R016	HFC-507A	3.985
+R017	HFC-508B	6.808
+R018	HFC-513A	629
+
+=== TABLE 36 (20x3) ===
+R000			
+R001	HFC-23	23.532	8.140
+R002	HFC-32	769.601	585.471
+R003	HFC-125	29.050	16.800
+R004	HFC-134a	2.473.071	3.085.482
+R005	HFC-143a	24.138	-
+R006	HFC-227ea	389.169	711.594
+R007	HFC-236fa	98	-
+R008	HFC-245fa	2.359	5.305
+R009	HFC-365mfc	1.906	5.718
+R010	HFC-404A	1.941.665	2.777.141
+R011	HFC-407C	568.922	210.787
+R012	HFC-410A	3.295.845	2.885.553
+R013	HFC-417A	5.314	2.111
+R014	HFC-448A	626	47.394
+R015	HFC-467A	6.794	-
+R016	HFC-507A	233.840	385.907
+R017	HFC-508B	272	681
+R018	HFC-513A	437	-
+R019	Tổng	9.766.639	10.728.086
+
+=== STYLE COUNTS ===
+Normal	130
+Hue	90
+abcd	51
+Bang Hue	32
+Caption	16
+Heading 4	15
+Heading 3	8
+Heading 5	6
+List Paragraph	5
+Heading 1	4
+Binh thuong	4
+Heading 2	2
+
+=== DIRECT FONT COUNTS (characters) ===
+('', None, False, False)	30000
+('', None, True, True)	529
+('', None, False, True)	484
+('', None, True, False)	384
+('', 18.0, True, False)	114
+('Times New Roman', 15.0, True, False)	80
+('Times New Roman', 14.0, True, False)	37
+('', 24.0, True, False)	7
+('Lato', None, False, False)	5
